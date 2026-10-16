@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T07:16:48Z",
+ "updated": "2026-10-16T07:46:26Z",
  "items": [
   {
    "id": "67355868792e532d",
@@ -292,6 +292,18 @@
    "published": "2026-10-16T07:16:48Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "80c9407585831284",
+   "title": "Kocaeli Üniversitesi Hastanesi'nde yangın alarmı paniği! Hastalar da ve personel de endişeli",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc3Rpa0hlX09DN1ZCNVVuX3YxVFk1UVk0ZGR2dkpWWk9zRVZuSXpOUl83VHFtbUFDVURkaVViWWdpWDIyOHpURDJYY0ZlQUZBY3ZGQUp4VmZOOWtmY2hQN1hmMzl6MUJBQjRLc1NKV014TzZtdVJucDhCQzJIVnNGOWdjRk8xSzJPY21QRzhWdWtIWU1oS0ZTRzhOS3F3aF9hSVZqdkNzMVFMYjZJOXNPLWNTNGlvc1R1VmNZcFRsQzUyR2tnMXFIOEZUMWVILWFSdlhPYUh3ONIB3AFBVV95cUxQekQyZFNhd3lCOVNSaXhuODZQdVBGMnpxZ1k0SjZldkVHaGNCNkRCbU92eTZUakJqTFlnQUt1c3FnWmdSVmQxWXVYR1p6YWw4c21jMmV6OC1pRlZoS29SMVZlbkdSX3dwRk5ibXFiNTM4V1lMOVVuaFdkckxRUFBRX20tb29kdmVWVWY0NXZwZ0otcjRybmJLYTQxV0tKSXFrRUJ4U1hEVHQ1eV81ZnUtZjNPbGNpQVhxZ2wzR1c1d3NCTE11NktLVjdkdGNUS3M0aE5DaFFmYzB5RXNB?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-10-16T07:06:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "eb3da6dd148995f6",
