@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:55:35Z",
+ "updated": "2026-10-16T09:26:47Z",
  "items": [
   {
    "id": "4211894d18e3cea4",
@@ -22,6 +22,18 @@
    "published": "2026-10-16T08:15:40Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "61e1d3050f082332",
+   "title": "Kocaeli Üniversitesi Hastanesi’nde yangın alarmı paniği",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2JjVlhUNE9tandVQXpWUkFONk9GNkNRczQtU09faV9rbFNWWGw4djRyTVU3VWQtcWxjMkhkNmpnZVdlY2xjcFNIZE9kWDRkbEItd2dSR2QwTHowdkRZd2RzZ0VldzRRWlo2TWpaSHBEM0pIeDk4RnhyTDduWjFVbkJrUExuZmRxWE5VYTgwTFpOSFFOWkZ0WURYbWlZbGRDbG94MNIBqgFBVV95cUxQWUFJbUdHUF9OMTh1clMtUkYxazljRVNSbUFYOWpKYlJTNzYwWmo5NmdvMGw1MllYUS1rNUNuenpTTHRROF9WYnMycnRRM2JYMnYwUDNDSEVNTE5uNk1nZHhMZGs1M0lkczU1TVhReGNyME1aQnFyeUd5UW9peENaQmNSaks3c1p6TGRUSFdnRExEUS1TWHJwZGMxYUNEUTZjd1BkeXROS3lUUQ?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-16T07:36:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "3897582a8218edec",
