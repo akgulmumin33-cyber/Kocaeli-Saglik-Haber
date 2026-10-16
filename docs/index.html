@@ -1,0 +1,537 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F4F6F7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0E1416" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Hastane Haber">
+<meta name="description" content="Kocaeli genelindeki hastanelerle ilgili güncel haberler">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<title>Kocaeli Hastane Haberleri</title>
+<style>
+  :root {
+    --bg: #F4F6F7;
+    --surface: #FFFFFF;
+    --surface-2: #E9EEF0;
+    --text: #12191C;
+    --text-2: #5B6870;
+    --line: #E1E6E9;
+    --accent: #00708F;
+    --accent-soft: rgba(0, 112, 143, 0.11);
+    --unread: #00708F;
+    --star: #E5A100;
+    --warn: #B85C00;
+    --radius: 14px;
+    --header-bg: rgba(244, 246, 247, 0.86);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0E1416;
+      --surface: #172023;
+      --surface-2: #222D31;
+      --text: #ECF1F3;
+      --text-2: #98A6AD;
+      --line: #263236;
+      --accent: #45B8D6;
+      --accent-soft: rgba(69, 184, 214, 0.15);
+      --unread: #45B8D6;
+      --star: #F2C14E;
+      --warn: #F0A050;
+      --header-bg: rgba(14, 20, 22, 0.86);
+    }
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; background: var(--bg); color: var(--text); }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+    font-size: 16px; line-height: 1.4;
+    padding-bottom: env(safe-area-inset-bottom);
+    overscroll-behavior-y: contain;
+  }
+  button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+  a { color: inherit; text-decoration: none; }
+  [hidden] { display: none !important; }
+
+  /* Başlık */
+  .top {
+    position: sticky; top: 0; z-index: 10;
+    padding: calc(env(safe-area-inset-top) + 10px) 16px 8px;
+    background: var(--header-bg);
+    -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 0.5px solid var(--line);
+  }
+  .title-row { display: flex; align-items: center; gap: 4px; }
+  .title-row h1 { flex: 1; margin: 0; font-size: 28px; font-weight: 750; letter-spacing: -0.02em; }
+  .icon-btn {
+    width: 40px; height: 40px; border-radius: 20px;
+    display: grid; place-items: center; color: var(--accent);
+  }
+  .icon-btn:active { background: var(--accent-soft); }
+  .icon-btn svg { width: 22px; height: 22px; }
+  .icon-btn.on { color: var(--star); }
+  .spin svg { animation: spin 0.8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .search {
+    margin-top: 8px; display: flex; align-items: center; gap: 8px;
+    background: var(--surface-2); border-radius: 11px; padding: 0 10px; height: 38px;
+  }
+  .search svg { width: 17px; height: 17px; color: var(--text-2); flex: none; }
+  .search input {
+    flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; color: var(--text);
+    font: inherit; font-size: 16px; height: 100%;
+  }
+  .search input::placeholder { color: var(--text-2); }
+
+  .chips {
+    display: flex; gap: 8px; overflow-x: auto; margin: 10px -16px 2px; padding: 0 16px 2px;
+    scrollbar-width: none;
+  }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: none; padding: 7px 13px; border-radius: 999px; font-size: 14px; white-space: nowrap;
+    background: var(--surface-2); color: var(--text);
+  }
+  .chip.on { background: var(--accent); color: #fff; font-weight: 600; }
+
+  /* Liste */
+  main { padding: 10px 16px 32px; max-width: 760px; margin: 0 auto; }
+  .banner {
+    display: flex; gap: 12px; align-items: flex-start;
+    background: var(--surface); border-radius: var(--radius); padding: 14px; margin-bottom: 12px;
+    border: 1px solid var(--line); font-size: 15px;
+  }
+  .banner .b-icon { font-size: 22px; line-height: 1.1; }
+  .banner .b-body { flex: 1; }
+  .banner strong { display: block; margin-bottom: 2px; }
+  .banner .b-close { color: var(--text-2); font-size: 20px; line-height: 1; padding: 0 2px; }
+  .btn {
+    display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    height: 46px; padding: 0 18px; border-radius: 12px; font-weight: 600; font-size: 16px;
+    background: var(--accent); color: #fff; width: 100%;
+  }
+  .btn.small { height: 36px; width: auto; font-size: 15px; margin-top: 10px; }
+  .btn.secondary { background: var(--accent-soft); color: var(--accent); }
+  .btn:active { opacity: 0.8; }
+  .btn svg { width: 19px; height: 19px; }
+  .note { color: var(--warn); font-size: 14px; margin: 0 0 10px; }
+
+  .list { display: flex; flex-direction: column; gap: 10px; }
+  .card {
+    display: flex; gap: 12px; background: var(--surface); border-radius: var(--radius);
+    padding: 13px 14px; border: 1px solid var(--line);
+  }
+  .card:active { background: var(--surface-2); }
+  .card .c-body { flex: 1; min-width: 0; }
+  .meta { display: flex; align-items: center; gap: 6px; font-size: 13px; color: var(--text-2); }
+  .meta .src { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .dot { width: 8px; height: 8px; border-radius: 4px; background: var(--unread); flex: none; }
+  .star { color: var(--star); font-size: 12px; }
+  .card h2 { margin: 4px 0 6px; font-size: 17px; line-height: 1.3; font-weight: 650; }
+  .card.read h2 { font-weight: 450; color: var(--text-2); }
+  .foot { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 13px; color: var(--text-2); }
+  .tag {
+    display: inline-flex; align-items: center; gap: 4px; padding: 3px 8px; border-radius: 999px;
+    background: var(--accent-soft); color: var(--accent); font-size: 12px; font-weight: 600; white-space: nowrap;
+  }
+  .thumb { width: 76px; height: 76px; border-radius: 10px; object-fit: cover; background: var(--surface-2); flex: none; }
+  .empty { text-align: center; color: var(--text-2); padding: 48px 12px; }
+  .empty .e-icon { font-size: 40px; }
+  .empty h3 { color: var(--text); margin: 8px 0 4px; font-size: 18px; }
+  .updated { text-align: center; color: var(--text-2); font-size: 12px; margin-top: 16px; }
+  .ptr {
+    height: 0; overflow: hidden; display: grid; place-items: center; color: var(--text-2); font-size: 13px;
+    transition: height 0.2s;
+  }
+
+  /* Detay */
+  .detail-top { display: flex; align-items: center; gap: 4px; }
+  .back { display: flex; align-items: center; gap: 2px; color: var(--accent); font-size: 17px; height: 40px; padding-right: 8px; }
+  .back svg { width: 22px; height: 22px; }
+  .detail-top .grow { flex: 1; }
+  article { padding: 16px 16px 40px; max-width: 760px; margin: 0 auto; }
+  article .hero { width: 100%; max-height: 260px; object-fit: cover; border-radius: var(--radius); margin-bottom: 14px; background: var(--surface-2); }
+  article h1 { font-size: 25px; line-height: 1.25; margin: 0 0 12px; letter-spacing: -0.01em; }
+  .d-meta { color: var(--text-2); font-size: 15px; display: grid; gap: 3px; margin-bottom: 12px; }
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+  .summary { font-size: 17px; line-height: 1.55; margin: 0 0 20px; white-space: pre-line; }
+  .actions { display: grid; gap: 10px; margin-top: 8px; }
+  .hint { color: var(--text-2); font-size: 13px; margin-top: 12px; }
+
+  .toast {
+    position: fixed; left: 50%; bottom: calc(env(safe-area-inset-bottom) + 20px);
+    transform: translateX(-50%) translateY(20px); opacity: 0; pointer-events: none;
+    background: rgba(20, 28, 31, 0.94); color: #fff; padding: 11px 16px; border-radius: 12px;
+    font-size: 15px; max-width: calc(100% - 32px); width: max-content; transition: all 0.25s; z-index: 50;
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+  .loader { display: grid; place-items: center; padding: 60px 0; color: var(--text-2); gap: 10px; }
+  .loader .ring { width: 28px; height: 28px; border: 3px solid var(--surface-2); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; }
+</style>
+<script src="config.js"></script>
+</head>
+<body>
+
+<!-- Liste görünümü -->
+<div id="list-view">
+  <header class="top">
+    <div class="title-row">
+      <h1>Hastane Haberleri</h1>
+      <button class="icon-btn" id="btn-refresh" aria-label="Yenile">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
+      </button>
+      <button class="icon-btn" id="btn-fav" aria-label="Sadece favoriler">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/></svg>
+      </button>
+    </div>
+    <label class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Haber, hastane veya kaynak ara" autocomplete="off" enterkeyhint="search">
+    </label>
+    <div class="chips" id="chips"></div>
+  </header>
+  <div class="ptr" id="ptr">Bırakınca yenilenecek</div>
+  <main>
+    <div id="banners"></div>
+    <p class="note" id="err" hidden></p>
+    <div class="list" id="list"></div>
+    <div id="empty"></div>
+    <p class="updated" id="updated"></p>
+  </main>
+</div>
+
+<!-- Haber detayı -->
+<div id="detail-view" hidden>
+  <header class="top">
+    <div class="detail-top">
+      <button class="back" id="btn-back">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg>Haberler
+      </button>
+      <span class="grow"></span>
+      <button class="icon-btn" id="btn-dfav" aria-label="Favorilere ekle">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/></svg>
+      </button>
+      <button class="icon-btn" id="btn-dshare" aria-label="Paylaş">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="m7 8 5-5 5 5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg>
+      </button>
+    </div>
+  </header>
+  <article id="article"></article>
+</div>
+
+<div class="toast" id="toast" role="status"></div>
+
+<script type="module">
+const FB = "https://www.gstatic.com/firebasejs/10.14.1/";
+const cfg = self.APP_CONFIG || {};
+const $ = (s) => document.querySelector(s);
+
+/* ---------- kalıcı ayarlar (tarayıcı izin vermezse sessizce atlanır) ---------- */
+const keep = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+};
+
+const state = {
+  items: [], updated: null, loading: false, error: null,
+  read: new Set(keep.get("read", [])),
+  fav: new Set(keep.get("fav", [])),
+  query: "", hospital: null, favOnly: false
+};
+const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const isStandalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+const pushCapable = cfg.pushReady && "Notification" in window && "serviceWorker" in navigator && (isStandalone || !isIOS);
+
+/* ---------- yardımcılar ---------- */
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const rtf = new Intl.RelativeTimeFormat("tr", { numeric: "auto" });
+function ago(iso) {
+  const sec = (new Date(iso) - Date.now()) / 1000;
+  const units = [["year", 31536000], ["month", 2592000], ["week", 604800], ["day", 86400], ["hour", 3600], ["minute", 60]];
+  for (const [u, s] of units) if (Math.abs(sec) >= s) return rtf.format(Math.round(sec / s), u);
+  return "az önce";
+}
+const fullDate = (iso) => new Date(iso).toLocaleString("tr-TR", { day: "numeric", month: "long", year: "numeric", hour: "2-digit", minute: "2-digit" });
+const fold = (s) => String(s || "").toLocaleLowerCase("tr").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ı/g, "i");
+let toastTimer;
+function toast(msg) {
+  const t = $("#toast"); t.textContent = msg; t.classList.add("show");
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove("show"), 3200);
+}
+const saveSets = () => { keep.set("read", [...state.read]); keep.set("fav", [...state.fav]); };
+
+/* ---------- veri ---------- */
+async function load() {
+  if (state.loading) return;
+  state.loading = true; renderHeader();
+  try {
+    const res = await fetch(`news.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    state.items = (data.items || []).sort((a, b) => b.published.localeCompare(a.published));
+    state.updated = data.updated;
+    state.error = null;
+    const ids = new Set(state.items.map((i) => i.id));
+    state.read = new Set([...state.read].filter((id) => ids.has(id) || state.fav.has(id)));
+    saveSets();
+  } catch {
+    state.error = state.items.length
+      ? "Güncellenemedi; kayıtlı haberler gösteriliyor."
+      : "Haberler yüklenemedi. İnternet bağlantınızı kontrol edip yenileyin.";
+  } finally {
+    state.loading = false;
+    render();
+  }
+}
+
+function hospitals() {
+  const n = {};
+  state.items.forEach((i) => (i.hospitals || []).forEach((h) => (n[h] = (n[h] || 0) + 1)));
+  return Object.keys(n).sort((a, b) => n[b] - n[a] || a.localeCompare(b, "tr"));
+}
+
+function filtered() {
+  const q = fold(state.query.trim());
+  return state.items.filter((i) => {
+    if (state.favOnly && !state.fav.has(i.id)) return false;
+    if (state.hospital && !(i.hospitals || []).includes(state.hospital)) return false;
+    if (!q) return true;
+    return fold([i.title, i.summary, i.source, ...(i.hospitals || [])].join(" ")).includes(q);
+  });
+}
+
+/* ---------- liste ---------- */
+function renderHeader() {
+  $("#btn-refresh").classList.toggle("spin", state.loading);
+  $("#btn-fav").classList.toggle("on", state.favOnly);
+  $("#btn-fav svg").setAttribute("fill", state.favOnly ? "currentColor" : "none");
+}
+
+function renderBanners() {
+  const out = [];
+  if (isIOS && !isStandalone && !keep.get("hideInstall", false)) {
+    out.push(`<div class="banner"><div class="b-icon">📲</div><div class="b-body">
+      <strong>Uygulama gibi kullanın</strong>
+      Safari'de alttaki <b>Paylaş</b> düğmesine (kare içinde yukarı ok) dokunun, ardından <b>Ana Ekrana Ekle</b>'yi seçin.
+      Bildirimler yalnızca ana ekrandaki simgeden açıldığında çalışır.</div>
+      <button class="b-close" data-hide="hideInstall" aria-label="Kapat">✕</button></div>`);
+  }
+  if (pushCapable && Notification.permission === "default" && !keep.get("hidePush", false)) {
+    out.push(`<div class="banner"><div class="b-icon">🔔</div><div class="b-body">
+      <strong>Yeni haberlerden haberdar olun</strong>
+      Kocaeli'deki hastanelerle ilgili yeni bir haber çıktığında bildirim alın.
+      <br><button class="btn small" id="btn-push">Bildirimleri aç</button></div>
+      <button class="b-close" data-hide="hidePush" aria-label="Kapat">✕</button></div>`);
+  }
+  $("#banners").innerHTML = out.join("");
+}
+
+function render() {
+  renderHeader();
+  renderBanners();
+  const hs = hospitals();
+  if (state.hospital && !hs.includes(state.hospital)) state.hospital = null;
+  $("#chips").hidden = hs.length === 0;
+  $("#chips").innerHTML = [`<button class="chip ${state.hospital ? "" : "on"}" data-h="">Tümü</button>`]
+    .concat(hs.map((h) => `<button class="chip ${state.hospital === h ? "on" : ""}" data-h="${esc(h)}">${esc(h)}</button>`)).join("");
+
+  const items = filtered();
+  $("#err").hidden = !(state.error && state.items.length);
+  $("#err").textContent = state.error || "";
+
+  $("#list").innerHTML = items.map((i) => {
+    const read = state.read.has(i.id), fav = state.fav.has(i.id);
+    const tag = (i.hospitals || [])[0];
+    return `<a class="card ${read ? "read" : ""}" href="#/haber/${encodeURIComponent(i.id)}">
+      <div class="c-body">
+        <div class="meta">${read ? "" : '<span class="dot" aria-label="Okunmadı"></span>'}<span class="src">${esc(i.source || "Kaynak")}</span>${fav ? '<span class="star">★</span>' : ""}</div>
+        <h2>${esc(i.title)}</h2>
+        <div class="foot">${tag ? `<span class="tag">✚ ${esc(tag)}</span>` : ""}<span>${ago(i.published)}</span></div>
+      </div>
+      ${i.image ? `<img class="thumb" src="${esc(i.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
+    </a>`;
+  }).join("");
+
+  let empty = "";
+  if (!items.length) {
+    if (state.loading && !state.items.length) empty = `<div class="loader"><div class="ring"></div>Haberler yükleniyor…</div>`;
+    else if (state.error && !state.items.length) empty = emptyBox("📡", "Bağlantı sorunu", state.error);
+    else if (state.query) empty = emptyBox("🔍", "Sonuç yok", `“${esc(state.query)}” ile eşleşen haber bulunamadı.`);
+    else if (state.favOnly) empty = emptyBox("⭐", "Favori yok", "Haber sayfasındaki yıldıza dokunarak favorilere ekleyebilirsiniz.");
+    else empty = emptyBox("📰", "Henüz haber yok", "Biraz sonra tekrar bakın veya yenileyin.");
+  }
+  $("#empty").innerHTML = empty;
+  $("#updated").textContent = state.updated && items.length ? `Son güncelleme: ${ago(state.updated)}` : "";
+
+  if (currentId()) renderDetail();
+}
+const emptyBox = (icon, title, text) => `<div class="empty"><div class="e-icon">${icon}</div><h3>${title}</h3><div>${text}</div></div>`;
+
+/* ---------- detay ---------- */
+let pendingTries = 0, pendingTimer;
+const currentId = () => { const m = location.hash.match(/^#\/haber\/(.+)$/); return m ? decodeURIComponent(m[1]) : null; };
+
+function renderDetail() {
+  const id = currentId();
+  const item = state.items.find((i) => i.id === id);
+  const art = $("#article");
+  if (!item) {
+    // Bildirimden gelindiyse haber birkaç saniye içinde listeye düşer; kısa süre tekrar dene
+    if (pendingTries < 6) {
+      art.innerHTML = `<div class="loader"><div class="ring"></div>Haber yükleniyor…</div>`;
+      clearTimeout(pendingTimer);
+      pendingTimer = setTimeout(() => { pendingTries++; load(); }, pendingTries === 0 ? 300 : 10000);
+    } else {
+      art.innerHTML = emptyBox("🗞️", "Haber bulunamadı", "Bu haber listeden kaldırılmış olabilir.");
+    }
+    return;
+  }
+  pendingTries = 0;
+  if (!state.read.has(id)) { state.read.add(id); saveSets(); }
+  const fav = state.fav.has(id);
+  $("#btn-dfav").classList.toggle("on", fav);
+  $("#btn-dfav svg").setAttribute("fill", fav ? "currentColor" : "none");
+  const summary = item.summary && item.summary.trim().toLowerCase() !== item.title.trim().toLowerCase() ? item.summary : "";
+  art.innerHTML = `
+    ${item.image ? `<img class="hero" src="${esc(item.image)}" alt="" onerror="this.remove()">` : ""}
+    <h1>${esc(item.title)}</h1>
+    <div class="d-meta"><span>📰 ${esc(item.source || "Kaynak")}</span><span>🕒 ${fullDate(item.published)}</span></div>
+    ${(item.hospitals || []).length ? `<div class="tags">${item.hospitals.map((h) => `<span class="tag">✚ ${esc(h)}</span>`).join("")}</div>` : ""}
+    ${summary ? `<p class="summary">${esc(summary)}</p>` : ""}
+    <div class="actions">
+      <a class="btn" href="${esc(item.link)}" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3h7v7"/><path d="M10 14 21 3"/><path d="M21 14v5a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5"/></svg>
+        Haberin tamamını oku</a>
+      <button class="btn secondary" data-share>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="m7 8 5-5 5 5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg>
+        Paylaş</button>
+    </div>
+    <p class="hint">Haberin tamamı kaynağın kendi sitesinde açılır.</p>`;
+}
+
+async function share(item) {
+  const data = { title: item.title, text: item.title, url: item.link };
+  if (navigator.share) {
+    try { await navigator.share(data); } catch (e) { if (e.name !== "AbortError") toast("Paylaşılamadı."); }
+    return;
+  }
+  try { await navigator.clipboard.writeText(`${item.title}\n${item.link}`); toast("Bağlantı kopyalandı."); }
+  catch { toast("Paylaşım bu tarayıcıda desteklenmiyor."); }
+}
+
+/* ---------- yönlendirme ---------- */
+let listScroll = 0, cameFromList = false, booted = false;
+function route() {
+  const id = currentId();
+  if (id) {
+    if (!$("#detail-view").hidden) { renderDetail(); return; }
+    cameFromList = booted;
+    listScroll = window.scrollY;
+    $("#list-view").hidden = true; $("#detail-view").hidden = false;
+    pendingTries = 0;
+    renderDetail(); window.scrollTo(0, 0);
+  } else {
+    $("#detail-view").hidden = true; $("#list-view").hidden = false;
+    render(); window.scrollTo(0, listScroll);
+  }
+}
+
+/* ---------- bildirimler ---------- */
+async function enablePush(fromClick) {
+  if (!pushCapable) return;
+  const perm = fromClick ? await Notification.requestPermission() : Notification.permission;
+  if (perm !== "granted") {
+    if (fromClick) toast("İzin verilmedi. Ayarlar › Bildirimler › Hastane Haber'den açabilirsiniz.");
+    renderBanners(); return;
+  }
+  try {
+    const [{ initializeApp }, { getMessaging, getToken, onMessage, isSupported }, { getFirestore, doc, setDoc, serverTimestamp }] =
+      await Promise.all([import(FB + "firebase-app.js"), import(FB + "firebase-messaging.js"), import(FB + "firebase-firestore.js")]);
+    if (!(await isSupported())) { if (fromClick) toast("Bu cihaz bildirimleri desteklemiyor."); return; }
+    const app = initializeApp(cfg.firebase);
+    const registration = await navigator.serviceWorker.ready;
+    const messaging = getMessaging(app);
+    const token = await getToken(messaging, { vapidKey: cfg.vapidKey, serviceWorkerRegistration: registration });
+    if (token && keep.get("pushToken", "") !== token) {
+      try {
+        await setDoc(doc(getFirestore(app), "web_tokens", token),
+          { token, subscribed: false, created: serverTimestamp(), platform: isIOS ? "ios" : "web" });
+      } catch (e) {
+        if (e.code !== "permission-denied") throw e;  // zaten kayıtlıysa sorun değil
+      }
+      keep.set("pushToken", token);
+    }
+    onMessage(messaging, (p) => { toast("🔔 " + ((p.notification && p.notification.body) || "Yeni haber")); load(); });
+    if (fromClick) toast("Bildirimler açıldı. Yeni haber çıkınca haber vereceğiz.");
+  } catch (e) {
+    console.error(e);
+    if (fromClick) toast("Bildirimler açılamadı. Biraz sonra tekrar deneyin.");
+  }
+  renderBanners();
+}
+
+/* ---------- olaylar ---------- */
+$("#btn-refresh").addEventListener("click", load);
+$("#btn-fav").addEventListener("click", () => { state.favOnly = !state.favOnly; render(); });
+$("#q").addEventListener("input", (e) => { state.query = e.target.value; render(); });
+$("#chips").addEventListener("click", (e) => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  const h = b.dataset.h || null;
+  state.hospital = state.hospital === h ? null : h; render();
+});
+$("#banners").addEventListener("click", (e) => {
+  const hide = e.target.closest("[data-hide]");
+  if (hide) { keep.set(hide.dataset.hide, true); renderBanners(); return; }
+  if (e.target.closest("#btn-push")) enablePush(true);
+});
+$("#btn-back").addEventListener("click", () => {
+  if (cameFromList) history.back();   // listeden gelindiyse geri git (kaydırma konumu korunur)
+  else location.hash = "#/";          // bildirimden doğrudan açıldıysa listeye git
+});
+$("#btn-dfav").addEventListener("click", () => {
+  const id = currentId(); if (!id) return;
+  state.fav.has(id) ? state.fav.delete(id) : state.fav.add(id);
+  saveSets(); renderDetail();
+  toast(state.fav.has(id) ? "Favorilere eklendi." : "Favorilerden çıkarıldı.");
+});
+const shareCurrent = () => { const it = state.items.find((i) => i.id === currentId()); if (it) share(it); };
+$("#btn-dshare").addEventListener("click", shareCurrent);
+$("#article").addEventListener("click", (e) => { if (e.target.closest("[data-share]")) shareCurrent(); });
+window.addEventListener("hashchange", route);
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });
+setInterval(() => { if (document.visibilityState === "visible") load(); }, 5 * 60 * 1000);
+
+/* aşağı çekerek yenileme */
+let startY = null;
+const ptr = $("#ptr");
+window.addEventListener("touchstart", (e) => { if (window.scrollY <= 0 && !$("#list-view").hidden) startY = e.touches[0].clientY; }, { passive: true });
+window.addEventListener("touchmove", (e) => {
+  if (startY === null) return;
+  const dy = e.touches[0].clientY - startY;
+  ptr.style.height = dy > 10 ? Math.min(dy * 0.5, 50) + "px" : "0";
+  ptr.textContent = dy > 90 ? "Bırakınca yenilenecek" : "Yenilemek için çekin";
+}, { passive: true });
+window.addEventListener("touchend", (e) => {
+  if (startY === null) return;
+  const dy = (e.changedTouches[0]?.clientY ?? startY) - startY;
+  ptr.style.height = "0"; startY = null;
+  if (dy > 90) load();
+});
+
+/* ---------- başlat ---------- */
+queueMicrotask(() => { booted = true; });
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("./firebase-messaging-sw.js", { scope: "./" }).catch((e) => console.warn("SW:", e));
+}
+route();
+load();
+if (pushCapable && Notification.permission === "granted") enablePush(false);
+</script>
+</body>
+</html>
