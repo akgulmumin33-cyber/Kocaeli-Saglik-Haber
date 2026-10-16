@@ -1,0 +1,21 @@
+{
+  "_aciklama": "Haberleri hastaneye göre etiketlemek için kullanılır. 'ad' uygulamada görünen isimdir, 'anahtarlar' haber metninde aranır (büyük/küçük harf ve Türkçe karakter farkı önemsizdir). Yeni hastane eklemek için aynı biçimde bir satır ekleyin.",
+  "hastaneler": [
+    {"ad": "Kocaeli Şehir Hastanesi", "anahtarlar": ["kocaeli şehir hastanesi", "kocaeli şehir hastanesinde", "kocaeli şehir hastanesine"]},
+    {"ad": "Derince EAH", "anahtarlar": ["derince eğitim ve araştırma", "derince devlet hastanesi", "derince hastanesi", "derince eah"]},
+    {"ad": "KOÜ Hastanesi", "anahtarlar": ["kocaeli üniversitesi hastanesi", "kocaeli üniversitesi araştırma ve uygulama", "koü hastanesi", "kou hastanesi", "umuttepe"]},
+    {"ad": "Darıca Farabi EAH", "anahtarlar": ["darıca farabi", "farabi eğitim ve araştırma", "farabi hastanesi"]},
+    {"ad": "Gebze Fatih Devlet Hastanesi", "anahtarlar": ["gebze fatih", "fatih devlet hastanesi"]},
+    {"ad": "Gölcük Necati Çelik DH", "anahtarlar": ["necati çelik", "gölcük devlet hastanesi"]},
+    {"ad": "Körfez Devlet Hastanesi", "anahtarlar": ["körfez devlet hastanesi"]},
+    {"ad": "SEKA Devlet Hastanesi", "anahtarlar": ["seka devlet hastanesi", "seka hastanesi"]},
+    {"ad": "Karamürsel Devlet Hastanesi", "anahtarlar": ["karamürsel devlet hastanesi"]},
+    {"ad": "Kandıra Devlet Hastanesi", "anahtarlar": ["kandıra devlet hastanesi"]},
+    {"ad": "Çayırova Devlet Hastanesi", "anahtarlar": ["çayırova devlet hastanesi", "çayırova hastanesi"]},
+    {"ad": "Dilovası Devlet Hastanesi", "anahtarlar": ["dilovası devlet hastanesi"]},
+    {"ad": "Kartepe Devlet Hastanesi", "anahtarlar": ["kartepe devlet hastanesi"]},
+    {"ad": "Başiskele Devlet Hastanesi", "anahtarlar": ["başiskele devlet hastanesi"]},
+    {"ad": "Ağız ve Diş Sağlığı", "anahtarlar": ["ağız ve diş sağlığı hastanesi", "ağız ve diş sağlığı merkezi"]},
+    {"ad": "İl Sağlık Müdürlüğü", "anahtarlar": ["il sağlık müdürlüğü", "il sağlık müdürü"]}
+  ]
+}

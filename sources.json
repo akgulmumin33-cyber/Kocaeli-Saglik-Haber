@@ -1,0 +1,31 @@
+{
+  "_aciklama": "Haber kaynakları. google_news: Google Haberler'de aranacak ifadeler. rss: RSS adresi olan siteler. html_list: RSS'i olmayan, haber listesi sayfası olan resmi siteler. 'guvenilir': true olan kaynaklardaki tüm haberler filtresiz alınır.",
+  "google_news": [
+    "Kocaeli hastane",
+    "Kocaeli Şehir Hastanesi",
+    "Derince Eğitim ve Araştırma Hastanesi",
+    "Kocaeli Üniversitesi Hastanesi",
+    "Darıca Farabi Hastanesi",
+    "Gebze Fatih Devlet Hastanesi",
+    "Gölcük Necati Çelik Devlet Hastanesi",
+    "Körfez Devlet Hastanesi",
+    "Kocaeli İl Sağlık Müdürlüğü",
+    "Kocaeli acil servis",
+    "Kocaeli başhekim"
+  ],
+  "rss": [],
+  "html_list": [
+    {
+      "ad": "Kocaeli İl Sağlık Müdürlüğü",
+      "url": "https://kocaeliism.saglik.gov.tr/TR-34556/haberler.html",
+      "link_deseni": "/TR-\\d+/[^\"'#?]+\\.html",
+      "guvenilir": true
+    },
+    {
+      "ad": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+      "url": "https://kocaeliism.saglik.gov.tr/TR-34573/duyurular.html",
+      "link_deseni": "/TR-\\d+/[^\"'#?]+\\.html",
+      "guvenilir": true
+    }
+  ]
+}

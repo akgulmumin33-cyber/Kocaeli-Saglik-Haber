@@ -1,0 +1,15 @@
+rules_version = '2';
+// Firebase konsolu > Firestore Database > Kurallar (Rules) sekmesine bu metni yapıştırıp "Yayınla"ya basın.
+// Web uygulaması yalnızca kendi bildirim anahtarını ekleyebilir; kimse listeyi okuyamaz veya değiştiremez.
+// (GitHub'daki haber botu yönetici anahtarıyla çalıştığı için bu kurallardan etkilenmez.)
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /web_tokens/{token} {
+      allow create: if request.resource.data.keys().hasOnly(['token', 'subscribed', 'created', 'platform'])
+                    && request.resource.data.token == token
+                    && request.resource.data.subscribed == false
+                    && token.size() < 500;
+      allow read, update, delete: if false;
+    }
+  }
+}
