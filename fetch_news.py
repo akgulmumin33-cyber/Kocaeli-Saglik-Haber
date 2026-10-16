@@ -162,10 +162,19 @@ def from_rss(src: dict) -> list[dict]:
 def from_html_list(src: dict) -> list[dict]:
     """RSS'i olmayan resmi sitelerin haber listesi sayfasından başlık + bağlantı çıkarır."""
     page = http_get(src["url"]).text
-    pattern = re.compile(r'<a\b[^>]*href=["\']([^"\']*' + src["link_deseni"] + r')["\'][^>]*>(.*?)</a>', re.S | re.I)
+    pattern = re.compile(r'<a\b([^>]*?)href=["\']([^"\']*' + src["link_deseni"] + r')["\'][^>]*>(.*?)</a>', re.S | re.I)
     list_path = re.sub(r"^https?://[^/]+", "", src["url"])
+    matches = pattern.findall(page)
+    # saglik.gov.tr sitelerinde haber listesindeki bağlantıların id'si sayfa numarasıyla aynıdır
+    # (<a id="395040" href="/TR-395040/...">); menü bağlantılarında bu yoktur. Varsa yalnızca onları al.
+    def is_list_link(attrs: str, href: str) -> bool:
+        num = re.search(r"/TR-(\d+)/", href)
+        aid = re.search(r'\bid=["\'](\d+)["\']', attrs)
+        return bool(num and aid and num.group(1) == aid.group(1))
+    listed = [(h, i) for a, h, i in matches if is_list_link(a, h)]
+    candidates = listed or [(h, i) for _, h, i in matches]
     items, seen = [], set()
-    for href, inner in pattern.findall(page):
+    for href, inner in candidates:
         link = urljoin(src["url"], href)
         title = clean_html(inner).replace("\n", " ")
         if not title:
