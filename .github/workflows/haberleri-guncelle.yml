@@ -1,0 +1,63 @@
+name: Haberleri guncelle
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # her 10 dakikada bir (GitHub yoğunlukta birkaç dakika geciktirebilir)
+  workflow_dispatch:          # Actions sekmesinden elle çalıştırmak için
+
+permissions:
+  contents: write
+
+concurrency:
+  group: haber-guncelleme
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Haberleri topla
+        run: python fetch_news.py --collect
+
+      - name: Değişiklik varsa kaydet
+        id: kaydet
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/news.json
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+            echo "degisti=0" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Haberler güncellendi"
+            git push
+            echo "degisti=1" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Sayfanın yayına girmesini bekle
+        if: steps.kaydet.outputs.degisti == '1'
+        run: |
+          OWNER="${GITHUB_REPOSITORY%%/*}"; NAME="${GITHUB_REPOSITORY#*/}"
+          URL="${SITE_URL:-https://${OWNER,,}.github.io/${NAME}/}news.json"
+          WANT=$(python -c "import json;print(json.load(open('docs/news.json'))['updated'])")
+          for i in $(seq 1 24); do
+            GOT=$(curl -fsSL "$URL?t=$(date +%s)" | python -c "import json,sys;print(json.load(sys.stdin)['updated'])" 2>/dev/null || true)
+            if [ "$GOT" = "$WANT" ]; then echo "Yayında."; exit 0; fi
+            sleep 10
+          done
+          echo "Sayfa 4 dakikada güncellenmedi; bildirim yine de gönderilecek."
+
+      - name: Bildirim gönder
+        run: python fetch_news.py --push-queue
