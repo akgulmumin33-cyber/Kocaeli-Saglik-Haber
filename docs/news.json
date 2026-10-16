@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T09:26:47Z",
+ "updated": "2026-10-16T10:02:31Z",
  "items": [
   {
    "id": "4211894d18e3cea4",
@@ -22,6 +22,18 @@
    "published": "2026-10-16T08:15:40Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "2c7689e2a2e413fb",
+   "title": "KOÜ Hastanesi’nde alarm sorunu çözülemiyor! Arızalı yangın alarmı sık sık devreye giriyor",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbmVDUUM2M3V4emRKeHVjX0dsaE1Fc1BvVmRsSDIzZkZ1WGtDRUo0TEoweFVPcmZSQ0NwRjVyMVVYNVRiaWVXUjVmNjIwUWJtV0MyOVd2N1F3VUtsMFF2LWMxMUc2ZHl1MXdkYXF3VWxiZm9peFZVX0dZc3YwWlppVkRaQUh3bldmR2JRVVgzS25mUmRpLVU4RUFKUVVKaE5BR0U1VnZGVHFyY0VUeGEwRE5hR19QSm5kaGdVbVo2d2VJa3BMTjNCSGJKb094bmPSAdQBQVVfeXFMTm82aEhiQjhvYUFRVklSazVWdGtNOWdvLXEzZnF6TF9Xa1ZiVFZRTnZ4ZWFjcUtGUzBOcThzYXByYnM3UjB0eXhMTmlWSVBJcGxsdEFiTUJTU3FPVmZzR0s1LWZmUUppODUwcFJIYUtWMVhqV3c1RWxXR0hzcWQ4VF9MNnlycUk3cGpTWEZMaW4zaEdOMGhRTENLd1VvdExRQ2FUMkR2TFFrdlV6a0ZYMDR4SkJsVUl4UHgxejI0T2JPNkZUZ3ZfZklBaVpSamNLMXFyUlQ?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-10-16T07:43:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "61e1d3050f082332",
@@ -536,6 +548,16 @@
    "hospitals": []
   },
   {
+   "id": "95d3bbf311827707",
+   "title": "Kocaeli'de o üst geçit ve hastanedeki yürüyen merdivenler 1 ay kapalı olacak! İşte bakıma alınan noktalar",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT1JrRkJIYUZrWGZ6R29LaVVoU0xIaWZKR1BFQ2dFRk1sV0JZVFNiZHhPVVhDQU4ydHlnUU1nOW8xaUl5My1ta3JWX2tjWUtYU1pMUzNLWjZHVmhUb1BCc2pzMWlRRXVGX2wzSFIxUm1UVjNGcEN1c3dWaVlJZWhNeGhqNmFoOXoyVGs3SEpNWHc1ZDNlczdUUjJybzBsUXAycFJQNlllRzRLVHNCNldiNHVjTXppX1l5LXFXNVdjSTMxelNLaEdGbzJtQTVaVERja2x3MlpwdEtjVTlNb2NNMEV3eXM0bTR2Uk5r0gHrAUFVX3lxTFBPUmtGQkhhRmtYZnpHb0tpVWhTTEhpZkpHUEVDZ0VGTWxXQllUU2JkeE9VWENBTjJ0eWdRTWc5bzFpSXkzLW1rclZfa2NZS1hTWkxTM0taNkdWaFRvUEJzanMxaVFFdUZfbDNIUjFSbVRWM0ZwQ3Vzd1ZpWUllaE14aGo2YWg5ejJUazdISk1YdzVkM2VzN1RSMnJvMGxRcDJwUlA2WWVHNEtUc0I2V2I0dWNNemlfWXktcVc1V2NJMzF6U0toR0ZvMm1BNVpURGNrbHcyWnB0S2NVOU1vY00wRXd5czRtNHZSTms?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-14T09:39:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
    "id": "17c6aea392466051",
    "title": "Kocaeli Üniversitesi Hastanesi’nde yeni hizmet: Ücretsiz ve anonim HIV testi",
    "summary": null,
@@ -658,6 +680,16 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLU5QWUV1YWlwbXRyQzZ3d0hxVzEtMTVkZ2hiUFUtMENBRm9nTzByYTM0YW1tLUJHV1dzd3lHcGtVdGZqZlZ3ZzJzRHkwMllUdmxfeDdlSmJkNEpOZF9VcEdxd09FZUc3N1d0VWFabDlIc05jTkZSNmFYYUNtdUQ0ajNhXzFDRXhSWWR1ZGRVbHNNVElmeG9PVXk1YS1ZSURJaENZWHJnSEpld9IBqgFBVV95cUxPLU5QWUV1YWlwbXRyQzZ3d0hxVzEtMTVkZ2hiUFUtMENBRm9nTzByYTM0YW1tLUJHV1dzd3lHcGtVdGZqZlZ3ZzJzRHkwMllUdmxfeDdlSmJkNEpOZF9VcEdxd09FZUc3N1d0VWFabDlIc05jTkZSNmFYYUNtdUQ0ajNhXzFDRXhSWWR1ZGRVbHNNVElmeG9PVXk1YS1ZSURJaENZWHJnSEpldw?oc=5",
    "source": "Mavi Marmara Gazetesi",
    "published": "2026-10-12T08:50:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d3035265a66a5433",
+   "title": "MİLLETVEKİLİ KOCAELİ ÜNİVERSİTE HASTANESİNE DİKKAT ÇEKTİ",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0s5MUl6ZGdSNmtlNXJYUWJmOWF2cVdsNHRoaXJIajNFMDVIV0ZxcU5nRUNFZ1I1eE10QWg0b19YX1dxTERIQ3Nzc2FtR2FWWnd0eWpVN1A2YzI4UXltZEk0Tk1MTGJRMkg5d2pPbjdvVF9GR0tBTXQ4enZKaEJqNEI0S0EzWGotWDF4OVV3X044aGRqcTFIUTBRVTYwRmNvS0R1ai1mTmRPT0k?oc=5",
+   "source": "https://www.omerfarukgergerlioglu.com/",
+   "published": "2026-10-12T08:17:45Z",
    "image": null,
    "hospitals": []
   },
