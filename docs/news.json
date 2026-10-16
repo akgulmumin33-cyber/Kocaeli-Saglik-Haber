@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T14:55:37Z",
+ "updated": "2026-10-16T17:07:57Z",
  "items": [
   {
    "id": "145456b595163f52",
@@ -632,6 +632,18 @@
    "published": "2026-10-14T05:14:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "f2a8cff902c02ed8",
+   "title": "Ağız ve Diş Sağlığı Hastanesi Başhekimi Görevden Alındı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVpJMkFodmFnMTQ4RWFPTVFZRzY2V1JmTUlmMWpPM1kxVXhtcDBreVZFUWJBcDNMTEZtNjlqSWMtOTZzS2E5ejQ2R1RKQUpHX2ZMQmhmZUQ2MzNnYWVRLWJmbkxuNENSNUdVZ2pzQUc4bGVIOVQtZnk5Ylh1UFFLNldwb1Y3eENiQ0Z3Q3F6cVhwWWhyUXhz?oc=5",
+   "source": "Sağlık Personeli Haber Net",
+   "published": "2026-10-13T16:52:00Z",
+   "image": null,
+   "hospitals": [
+    "Ağız ve Diş Sağlığı"
+   ]
   },
   {
    "id": "93e010f9d64c83fb",
