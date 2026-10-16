@@ -1,4 +1,2138 @@
 {
- "updated": "2026-01-01T00:00:00Z",
- "items": []
+ "updated": "2026-10-16T07:10:32Z",
+ "items": [
+  {
+   "id": "d75f0417ceaaa023",
+   "title": "Başkanlar ve Yardımcıları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223336/baskanlar-ve-yardimcilari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "a88d3da8d5ab8322",
+   "title": "Acil Sağlık Hizmetleri",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223337/acil-saglik-hizmetleri.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "864d1e34defddd12",
+   "title": "Halk Sağlığı Hizmetleri",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223339/halk-sagligi-hizmetleri.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "73a49f5f615f635b",
+   "title": "Kamu Hastaneleri Hizmetleri",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223340/kamu-hastaneleri-hizmetleri.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "58d306d32474a0a9",
+   "title": "İlçe Sağlık Müdürlerimiz",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223343/ilce-saglik-mudurlerimiz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "307cdd83203e2d13",
+   "title": "0- Doğrudan Yönetim Bağlı Birimler",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223847/0--dogrudan-yonetim-bagli-birimler.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "db18188550e301b2",
+   "title": "1- Halk Sağlığı Hizmetleri Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223854/1--halk-sagligi-hizmetleri-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b5197d9c8f7585d9",
+   "title": "2- Kamu Hastaneleri Hizmetleri Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223864/2--kamu-hastaneleri-hizmetleri-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "dc8e519127b9eedc",
+   "title": "3- Acil Sağlık Hizmetleri Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223871/3--acil-saglik-hizmetleri-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8c2aef8bde35a97b",
+   "title": "4- Sağlık Hizmetleri Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223877/4---saglik-hizmetleri-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "9e00691bc038222d",
+   "title": "5- Personel Hizmetleri Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223885/5--personel-hizmetleri-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c3162266bcb0e493",
+   "title": "6- Destek Hizmetleri Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-223892/6--destek-hizmetleri-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "f9395b0f2897a08d",
+   "title": "İlçe Sağlık Müdürlüklerimiz",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-242116/ilce-saglik-mudurluklerimiz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "dbff1a5205f5c699",
+   "title": "Devlet Hastanelerimiz",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-168842/devlet-hastanelerimiz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4aa0d61a2f36b7dc",
+   "title": "İl Ambulans Servisi Başhekimliği",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-168844/il-ambulans-servisi-bashekimligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ae3ba8c0edb5e1b2",
+   "title": "1.Basamak Sağlık Tesislerimiz",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-262655/1basamak-saglik-tesislerimiz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ea36c23945b7969b",
+   "title": "Özel Sağlık Tesislerimiz",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-242142/ozel-saglik-tesislerimiz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d0642788950c7da1",
+   "title": "Kuduz Aşısı Uygulanan Hastaneler",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-168886/kuduz-asisi-uygulanan-hastaneler.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "1a135ac808d05f62",
+   "title": "KETEM (Kanser Erken Teşhis, Tarama ve Eğitim Merkezi) ve SHM (Sağlıklı Hayat Merkezi)",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-255921/ketem-kanser-erken-teshis-tarama-ve-egitim-merkezi-ve-shm-saglikli-hayat-merkezi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4a57cbf61b0b4fbc",
+   "title": "Ağız Diş Sağlığı Poliklinikleri, ADSM ve Muayenehaneler",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-386746/agiz-dis-sagligi-poliklinikleri--adsm-ve-muayenehaneler.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6c3df7e049c3f444",
+   "title": "Birim Yapılanması (Süreç Hiyerarşisi) 2026",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-325759/birim-yapilanmasi-surec-hiyerarsisi-2026.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c8b39fa9d861057f",
+   "title": "Yönetim Kararlılık Beyanı (2026 YILI)",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-325807/yonetim-kararlilik-beyani-2026-yili.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6538fcb846db4326",
+   "title": "Genel Bilgilendirme Dosyası (2026 YILI)",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-325803/genel-bilgilendirme-dosyasi-2026-yili.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "2194f1aad3218fe1",
+   "title": "2025-2026 Kamu İç Kontrol Standartlarına Uyum Eylem Planı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-325757/2025-2026-kamu-ic-kontrol-standartlarina-uyum-eylem-plani.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "2f97fc7de4975b72",
+   "title": "Birimler İç Kontrol Çalışmaları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-326163/birimler-ic-kontrol-calismalari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ccf71a872a9f5477",
+   "title": "İş Süreçleri Tanımlama Formları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-380706/is-surecleri-tanimlama-formlari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "330ba84e9e0f7d73",
+   "title": "Sorumluluk Matrisleri",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-380722/sorumluluk-matrisleri.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "13e4e122cf2c87e2",
+   "title": "İç Kontrol -Tanımı - Etik Kurallar - Mevzuat",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-325756/ic-kontrol---tanimi---etik-kurallar---mevzuat.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "bdd32b4f7967d434",
+   "title": "İç Kontrol Elektronik Yayınları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-325802/ic-kontrol-elektronik-yayinlari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6170ae8ee744a63e",
+   "title": "Yayınlar ve Klinik Araştırmalar",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333416/yayinlar-ve-klinik-arastirmalar.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "9e8b70841f3a8fb3",
+   "title": "Yayınlar ve Klinik Araştırmalar İş Akış Şeması",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333417/yayinlar-ve-klinik-arastirmalar-is-akis-semasi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "f43b035c70231a32",
+   "title": "Yayınlar ve Klinik Araştırmalar Dokümanları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333418/yayinlar-ve-klinik-arastirmalar-dokumanlari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "55b511eb0d8be211",
+   "title": "Cumhurbaşkanlığı Kariyer Kapısı Ulusal Staj Programı Kapsamında Yaz Stajına Başvurular",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333421/cumhurbaskanligi-kariyer-kapisi-ulusal-staj-programi-kapsaminda-yaz-stajina-basvurular.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "0ccb01c7b72aee8b",
+   "title": "Cumhurbaşkanlığı Kariyer Kapısı Ulusal Staj Programı Kapsamında Yaz Stajına Başvurular İçin Sık Sorulan Sorular",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333422/cumhurbaskanligi-kariyer-kapisi-ulusal-staj-programi-kapsaminda-yaz-stajina-basvurular-icin-sik-sorulan-sorular.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "3ac329b908b659ca",
+   "title": "Ulusal Staj Programı Kariyer Kapısı ile Yaz Stajı Öğrenci Kabul Yerleştirme Tamamlama Süreci Algoritması",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333423/ulusal-staj-programi-kariyer-kapisi-ile-yaz-staji-ogrenci-kabul-yerlestirme-tamamlama-sureci-algoritmasi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c3ae715914ed4404",
+   "title": "Sertifikalı Eğitim Programları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333428/sertifikali-egitim-programlari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "76a7155e739fe5ec",
+   "title": "2026 Yılı Sertifikalı Eğitim Takvimi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-369393/2026-yili-sertifikali-egitim-takvimi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "56e679016b5f48cc",
+   "title": "2026 Yılı Sertifika Yenileme Eğitim Takvimi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-369395/2026-yili-sertifika-yenileme-egitim-takvimi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "9fdb2ed5fa179b65",
+   "title": "Aday Memur Eğitim Programları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333431/aday-memur-egitim-programlari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b0b8a4f8052f0ccc",
+   "title": "Aday Memur Genel Bilgiler",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333432/aday-memur-genel-bilgiler.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "506c822634495375",
+   "title": "Temel Eğitim Soru Havuzu",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333434/temel-egitim-soru-havuzu.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "5dfe4a980551044f",
+   "title": "Sertifikasız Eğitim Programları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333436/sertifikasiz-egitim-programlari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "361e769280f99a6c",
+   "title": "Eğitim Birimi Dokümanları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-333425/egitim-birimi-dokumanlari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "0f57f06b3304fce2",
+   "title": "Hastam yatalak, tedavi ve kontrolleri için hastaneye gitmesi gerekiyor. Bunun için 112 ambulanslarından hizmet alabilir miyim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203913/hastam-yatalak-tedavi-ve-kontrolleri-icin-hastaneye-gitmesi-gerekiyor-bunun-icin-112-ambulanslarindan-hizmet-alabilir-miyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "45462d13a3acbcf1",
+   "title": "Ambulans Yönetmeliği gereği ambulansımızda bulunması gereken bazı ilaçları ecza depolarından temin edemiyoruz. Ne yapmalıyız?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203914/ambulans-yonetmeligi-geregi-ambulansimizda-bulunmasi-gereken-bazi-ilaclari-ecza-depolarindan-temin-edemiyoruz-ne-yapmaliyiz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8f978c94f3ccc595",
+   "title": "İlkyardım sertifikası ne kadar süre geçerlidir. Güncelleme için ne yapmalıyım?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203915/ilkyardim-sertifikasi-ne-kadar-sure-gecerlidir-guncelleme-icin-ne-yapmaliyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "2a3ccc5b22ef3c28",
+   "title": "İlkyardımcı Sertifikamı kaybettim. Yenisini nasıl çıkartabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203916/ilkyardimci-sertifikami-kaybettim-yenisini-nasil-cikartabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "e1b6312654595350",
+   "title": "Ambulans hizmeti ücretli midir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-377448/ambulans-hizmeti-ucretli-midir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ca2aa5dc23f7977e",
+   "title": "Aile Hekimi mi değiştirmek istiyorum. Nasıl değiştirebilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203919/aile-hekimi-mi-degistirmek-istiyorum-nasil-degistirebilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "f5405b2052d54280",
+   "title": "Aile fertleri farklı aile hekimlerine kayıt yaptırabilir mi ?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203920/aile-fertleri-farkli-aile-hekimlerine-kayit-yaptirabilir-mi-.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "9b80c2f9bccde0e3",
+   "title": "Resmi nikâh yaptırmadan önce sağlık taraması yaptırmam gerekiyor mu ?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203921/resmi-nikah-yaptirmadan-once-saglik-taramasi-yaptirmam-gerekiyor-mu-.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d45560e62c988c15",
+   "title": "İkamet adresime yakın olan Aile Hekimliğine nüfusu 4000'i aştığı için kayıt olamıyorum ne yapabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203922/ikamet-adresime-yakin-olan-aile-hekimligine-nufusu-4000i-astigi-icin-kayit-olamiyorum-ne-yapabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "519b9dfd9113aae5",
+   "title": "Süt Kartımı nasıl alabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203924/sut-kartimi-nasil-alabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "cb87e30b724c0e66",
+   "title": "Aile Planlaması Hizmetlerine nasıl ve nereden ulaşabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203925/aile-planlamasi-hizmetlerine-nasil-ve-nereden-ulasabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8792a6bc077cd401",
+   "title": "Yenidoğan bebeklerde işitme tarama testi ne zaman yapılmalıdır?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203926/yenidogan-bebeklerde-isitme-tarama-testi-ne-zaman-yapilmalidir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "f17acfa6c33ddb75",
+   "title": "İşitme Tarama Testini nerede yaptırabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203927/isitme-tarama-testini-nerede-yaptirabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "43ee8567c3b7cc2f",
+   "title": "Topuk kanı neden alınmaktadır?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203928/topuk-kani-neden-alinmaktadir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "7d667894cae9d5d6",
+   "title": "Yaptırmış olduğum aşım e-nabız sisteminde görünmüyor, ne yapmalıyım?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-272369/yaptirmis-oldugum-asim-e-nabiz-sisteminde-gorunmuyor-ne-yapmaliyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "96c6f3bd995fff15",
+   "title": "Döküntülü Hastalıklar ile karşılaştığımda ne yapmalıyım? (Sağlık çalışanları için)",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-272371/dokuntulu-hastaliklar-ile-karsilastigimda-ne-yapmaliyim-saglik-calisanlari-icin.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b8c9e64d4d6b828d",
+   "title": "Şüpheli bir kızamık vakasıyla karşılaştığımda ne yapmalıyım?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-272372/supheli-bir-kizamik-vakasiyla-karsilastigimda-ne-yapmaliyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "37545b19f64b6ff9",
+   "title": "Kızamık hastalığı nedir? Nasıl bulaşır?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-272373/kizamik-hastaligi-nedir-nasil-bulasir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ee15ac8ad303c4f6",
+   "title": "Kızamık hastalığı için bulaştırıcılık dönemi nedir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-272374/kizamik-hastaligi-icin-bulastiricilik-donemi-nedir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4a5e3f2e85528bec",
+   "title": "Okul kantinlerini denetliyor musunuz?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203930/okul-kantinlerini-denetliyor-musunuz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ca33079601acd885",
+   "title": "Bahçemdeki kuyudan su numunesi aldırmak istiyorum. Ne yapmam gerekiyor?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203931/bahcemdeki-kuyudan-su-numunesi-aldirmak-istiyorum-ne-yapmam-gerekiyor.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "52e746b1e787911e",
+   "title": "Site havuzundan numune aldırmak istiyoruz bunun için ne yapmak gerekiyor?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203932/site-havuzundan-numune-aldirmak-istiyoruz-bunun-icin-ne-yapmak-gerekiyor.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "7ea36a84f5f41171",
+   "title": "Biyosidal Ürün Uygulayıcı eğitimini nerden alabilirim.?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203934/biyosidal-urun-uygulayici-egitimini-nerden-alabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "38120f2edd745a72",
+   "title": "Mesul Müdür Eğitimi ve Mesul Müdür Güncelleme eğitimini nerden alabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203936/mesul-mudur-egitimi-ve-mesul-mudur-guncelleme-egitimini-nerden-alabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c6ef3882777b56d2",
+   "title": "Evde Sağlık Hizmetleri veriyor musunuz, nasıl başvuruda bulunabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203946/evde-saglik-hizmetleri-veriyor-musunuz-nasil-basvuruda-bulunabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "2bef1473b64b3d70",
+   "title": "Hasta Hakları ve Sorumlulukları Nelerdir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203950/hasta-haklari-ve-sorumluluklari-nelerdir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "63271c43fc1de941",
+   "title": "Sağlık Kuruluşları ile İlgili şikâyetlerimi nereye yapabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203951/saglik-kuruluslari-ile-ilgili-sikayetlerimi-nereye-yapabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "f824e1bd259dd2cf",
+   "title": "Başvuru yapıldıktan sonra süreç nasıl işlemektedir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203952/basvuru-yapildiktan-sonra-surec-nasil-islemektedir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8664abe1b0ef829d",
+   "title": "İşyeri Hekimliği onayını kimler alabilir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203954/isyeri-hekimligi-onayini-kimler-alabilir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8fe47a6390ec569d",
+   "title": "İşyeri hekimliği başvuru belgeleri nelerdir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203955/isyeri-hekimligi-basvuru-belgeleri-nelerdir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6e265c93f76ef716",
+   "title": "İşyeri hekimliği sözleşmesi bitince bildirmek gerekir mi?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203956/isyeri-hekimligi-sozlesmesi-bitince-bildirmek-gerekir-mi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ebe17a0b132cc0f2",
+   "title": "İşyeri hekimliği aylık çalışma planını her ay göndermek gerekli midir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203957/isyeri-hekimligi-aylik-calisma-planini-her-ay-gondermek-gerekli-midir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "892e7a412305fc7e",
+   "title": "Her yapılan sözleşmenin bildirilmesi gerekli midir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203958/her-yapilan-sozlesmenin-bildirilmesi-gerekli-midir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ec850a6c8cebc202",
+   "title": "Kanser taramalarımı nerede yaptırabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203960/kanser-taramalarimi-nerede-yaptirabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "dd933cb3647f2bfd",
+   "title": "Hangi kanser taramalarını yapıyorsunuz?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203961/hangi-kanser-taramalarini-yapiyorsunuz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "a0e4c816d2c6b7bb",
+   "title": "Semear testi neden önemlidir ?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203962/semear-testi-neden-onemlidir-.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6b938141074d6536",
+   "title": "Bağırsak kanseri tarama testi nedir, nerede yapılır ve ücretli midir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203963/bagirsak-kanseri-tarama-testi-nedir-nerede-yapilir-ve-ucretli-midir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "83074921f5ef9a60",
+   "title": "Mamografi çektirmek için gerekli şartlar nelerdir ve mamografi çekimi ücretlimidir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203964/mamografi-cektirmek-icin-gerekli-sartlar-nelerdir-ve-mamografi-cekimi-ucretlimidir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "3e41d0f54b8d8bd5",
+   "title": "Hac ve Umre aşıları nerede yapılmaktadır?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203967/hac-ve-umre-asilari-nerede-yapilmaktadir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "680c94700d2783bf",
+   "title": "Okula giden çocuğuma aşı yapılacak mı?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203968/okula-giden-cocuguma-asi-yapilacak-mi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "57d618861160975b",
+   "title": "Çocuğuma flor vernik uygulaması niçin yapılıyor, zararı var mıdır?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203969/cocuguma-flor-vernik-uygulamasi-nicin-yapiliyor-zarari-var-midir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "a411a221e915b32b",
+   "title": "Okulda yapılan işitme taramasından çocuğum geçememiş ne yapabiliriz?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203970/okulda-yapilan-isitme-taramasindan-cocugum-gecememis-ne-yapabiliriz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "2dc2839e2a9a2ce6",
+   "title": "Nakil yapılabilecek doku ve organlar nelerdir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203974/nakil-yapilabilecek-doku-ve-organlar-nelerdir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8275ce7bf632d695",
+   "title": "Her ölümden sonra organlar alınabilir mi?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203975/her-olumden-sonra-organlar-alinabilir-mi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "5204774385beee2a",
+   "title": "Kişi ölmeden organ nakli kararı alınabilir mi?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203976/kisi-olmeden-organ-nakli-karari-alinabilir-mi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "71d3ab9a4d723c41",
+   "title": "Çalışma ve Sosyal Güvenlik Bakanlığı Tarafından Ruhsatlandırılmış Ortak Sağlık Güvenlik Birimim (OSGB) var Gezici Sağlık Aracı/Basit Hizmet Laboratuvarı Hizmeti Sunmak İstiyorum, Nereye Müracaat Etmeliyim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203984/calisma-ve-sosyal-guvenlik-bakanligi-tarafindan-ruhsatlandirilmis-ortak-saglik-guvenlik-birimim-osgb-var-gezici-saglik-aracibasit-hizmet-laboratuvari-hizmeti-sunmak-istiyorum-nereye-muracaat-etmeliyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d03a54c26d279862",
+   "title": "OSGB’m Adına Ruhsatlandırılmış Gezici İSG Aracım/Araçlarımla Kimlere Sağlık Taraması Yapabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203985/osgbm-adina-ruhsatlandirilmis-gezici-isg-aracimaraclarimla-kimlere-saglik-taramasi-yapabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "7164b0add59a3ffe",
+   "title": "Kimler Gezici İSG Hizmeti Verebilir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203986/kimler-gezici-isg-hizmeti-verebilir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6d31cf951b22441c",
+   "title": "Bir Gezici İSG Aracını Hem Röntgen Aracı hemde Odyo+SFT+EKG+Numune Taşıma Aracı olarak kullanabilir miyim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203987/bir-gezici-isg-aracini-hem-rontgen-araci-hemde-odyosftekgnumune-tasima-araci-olarak-kullanabilir-miyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "201406ed94ecfef5",
+   "title": "Gezici İSG Hizmetlerinde kullanmak üzere kiralama yolu ile Gezici İSG Aracı başvurusunda bulunabilir miyim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203988/gezici-isg-hizmetlerinde-kullanmak-uzere-kiralama-yolu-ile-gezici-isg-araci-basvurusunda-bulunabilir-miyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "f1ad7e70f3e54698",
+   "title": "İl Sağlık Müdürlüğüne tahsisli lojmanlara nasıl başvurabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203995/il-saglik-mudurlugune-tahsisli-lojmanlara-nasil-basvurabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
+   "id": "3a41e27d9430b28f",
+   "title": "Lojman Müraacatımın sonucu ne zaman belli olur?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203996/lojman-muraacatimin-sonucu-ne-zaman-belli-olur.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "f1d1c5d6d7fb8452",
+   "title": "İl Sağlık Müdürlüğüne tahsisli lojmanların dolu/boş olanları nereden öğrenebilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203997/il-saglik-mudurlugune-tahsisli-lojmanlarin-dolubos-olanlari-nereden-ogrenebilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
+   "id": "fd32450ea9c5d909",
+   "title": "Kocaeli Valiliği Yemekhanesinde personel öğle yemeği ücreti ne kadardır?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203998/kocaeli-valiligi-yemekhanesinde-personel-ogle-yemegi-ucreti-ne-kadardir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4aa650f0a93a845a",
+   "title": "Kocaeli Valiliği Yemekhanesi yemek fişlerini nasıl temin edebilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-203999/kocaeli-valiligi-yemekhanesi-yemek-fislerini-nasil-temin-edebilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4997b7fe2340b500",
+   "title": "Sağlık Kurulu Raporuna kimler itiraz edebilir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204006/saglik-kurulu-raporuna-kimler-itiraz-edebilir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6537785d62c208b1",
+   "title": "Sağlık Kurulu Raporuna nereden ve nasıl itiraz edilebilir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204007/saglik-kurulu-raporuna-nereden-ve-nasil-itiraz-edilebilir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "0467b1c54443911c",
+   "title": "Sağlık Kurulu Raporu teslim alındıktan sonra, ne kadar süre içerinde itiraz edilebilir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204008/saglik-kurulu-raporu-teslim-alindiktan-sonra-ne-kadar-sure-icerinde-itiraz-edilebilir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4a212e3353547807",
+   "title": "Engelli (erişkin-çözger) Sağlık Kurulu Raporu itiraz süresi geçmesi durumunda, yeni rapor başvurusu nasıl yapılabilir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204009/engelli-eriskin-cozger-saglik-kurulu-raporu-itiraz-suresi-gecmesi-durumunda-yeni-rapor-basvurusu-nasil-yapilabilir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d51230f1f715c0c8",
+   "title": "Sağlık Kurulu Raporlarına itirazı yaptığımda hangi hastaneye sevk edilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204010/saglik-kurulu-raporlarina-itirazi-yaptigimda-hangi-hastaneye-sevk-edilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "1204250d41dcfdf9",
+   "title": "Su satış yeri açmak istiyorum. Nereye müracaat etmem gerekir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204019/su-satis-yeri-acmak-istiyorum-nereye-muracaat-etmem-gerekir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "48770dd547f26f6b",
+   "title": "İlaçlama firmasını nasıl açabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204020/ilaclama-firmasini-nasil-acabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "278697b6227953c1",
+   "title": "İşyeri açmak istiyorum. Sağlık açısından uygun olduğuna dair raporu almak için nereye başvurabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204021/isyeri-acmak-istiyorum-saglik-acisindan-uygun-olduguna-dair-raporu-almak-icin-nereye-basvurabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "87889714901346cd",
+   "title": "Ambalajlı su satışı yapmak istiyorum. Resmi olarak yapmam gereken işlemler nelerdir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204022/ambalajli-su-satisi-yapmak-istiyorum-resmi-olarak-yapmam-gereken-islemler-nelerdir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8cd2b2f9392da38f",
+   "title": "Temiz Havuz Sertifikası almak istiyorum. Ne yapmalıyım?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204023/temiz-havuz-sertifikasi-almak-istiyorum-ne-yapmaliyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "629303a8c03c5ac2",
+   "title": "Staj için nereye başvurabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204027/staj-icin-nereye-basvurabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d722b9034c98c884",
+   "title": "Sürücü belgesi hangi hallerde geri alınır ve süre sonucu teslim alma şartları nelerdir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204029/surucu-belgesi-hangi-hallerde-geri-alinir-ve-sure-sonucu-teslim-alma-sartlari-nelerdir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "430f2ffa8c389bc9",
+   "title": "Başvuru için gereken fotoğraflar biometrik mi olmalı?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204030/basvuru-icin-gereken-fotograflar-biometrik-mi-olmali.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "cff10f5b2d73e6f1",
+   "title": "Geri alma tutanağı (ceza tutanağı) ya da sürücü belgesi detay bilgilerini nereden alabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204031/geri-alma-tutanagi-ceza-tutanagi-ya-da-surucu-belgesi-detay-bilgilerini-nereden-alabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "2ee4d9fcb3abb8c2",
+   "title": "Sürücü belgem 2.kez geri alındı, süre bitiminde belgemi nereden geri alabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204032/surucu-belgem-2kez-geri-alindi-sure-bitiminde-belgemi-nereden-geri-alabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "536de373c176d9e8",
+   "title": "Ceza türüm cihaz red, sürücü davranışlarını geliştirme eğitimi alacak mıyım?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204033/ceza-turum-cihaz-red-surucu-davranislarini-gelistirme-egitimi-alacak-miyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "baec26e102b32808",
+   "title": "Kapalı alanlarda sigara içen şahsa ve sigara içilmesine müsaade eden işletme yetkilisine uygulanan güncel para cezaları ne kadardır?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204037/kapali-alanlarda-sigara-icen-sahsa-ve-sigara-icilmesine-musaade-eden-isletme-yetkilisine-uygulanan-guncel-para-cezalari-ne-kadardir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "89851d12601ed97e",
+   "title": "İşletmede sigara içilmesine müsaade etmiyorum, yine de sigara içilmez uyarı levhası asmalı mıyım?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204038/isletmede-sigara-icilmesine-musaade-etmiyorum-yine-de-sigara-icilmez-uyari-levhasi-asmali-miyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "094f36e92cb28a7a",
+   "title": "Sigarayı nasıl bırakabilirim?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204039/sigarayi-nasil-birakabilirim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "91158e4ee20d8b6d",
+   "title": "Kapalı alanda sigara içilen işletmeleri bildirmek istiyorum, ne yapmalıyım?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204040/kapali-alanda-sigara-icilen-isletmeleri-bildirmek-istiyorum-ne-yapmaliyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c0870280969c62de",
+   "title": "4207 sayılı Kanun kapsamında kapalı alan nedir?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204041/4207-sayili-kanun-kapsaminda-kapali-alan-nedir.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "75ed1f698632f390",
+   "title": "Randevuyu nereden almamız gerekiyor?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204046/randevuyu-nereden-almamiz-gerekiyor.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c1eb03666049978e",
+   "title": "Polikliniğe her başvurduğumuzda muayene ücreti kesiliyor mu?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204047/poliklinige-her-basvurdugumuzda-muayene-ucreti-kesiliyor-mu.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "0952fcccf1099f18",
+   "title": "UMKE başvurusunu nasıl yaparım?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204048/umke-basvurusunu-nasil-yaparim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "9454a7b82223d952",
+   "title": "Kilo vermek istiyorum, ne yapmalıyım?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204049/kilo-vermek-istiyorum-ne-yapmaliyim.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d5e7c36687783bf7",
+   "title": "Daha önceden muayene olmama rağmen kimliğim olmadığı için neden kayıt yaptıramıyorum?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-204050/daha-onceden-muayene-olmama-ragmen-kimligim-olmadigi-icin-neden-kayit-yaptiramiyorum.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "753b8bfe08cfa8d1",
+   "title": "Online Başvuru/Ödeme",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214430/online-basvuruodeme.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "3f98932d723925d1",
+   "title": "1. Online Başvuru Nedir ?",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214455/1-online-basvuru-nedir-.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b94c2f53f22ba92e",
+   "title": "2. Online Başvurular",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214456/2-online-basvurular.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "66fc07b409417525",
+   "title": "2.1. Halk Sağlığı Hizmetleri Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214459/21-halk-sagligi-hizmetleri-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "e4515ad916e9daa7",
+   "title": "2.1.1. Sürücü Davranışlarını Geliştirme Eğitimi (SÜDGE)",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214460/211--surucu-davranislarini-gelistirme-egitimi-sudge.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8f572ff7c14638af",
+   "title": "2.2. Halk Sağlığı Hizmetleri Başkanlığı - Çevre Sağlığı Birimi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214461/22-halk-sagligi-hizmetleri-baskanligi---cevre-sagligi-birimi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "80654cb6f76d7756",
+   "title": "2.2.1. Temiz Havuz Belgesi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214462/221-temiz-havuz-belgesi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "64572209a7ae155a",
+   "title": "2.2.2. Defter ve Benzeri Her Türlü Belge Tanzim ve Onayı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214463/222--defter-ve-benzeri-her-turlu-belge-tanzim-ve-onayi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4599af216aa05cf5",
+   "title": "2.2.3. Su Numune Alma Hizmet Bedeli",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214464/223-su-numune-alma-hizmet-bedeli.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "569bb27d3cbcf94f",
+   "title": "2.2.4. İl İnceleme Kurulu Hizmet Bedeli (Kaynak, İçme, Doğal Mineralli Sular ile Kaplıca ve Talassoterapi Suları ve Peloid Üretim Yerleri için)",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214465/224---il-inceleme-kurulu-hizmet-bedeli-kaynak-icme-dogal-mineralli-sular-ile-kaplica-ve-talassoterapi-sulari-ve-peloid-uretim-yerleri-icin.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "fdfafacb6912f423",
+   "title": "2.2.5. Su Satış Yerleri İçin Düzenlenen Yetki Belgesi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214466/225--su-satis-yerleri-icin-duzenlenen-yetki-belgesi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8ce9709a74037e13",
+   "title": "2.2.6. Ambalajlı Su Satış veya Nakil Araçları İçin Yetki Belgesi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214467/226--ambalajli-su-satis-veya-nakil-araclari-icin-yetki-belgesi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "a1eb644d3f34d68a",
+   "title": "2.2.7. Ambalajlı Su Satış veya Nakil Araçları İçin Yetki Belgesinde Yenileme",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214468/227--ambalajli-su-satis-veya-nakil-araclari-icin-yetki-belgesinde-yenileme.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8760a42079726bb9",
+   "title": "2.2.8. Her Türlü Mesul Müdürlük Belgesi (Su İşletmeleri, Kaplıca, Talasso Terapi Ve Peloid Üretim Yerleri İle Biyosidal Ürün Uygulayıcıları İçin)",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214469/228--her-turlu-mesul-mudurluk-belgesi-su-isletmeleri-kaplica-talasso-terapi-ve-peloid-uretim-yerleri-ile-biyosidal-urun-uygulayicilari-icin.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "32d96ded13240d4c",
+   "title": "2.2.9. Su Satış Yerleri İçin Düzenlenen Yetki Belgesine Ek İmla Şekli İlavesi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214470/229--su-satis-yerleri-icin-duzenlenen-yetki-belgesine-ek-imla-sekli-ilavesi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4acf30c5d5bdb06d",
+   "title": "2.2.10. Tankerle İçme- Kullanma Suyu Temin/Nakil İzin Belgesi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214471/2210--tankerle-icme--kullanma-suyu-teminnakil-izin-belgesi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c43b47528ff78825",
+   "title": "2.3. Destek Hizmetleri Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214475/23-destek-hizmetleri-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c7771036d4d7bbba",
+   "title": "2.3.1. İhale Doküman Satış Bedeli",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214476/231-ihale-dokuman-satis-bedeli.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "12967355bfb95fec",
+   "title": "2.4. Personel Hizmetleri Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214477/24-personel-hizmetleri-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "396042f586767a29",
+   "title": "2.4.1. Kurum Personeli Yemek Ödemeleri",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214478/241-kurum-personeli-yemek-odemeleri.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ebedda8066ef5606",
+   "title": "2.5. Sağlık Hizmetleri İlaç ve Tıbbi Cihaz Başkanlığı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214479/25-saglik-hizmetleri-ilac-ve-tibbi-cihaz-baskanligi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "432a42b739d74f3c",
+   "title": "2.5.1. Özel Hastane Ruhsatlandırma Başvuru ve Ruhsata Esas Belgeler, Başvurunun İncelenmesi ve Ruhsatlandırma",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214480/251-ozel-hastane-ruhsatlandirma-basvuru-ve-ruhsata-esas-belgeler-basvurunun-incelenmesi-ve-ruhsatlandirma.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "62fcc040a087ebf8",
+   "title": "4. Aile Hekimleri e-imza Online Ödeme",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-214482/4-aile-hekimleri-e-imza-online-odeme.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "67355868792e532d",
+   "title": "Kocaeli İl Sağlık Müdürümüz Op. Dr. Yüksel Pehlevan başkanlığında, ilimiz genelindeki kamu hastaneleri ile ağız ve diş sağlığı merkezlerinin başhekimlerinin katılımıyla “Başhekimler Değerlendirme ve Paylaşım Toplantısı” gerçekleştirildi.",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-395259/kocaeli-il-saglik-mudurumuz-op-dr-yuksel-pehlevan-baskanliginda-ilimiz-genelindeki-kamu-hastaneleri-ile-agiz-ve-dis-sagligi-merkezlerinin-bashekimlerinin-katilimiyla-bashekimler-degerlendirme-ve-paylasim-toplantisi-gerceklestirildi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
+   "id": "de9b227c35694e9b",
+   "title": "TÜGVA Kocaeli İl Temsilcisi Mustafa Salın’dan İl Sağlık Müdürümüze Ziyaret",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-395196/tugva-kocaeli-il-temsilcisi-mustafa-salindan-il-saglik-mudurumuze-ziyaret.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
+   "id": "382486460697dcd3",
+   "title": "Yerel Düzey Afet Sağlık Grubu Operasyon Planı Masa Başı Tatbikatı Düzenlendi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-395161/yerel-duzey-afet-saglik-grubu-operasyon-plani-masa-basi-tatbikati-duzenlendi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "dd1932ffef25b918",
+   "title": "Kocaeli Ağız ve Diş Sağlığı Hastanesi İnşaatında Yerinde İnceleme",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-395041/kocaeli-agiz-ve-dis-sagligi-hastanesi-insaatinda-yerinde-inceleme.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": [
+    "Ağız ve Diş Sağlığı"
+   ]
+  },
+  {
+   "id": "b568f387c4893ff1",
+   "title": "Körfez Devlet Hastanesi Ek Hizmet Binasına İnceleme Ziyareti",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-395040/korfez-devlet-hastanesi-ek-hizmet-binasina-inceleme-ziyareti.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": [
+    "Körfez Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "98d332a73b6ae982",
+   "title": "📚 Uluslararası 16. Kocaeli Kitap Fuarı’nda son gün!",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-394970/-uluslararasi-16-kocaeli-kitap-fuarinda-son-gun.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "53c090a6134fb33a",
+   "title": "İl Sağlık Müdürleri Toplantısı İzmir’de Gerçekleştirildi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-394968/il-saglik-mudurleri-toplantisi-izmirde-gerceklestirildi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "771c5b6e470caf71",
+   "title": "📚 Uluslararası 16. Kocaeli Kitap Fuarı’ndayız!",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-394966/-uluslararasi-16-kocaeli-kitap-fuarindayiz.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6b62347ed185792f",
+   "title": "Kocaeli Üniversitesi’nde Sigara Bırakma Polikliniği Hizmete Açıldı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-394738/kocaeli-universitesinde-sigara-birakma-poliklinigi-hizmete-acildi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "7b177b00618f27c6",
+   "title": "“Yerinde Sigara Bırakma Danışmanlığı Hizmeti”",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-394500/yerinde-sigara-birakma-danismanligi-hizmeti.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "9f5864f1397002be",
+   "title": "Kocaeli’de Sağlıklı Yaşam İçin Hareketli Yaşama Dikkat Çekildi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-394498/kocaelide-saglikli-yasam-icin-hareketli-yasama-dikkat-cekildi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "3eabbf454def2c42",
+   "title": "İl Sağlık Müdürümüz Op. Dr. Yüksel Pehlevan’a Ziyaret",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-394476/il-saglik-mudurumuz-op-dr-yuksel-pehlevana-ziyaret.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
+   "id": "612d0caf8f055f09",
+   "title": "Kocaeli’de Dünya Yürüyüş Günü’nde Sağlıklı Yaşam İçin Adım Atıldı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-394414/kocaelide-dunya-yuruyus-gununde-saglikli-yasam-icin-adim-atildi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "88ba34811d374d95",
+   "title": "2026 Yılı Kasım Dönemi İsteğe Bağlı İl İçi Naklen Atanma Kurası",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-395431/2026-yili-kasim-donemi-istege-bagli-il-ici-naklen-atanma-kurasi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ec3205abd4950395",
+   "title": "2026/10. Aile Hekimliği Ek Yerleştirme Başvuru Listesi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-395258/202610-aile-hekimligi-ek-yerlestirme-basvuru-listesi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "df528d2476680d41",
+   "title": "Aile Hekimliği Uygulaması 2026/10. Ek Yerleştirme - Eklenme Tarihi : 01 Ekim 2026",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-394078/aile-hekimligi-uygulamasi-202610-ek-yerlestirme---eklenme-tarihi--01-ekim-2026.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "561d97f20aa5cb81",
+   "title": "2026/09. Aile Hekimliği Ek Yerleştirme Sonuçları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-393488/202609-aile-hekimligi-ek-yerlestirme-sonuclari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "3d4bd8ca15cc214b",
+   "title": "Darıca Ağız Ve Diş Sağlığı Merkezinin Yıkılması Ve Muhtelif Malzemelerin Satışı İhalesi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-393331/darica-agiz-ve-dis-sagligi-merkezinin-yikilmasi-ve-muhtelif-malzemelerin-satisi-ihalesi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": [
+    "Ağız ve Diş Sağlığı"
+   ]
+  },
+  {
+   "id": "8fe6eb380040d520",
+   "title": "2026/09. Aile Hekimliği Ek Yerleştirme Başvuru Listesi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-393161/202609-aile-hekimligi-ek-yerlestirme-basvuru-listesi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c696b994a376591c",
+   "title": "Performans İtiraz Komisyonu Toplantı Kararları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-392699/performans-itiraz-komisyonu-toplanti-kararlari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "2c71725f829359a7",
+   "title": "DİYALİZ HİZMETLERİ İZLEM, DENETİM VE DEĞERLENDİRME KOMİSYONU 2026 YILI EYLÜL AYI TOPLANTISI GERÇEKLEŞTİRİLDİ",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-392191/diyaliz-hizmetleri-izlem-denetim-ve-degerlendirme-komisyonu-2026-yili-eylul-ayi-toplantisi-gerceklestirildi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "f9e4df3d9037b49d",
+   "title": "Aile Hekimliği Uygulaması 2026/09. Ek Yerleştirme - Eklenme Tarihi : 07 Eylül 2026",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-392043/aile-hekimligi-uygulamasi-202609-ek-yerlestirme---eklenme-tarihi--07-eylul-2026.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b9650b4c5a7da3ee",
+   "title": "2026 Yılı Özel Hastaneler Planlama Artırma İşi İlanı",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-391842/2026-yili-ozel-hastaneler-planlama-artirma-isi-ilani.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b0ac1f878b03f4f8",
+   "title": "2026 Yılı Eylül Ayı 4924 Sözleşmeli Personel Alım İşlemleri",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-391457/2026-yili-eylul-ayi-4924-sozlesmeli-personel-alim-islemleri.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "11ece87058557b85",
+   "title": "2026/08. Aile Hekimliği Ek Yerleştirme Sonuçları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-391042/202608-aile-hekimligi-ek-yerlestirme-sonuclari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d09c4888f3a69f77",
+   "title": "Aile Hekimliği Uygulaması 2026/08. Ek Yerleştirme Başvuru Listesi - Eklenme Tarihi: 20 Ağustos 2026",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-390789/aile-hekimligi-uygulamasi-202608-ek-yerlestirme-basvuru-listesi---eklenme-tarihi-20-agustos-2026.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "9855d6e543b641a4",
+   "title": "2026 Mayıs, Haziran, Temmuz Aylarına Ait Aile Hekimleri Performans İtiraz Komisyon Kararları Hakkında Duyuru",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-390265/2026-mayis-haziran-temmuz-aylarina-ait-aile-hekimleri-performans-itiraz-komisyon-kararlari-hakkinda-duyuru.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4354d89647895afd",
+   "title": "Aile Hekimliği Uygulaması 2026/08. Ek Yerleştirme - Eklenme Tarihi : 07 Ağustos 2026",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-389964/aile-hekimligi-uygulamasi-202608-ek-yerlestirme---eklenme-tarihi--07-agustos-2026.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-10-16T07:10:32Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "eb3da6dd148995f6",
+   "title": "Kocaeli Şehir Hastanesi'nde 'Çöpler Toplanmıyor' Şikâyeti",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFlrUl96VlhadmdrVTl2c3B3aFdsVVJaWE1Vd2JRNGpvM0pOdmZGWndYV0hHZ1lYVWlLQUJCeE1tU0dPVE5oQV95Z0RrTVgwUmMwV21VZkN5Z0dCbGRYS0t2RHpib3F5MmQ0NEVodjc1aHRVemxhaUphSUNtSmU5Rkt6dlNaQzFHbkY4ZU9RczFETlhGZVE?oc=5",
+   "source": "Sağlık Personeli Haber Net",
+   "published": "2026-10-15T23:21:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "2323f0d0c0121666",
+   "title": "Derince Eğitim Ve Araştırma Hastanesi’nden El Hijyeni Mesajı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1VlLUtRcU52bGxLZmZHOE1iaXZTdlU2RnVIYldwdlI3RXgyeUQtZGlrMTNFWEZmRFlvUlZzckJQVmgyc3otMWVPSG9MbjdGdmgzYU40NUlENno1N3ZzZnd0V25ud19hM3VBS0ZYVUxlMFhtTms3LVZKN1RJQWM5cGZTMEY1YnNVRHpPSWhWSE5ydw?oc=5",
+   "source": "Kocaeli TV",
+   "published": "2026-10-15T14:30:00Z",
+   "image": null,
+   "hospitals": [
+    "Derince EAH"
+   ]
+  },
+  {
+   "id": "c80913a3012378cb",
+   "title": "Kocaeli Şehir Hastanesi'nde şikayet var! \"Çöpler toplanmıyor\"",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXowQmltNHRicnFTM3U2aTBualhwMXhNYlVoRnJUSE5xa0pxTVhMLU5HY1d4bjcxc2h5S0VCeVBmamwySWhXejhzYXdTVHZNcE8zc2FWcW84SFdqUl93Q2NFWG9URVRKNTVLNkVybzFkRGNJOV96TGkwSHFERjdacGlmMnJkUGphYVl4clFyMDktT2M?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-10-15T14:19:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "f3cee2a7c7ea1b1a",
+   "title": "İzmit'te Görevli Doktor Spor Yaparken Hayatını Kaybetti",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3hsTkZsOGtVbDQ1T1BsdGxwUTVxbnk3b0xDTFJqU2IzZzM0ME45X19XajBDdUl5YThocGdRLXJIQUs0UXpmRVhGWE1ibmRqOXZ4cTBLMUltRVNlb0hsem9VWkdYNWh4QjdTb0VFcHMxd0RSZjhaVFAxU0ZyY2d6LVFNbVhwVXgwREl5UWtJYw?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-10-15T13:51:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "93dec114f763ad85",
+   "title": "Dr. Güvenç Koçkaya Vefat Etti mi, Neden Öldü? Kocaeli Sağlık Camiasını Yasa Boğan Acı Haber",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSV8xR2VYZ3pXejh5bmxnSFdtWlFqQmNjMGpfOURPNFp6b0pfYlBuZFdwMmt1SlgyQloxbzZmY0l0YjJCSDF6U2sxR0o2R3ZFX2VRWnV5T3ZJSWNUcm5scUJDVWY1Nk9ja0w4MmloRVJBNWZOWTNXcTh1c1lIdG14VUY3azFJcjU3d3FWTWhaVVE3LXdkZy1aQUhTbXlxU2JpQVhEWGpHWUZ0TWMtbE9uTklR?oc=5",
+   "source": "Kanal 46",
+   "published": "2026-10-15T12:02:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "3e6af4d7c0c93696",
+   "title": "İl Sağlık Müdürlüğü 109 araç kiralayacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR21XS3owR0F6VThReDZScGdUMFZONmhGbHNRaVFpLURqUFhTWXB4clh2Z19sdDBlS0hBcGlrRTVyRGp1LUg4VHQzcmt6OU5KRXp4NXVjZFZIRWcxSUFzSWZFeU1rbFpiaG1CMGZ6LUg1V3pmYng0dWxxRUFfYjdua0Niak9PbEVzUHlpZkdmdVdWT09MMUHSAZYBQVVfeXFMTkdtV0t6MEdBelU4UXg2UnBnVDBWTjZoRmxzUWlRaS1EalBYU1lweHJYdmdfbHQwZUtIQXBpa0U1ckRqdS1IOFR0M3JrejlOSkV6eDV1Y2RWSEVnMUlBc0lmRXlNa2xaYmhtQjBmei1INVd6ZmJ4NHVscUVBX2I3bmtDYmpPT2xFc1B5aWZHZnVXVk9PTDFB?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-10-15T08:47:00Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
+   "id": "acdba97d08e3dcfa",
+   "title": "Sağlık camiası ve Ses Kocaeli ailesinin acı kaybı: Dr. Güvenç Koçkaya hayatını kaybetti!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWUZickZUZmtCUGFlVnBEcVdKMk9QT0VNMVpZTHJmZWxZODUyRzY0U195VFB5UEc2RmtCclJlUGUxbzNWbzFTRHlqeGd2eVRjQUpxRVNWRFhSM2pBbVdsQ19xektsT18xakNVa19oZC1SRXNDTExGd3JNUEVUQVdXUjNzbUt2YlZDZkJ6MFlINnRMaHp5Vk5LTzJ6MmRKSFhhOU1fTzUwVFAyYU9qUS1iUTRHNlBoZTBPSTUwazdZU3VWbXBpNVHSAcsBQVVfeXFMTXBRVEM3RDczRFhqS2NEUGRnd2M0eFFaRmpJSl8xc0x5SWZJbDhGUGtQeEY5b3hkYTFHV3d6WDZmdU1STjIxZS1xbGliVExaOWxodFkteFU0ZC0wanllZVVBcmNyMFFGQ2JvU0lIYTZmWlFudEhDZklKWUdJWUt0ODhYSnJoVWsyam5TaHdiRm44WHB2VVVUTnBSRnZneHdlUVhacUFMeUlHVFRiaUlDUWJlOGhremFBVFpDc3ZpZ3IyUWV3aVBNYkJITFE?oc=5",
+   "source": "Ses Kocaeli Gazetesi",
+   "published": "2026-10-15T07:06:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8f04a2aea8c86e51",
+   "title": "Kocaeli'de sağlık camiasının acı kaybı!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONlQtR0Rja242aE5nT05OQU8zVi1Zdk9OZEN3eDZESzh4MF80MVI3RDRtNFFpZ0lDSTE1Wk00QVhCYWJvYmxoTWtBWklNbXp6TlZDNFhxX21OM0pLQ2RGMFNwSkdoS2k4SHhmQWxXLThsRnFRemRYWVdGSEtQUDJpbWZCeHhzdE55VXAtR1ozclgwZGpnUjROZ3RfOE1wSkcyVkx6WU1vcVpFUdIBrwFBVV95cUxQTnlhR2FxbHZ6V1RRT1ljQ3Q4RTZ2bGZ2N0xkY3U5SmdHaGUzelowSnFtYXRJVi1SVlZFSUJNZS1lTnlCUl8tdXpEZi1aWWJzcU9CY3ZLMXVaYUtBeXhtNjNocF94dTFUbmItOEI5U3pOS1pXZTRoUnJWVDNKaFVvWjBCOFpwcHVUdTdQLXQtVjRKM2E5TzVMbnRTM21pcS05WkhJZlYwOVhzaXRsQXdV?oc=5",
+   "source": "Kocaeli Gündem",
+   "published": "2026-10-15T06:54:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "fee38712baac4ff0",
+   "title": "Kocaeli’de Sağlık Camiasını Yasa Boğan Ölüm! Dr. Güvenç Koçkaya Hayatını Kaybetti",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmdfdVVKX2lYMXBOQ2ZKMGpTSGxLWDJSQmt5T0prMnI2TlZsVURPRWl6S1pyZlpkY1BkVmJIalUycmlJTHZFR2xnanVTbzR0S3BTOW90M1prcUhFRUZrYndoMTB4RFJOdVpwVml6RktQaVl1MkE3NkQ2NUlEU0xwOVBrUzJGYXJaWlNtS2JKYnRmSUNTU1ZHRnNWSElIQnZRaTNPRENPSEoxdnlZdGpR?oc=5",
+   "source": "Bugün Kocaeli Gazetesi",
+   "published": "2026-10-15T06:06:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "2944a9bfc5dad22d",
+   "title": "Kocaeli sağlık camiasının acı kaybı: Dr. Güvenç Koçkaya hayatını kaybetti",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmc0YWdhcTk4S1prWWhYZHplOEVYRG13QTJXdDJ2U2pCc0hmWlByeW1pb3RtV3kydloweG0tMTJSMGVnTktsR0NCX211VWpzNUNueU9XcU9WVThBME9FS2FpTEY3NUh0bENSc2NzMXJ3bGJBSmhyTVA3UUs5d25ZOEU3a0ZXTFozSXlmaTRUcDNwdjUzOW95TEpFMXZRWTlHRHpBNTFYak5RM0pqZWtLb19md1JaTHREbHpOTWRMZHjSAcABQVVfeXFMTlpnNGFnYXE5OEtaa1loWGR6ZThFWERtd0EyV3QydlNqQnNIZlpQcnltaW90bVd5MnZaMHhtLTEyUjBlZ05LbEdDQl9tdVVqczVDbnlPV3FPVlU4QTBPRUthaUxGNzVIdGxDUnNjczFyd2xiQUpock1QN1FLOXduWThFN2tGV0xaM0l5Zmk0VHAzcHY1MzlveUxKRTF2UVk5R0R6QTUxWGpOUTNKamVrS29fZndSWkx0RGx6Tk1kTGR4?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-14T21:00:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "766013d762e2a66c",
+   "title": "Kocaeli’de engelli, hamile ve kronik hastalara idari izin!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcDQ0RzZ3anFGT0Y5cVd6QWwzenNfVXY2ZlJZRUxOZzNER3lvR0tSTmpUbkxVQVlGb3ptT0xLajBhc0VqNTVzQ2R0Z2hTaW43V2FrSFlQOEJXMjhsQVhsZ29BdXVZOVdBQXcwWlJ3YUpfbXNOanNXYXpoM0htb25QdFhlbGpyRXhhMHBDYUlFWS1RekJKSUc1MjZBbFhuTC1mV0xTStIBpAFBVV95cUxPcDQ0RzZ3anFGT0Y5cVd6QWwzenNfVXY2ZlJZRUxOZzNER3lvR0tSTmpUbkxVQVlGb3ptT0xLajBhc0VqNTVzQ2R0Z2hTaW43V2FrSFlQOEJXMjhsQVhsZ29BdXVZOVdBQXcwWlJ3YUpfbXNOanNXYXpoM0htb25QdFhlbGpyRXhhMHBDYUlFWS1RekJKSUc1MjZBbFhuTC1mV0xTSg?oc=5",
+   "source": "Demokrat Kocaeli",
+   "published": "2026-10-14T20:03:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "0b31311cc269852a",
+   "title": "Kocaeli Üniversitesi Hastanesi’nde test merkezi açıldı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlowNnk2NkhrdjdLYWxLQ2FZYi00WEs5MDQxd01GVUNDd0hUUjlnZ1hVdmdfMFJyb3d6MUJGSmRuVXpuaWtjMXlDQ0VCVUVLYl9HdE9aMWsxeUhEaUVBUnpUODh6X3NsUWJoZ2N3MHdrSFlBODluMmt6c3Zqd0ZBWEpyWlRyaG1ISHhRZWc1OUNBOFFPcmVXV3dBLUlGTmfSAZ8BQVVfeXFMTVpaMDZ5NjZIa3Y3S2FsS0NhWWItNFhLOTA0MXdNRlVDQ3dIVFI5Z2dYVXZnXzBScm93ejFCRkpkblV6bmlrYzF5Q0NFQlVFS2JfR3RPWjFrMXlIRGlFQVJ6VDg4el9zbFFiaGdjdzB3a0hZQTg5bjJrenN2andGQVhKclpUcmhtSEh4UWVnNTlDQThRT3JlV1d3QS1JRk5n?oc=5",
+   "source": "Bizim Yaka Gazetesi",
+   "published": "2026-10-14T13:50:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "34abb05e79d0dc30",
+   "title": "Kocaeli İl Sağlık Müdürü, başhekimleri topladı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVERIdmV2Q280c2F4dFZhOVQtUEcwSjZBQlBxbUg0emVaU3ZFOEJRaEprQjdTODhLWTg1YXFYSnZ5UGtod2pXYWlnZ3ozanppRWo4S3U3dUlhTS10WWFNVXRMdmZqTDdQUUx6VGg2MDl5b1N4R3hrUDVoR0t0VTRqdXZSZDVzNFh4Z1p2V1ZqRXNjWXk3R2NXaDdUQ0Zpd9IBowFBVV95cUxQT3p6RHh4aU1VZ2ZkekViNUo2SEZXLTJqSWE0RV9Ic1pfMzBQeHdTMnBudEVBRVRoZlNhckRsbUtlOWJsTTFfZFZRdWZKV29RMmNZMTNMMGdQenNmelBVR2xQZkplZTZfZHR3dFdqM0VOc2NLeVZTMFBReThvMmw5SERfSDJCdjRvZFBKME1NUVZVcWZLZ0xuVS1HZE9TaFlfNHRr?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-10-14T13:17:48Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
+   "id": "52c056ffc75df632",
+   "title": "Kocaeli’ye 12 derslikli yeni ilkokul yapılacak: Protokol imzalandı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTDVWaXJZU2I4QnRVRlF3Y1FlY2tQbjJKdHlpcVlPUkRPNmdrY2h5WC0wdnZVQjFPUy1aakRuS3l2TlZ1TzlZOXR3bXFBTmFXbXp2dXVqTmQtZk5oNTQwQVRVS2tHaUJPSDNRZk5NSWJZNEJ6eEE0bk5LQ0F0T0VCbkFqc3dmY1hQVV9jUnJibUtnaTZIV2tROHoyNlY3SmxQOGJCTVJ2V1nSAa4BQVVfeXFMT2pyRmVjcXlwb3lTZXRFTF9RbmcxQnktZ3lZeGFrTndzNzE5VHRQZ1ZTS0h4a2phbVdxdFpEZjhuVEhzMjdSUWZmSUVBMEhkQzkxYzVtV0RWODVNSkpXRFA5ZTVjTWh4TEFFbkQ3dFEzODJHMTZjX2I0RmJ5QXlxa1JjTDQ1VExtZlEyeWoyLWxNNTg2QTI3eDZfMnhlTlZWUEQwU3NUUGdJRkg3VWNR?oc=5",
+   "source": "Kocaeli Gündem",
+   "published": "2026-10-14T12:41:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "17c6aea392466051",
+   "title": "Kocaeli Üniversitesi Hastanesi’nde yeni hizmet: Ücretsiz ve anonim HIV testi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN3hEcWhtSW5mckRRRzdCWDBUOWRISXdCNHRsakdHS0EzR3FaTVNjX04zSVR5ZWptbkZZYmRQdVZJRkNfSEdPWlJLMzZ1VkJtbXF1QkQxNERVUmdHbm01aHVqTTJicFM4cVRfOGF1VVJGUXFsTGR0amxnd3o0d3prUkpvSHU2TVZ4ekpmLUVRNkM0ZEQzSHN1cUNUcTNIanNBbVZLdHg4U1BMZUI4ZUZxc0RvNFF3amY3VjdaVDVtSzljU2d6c1dTYmxfQkFKeVRQbG9uaXB30gHbAUFVX3lxTE9FWnYtangzRHFuNEdxRmpZX1pJXzFhQ09JalhqMDFZNlM0dFlsTWk3VXhDLUlZUXZoTTN3cEdyYTdKdkpDOTkxTGpKMG5HRDk5MWdabjIzaEFLWDJZaVoyeTB6MnFVMUdqMERJYlM1UFdwMG56OEdWN2t2Qm0zWkRJLXE1eWVOQTh1Y3VyV1dBNHFMbEV6a0pNVjJxb1hJbUROXy1SWHJtRWJHQko1a1RDaW1Ta2w3VEpUNERScHYyODRCak5FS0IyYk9wYWZLV1N2Wm5yVms0OGNNSQ?oc=5",
+   "source": "Nokta Gazetesi",
+   "published": "2026-10-14T07:39:39Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "f7a68fab7945544a",
+   "title": "Derince Eğitim ve Araştırma Hastanesi’ne dört profesör alınacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDN5UG50Q3VnMTJEMDd2ZEtfQ0Z6cFZnMS1CcnBlOUdVQ0pjMUQ2YWY2VTRMWlVoZXhORmlBcUlFS1JiNUdZNVdlTTBTM2pVb21HcE5IckFoUkUtOGlROW04eHUyTXRRYUR0OXE4REFRMDhvSHF3TFNERE1oZXp6eDF6bWRmVE56YUJMU1BHdDlaaE8yV0RxNks5U29KUXYyQnVCcVV5WkV0a2ZGTzBjcEVuUU5tcTQy?oc=5",
+   "source": "Bağımsız Kocaeli",
+   "published": "2026-10-14T07:00:25Z",
+   "image": null,
+   "hospitals": [
+    "Derince EAH"
+   ]
+  },
+  {
+   "id": "7170177a08a062b9",
+   "title": "Kocaeli Kitap Fuarı'nda ücretsiz sağlık taraması! Tansiyon, şeker, göz ölçümü ve mamografi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTnVBN29menJObFk0bVRNSkJCQjVtZHRsMDctWHJial9MZUpUWEFjZ1hsbHVNekRkTkJhSlVDdXN6S0VNd09tM2J5WVFCcDVNMXNjUDlLR2R0eDVlWVVVZVBCMW1WdHlLR3pWX2VNbFE0UXRsX1dsSlJOMWtTeEZSdHpwWWZvMWQ2SG5vSmpyUlZaUVltTFUyVmFKNGVBb08zclBIdWk3SDVkS0pWVkkwWklraTFuYnNnRVBxZ3FtWElVMktjUnYydVFn0gHPAUFVX3lxTE04MThjYUNnaERQYkJPNTRMblltVlFJSHVOSGNKamVPb3FOMkh2aWNHSHp5N2tEdUNxdUUtXzE1bGQwcDk2cjhSOUtCamhxOW54WHBub2JZdHBJNVJ5SUFMRVN5MHhpSXZ1U0xKUFkzUDB2YWd5aTFTUHJNQXNOcDVMamJ1N1dFeXM1QzJPRnhmZlBMcHh0UF9mMklxR3dXdGZaTzNSeFRxQWItbWl5bENnVGxwTkNNRy1vQXAzRXpvRkJTNkpyTGI1ZGlDbUVCTQ?oc=5",
+   "source": "Kocaeli Denge",
+   "published": "2026-10-14T06:34:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "e969ffa18f02e742",
+   "title": "Kocaeli’deki devlet hastanesinde hastalara profesörler bakacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVhXeDRlOU94WEt5UjZFOXdqaVZmYjl4VTAtWHBGa2NtQW5sMVRJc1ZvSEFidkxfLWNxZHp2clJ2YnVDSHc1aFpIRW9WbmljdFJFc3ltS2pNUklIdFR0MTNhcy1LNjBVLVNZQ3RfWlE0bXdfNGsyZGRMMFRpQ0dsbktoMEU0MnY3RDdoejlKSXNDbTZtUkNpZXZaRlhFbGxYdDdNbVFmZUxieXo1LWUzOEVLONIBuAFBVV95cUxQbFo3UlFpWXNwQnNaa3ljX0hUZy1PbkExREltUWUtRHpzS3RMT0JOLTUzNFB1Nkt0Zk9vUThBUHhTV0d5bGxqTXhsOVZKNUMwM0R3MTE2SU9XNFN5QS1BdlltVjVSMHdTaEttMHlLSjlyYlZmbFJFSVBJcGtiM3p1UVBVOHcyM2cybmV3TVIxRVo3U1EtVGIxSzVpdDczZzg5YWh4XzBjSmdqX3Y3aDYwYTdSOG1rM2h1?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-10-14T05:14:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "93e010f9d64c83fb",
+   "title": "Kocaeli Devlet Hastanesi önünde megafonla limon satışı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYS1RUTJ2TGpuTHRGTUlYdnc2eEVfcnEzZ19QRW1XYlpibG42bDBQTFZieElYZklmMnQxc1FQTEJrT3lqeS1MSkh3d3pWZjIzSU1QX3ZOZ0R1OE9yeEt1X09EWTdrZ005cERfSDQ1TTRKQ0pMMjdYRFFzM255Vl9LWkxSbXI4UkpTQWNRUHpWQlVhS3NlVEk1bldhTWJ0MklKdmlN0gGoAUFVX3lxTE5Ya29faVpqdFlfYnJwNjJlaGVGLU1QQ3U1d1JidUJrcEdQb25jYVg1TVZ4R0NOTjBWUHVHbVUxWjVfbVZfV0RIdVA3Vno5UUhtbUNOZkdoZUZEYVFkaUJSLVA4NEoydmNYZG5HeFlRTUZVcEU4ZzJveVJKVUVtQ3RCRExQelZPaTdUYlQ3czdYVW9QLUZUa1VlZF9MbDUtckljNUVQYl8wQQ?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-10-13T12:41:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "a4068d3354e071e1",
+   "title": "Kocaeli Barosu’nda yeni dönem için mazbata töreni yapılacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXFtY2RhdU1JOEgzb2lGd1pzTExrX1ZJM3hPRlNuVE1BemhBbFVHNEVOYnVVQ2E5M0d0a1hrMnhYTDNhQnNjUXFkTEdrVnFQMXJYMXNnampTLXJwQXhrTTJCTEZrbmtud0FsMXNKbXR1N2dQNEFjcFpEZExiemtEaUNPeXJGMmYtNkxLQTUtbV9uYTR6V0lUY1JyMXR0NVl4Q3lqc0MwTV_SAa4BQVVfeXFMTVJaRE02RENraFlhVDFWTU5PaHRuQ19HWGZjTk9aQU94NDFDX1l3VjlFZ1VUV3JPUlRYZkZhTE1BQnYxWF9DMkNnUWJaZTBsVUc2S1dnZm0zRWVNQV9ibUsxaFJkSmhyV1RDT2ZfYko3ZmhrOVRxbHRibmtTejlfY1d2UHQ0a1F1WEZPYnFneWVTeV9QWlJSR0p5QW81VWhpNUhxdVYyVXlocV9EVjJ3?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-10-13T11:41:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6c40e0de300f7b82",
+   "title": "KOÜ Hastanesi’nde bakım çilesi! Hastalar merdivenlere mahkum kaldı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajVnMHI4TkJXTUtHU01YQnNIc2x4TFBBNXR3eGVGYW5OcDZTM09UT0ZnWElzcWR2bjUzZlE2R0VONWQ2dkNsMjZFZWRZM3AyQkpPM05pWktybnN2alBZMmVnazgxNEMwMnBRTW5EdDNQa1F3S3llLXV0ODg3c2IxYldXVm53Z3VSbm9CZllUQ1hRRUw5X3IzNFVwVlRqUHQwQ3R2dUpDM2lRS0Rn0gGyAUFVX3lxTE1lR1hfeHBrVUJ4WmI2NURJSFAxOTd2U3hMU1lhTWdoZExQdzhwUGwwMndyMGZKaWx2WEN0TkxZc2dveFVaRVNyZ2JIbXdTajhSdGpFWnJIbWU4ZTlGZDhOUjduZ2xZRW5fa0V6VmhtT3JmQ3ExS284R1k2S0N4UFR2bGtReXhWMTBfdjdzS1JGS3NrV01VbkZORTlLRS1ia3ZMb2VoTHE3OWQ4THdNTzBZamc?oc=5",
+   "source": "Kocaeli Denge",
+   "published": "2026-10-13T06:36:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "6598f0118b33cfd3",
+   "title": "İzmit'te korkunç olay! Öğretmen yaşlı adamı muştayla hastanelik etti",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDhjQm9lOTU1TE5NS19WRTd0eG9QTDlOX0FraXBFNkxJNkROalVnQlF0eEVCYnA2UWU3WmFzUHU1OFN2am1RUGY0YkZieDAzSVcxd2JEMkN4LXBrWTMxNjJEbHBWVXIxQVVxLS1xcTk1X25seEVROGwzX1hUVHZZTGp0dDF5aUlxak45djZmV1lMWHNUMVp5a18zYWs1eHdGMlVnOG54VTJKYmvSAbABQVVfeXFMTzBvcWYyWlRTWEVMOXZUS0tLWTluODBCUDUtc0RaVGV4dk5aSmVrQ09LXzI3b2dkY1VCZGJxbU1qMkNFNEJ0VEhOQ19MV2pfT3RzQzJ1OXdsak5tY1NrZ0pRQ2JELWVDUzJZalQ0TDNVUG83bnFJWGd6UE0tVm01T1FYYTZYanFQazdPRnV5S2F5dndUY0d4b2RtYzE4ZzRyaGJIeS1tdGdLUjFmTFBVUkw?oc=5",
+   "source": "Kocaeli Gündem",
+   "published": "2026-10-12T19:13:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "907699350d90f7b6",
+   "title": "Kocaeli'de devlet hastanesine 5,7 milyon TL'lik yatırım",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUE1LUHMzYUgyRnhaUUtyVmRuNmstaGlzcHNJcm96QVVjT1BaUmxJRlJqMlRyZEtMeXFEQWNQUk01SE1QUlY5VUMxeFNTclNXcjI0ZjM3bC1PWGhuc2otVmU4QWpSM1lsQWUxQUF6QVBSZkJwNkwxS1pIVTlQZHQwQjFwb0tnYktwNnUxbFVReFJiZDlDbWYzZGNRS19nZGRFYXk0WNIBqgFBVV95cUxPMGVPLWdaWjJmaWtwdF9lS05rdWg0aTJOZFNVbTBzSWtGTFN3ZnVlUlFkV05zR1ZwbHV2eWVYMG1GXzBZbXl2ZEotODJMVmlZUWJFOWtoN3VSSTJVaUEwdGU0SHduT1dDVGJvQ0xLSXNfUGxMN3g3cEFQUDg4U2dnLTN0M3FwOW9GUmJabXBibDM0X3FFb0VjZkhvSkVpbUdRSTFCVTBpSXNyQQ?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-10-12T17:00:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ad3d9ef116ec4913",
+   "title": "Hürriyetçi Sağlık-Sen Kocaeli’de ilk temsilci toplantısı yapıldı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQTdwaklmajR4a204cEk3M3lIYV92OGhBQ21OV0VXREF0RWRuX0g4NnNDODNSNGdPWlMtZHZza3ZmQ3V0OU5OLVdKal85VzZVSTRZUVljV29lalFVRTlBMjd3TFJ6UWc4SGVITTZNUVdkVGRwWjJkS3dJdFhMclVDNl9NMGdDZFFjZnJFbWUtOEVXc1JyZTJueVpQS2FPT3FUcHNHMmkxQWhCOGdYb2p30gG0AUFVX3lxTE1LSUFFTkxERTAyeG9ZT2h0dUJhblBqenNnSHBZMldvMTZSYk8wVUFNeXhJdkdsZ25QT1ZxcENBeENCbHMxWUxHSzBzY0czOXUxX3JvLWJ4WFlXWndyelM0RUlTZm5aZFhrTHI1d2xWZFpaSXU2SDRfYTJRV3BhX3hieVA4cDZOYWE2X1B3cEZXTVdtdkZxcGNaUUswYkdCZXpfRUZ4WjhXS3NCM2F0d3hucmZ2Ng?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-10-12T10:12:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "4dbde49dac494923",
+   "title": "Tek bir hastanede binlerce hasta; Kocaeli’de yeni bir salgın mı başladı?",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS0VSWHFEZ0YzUGs0alhQbDJHY19Danpub1VOZEJoSGhuM2VnczQ2SC1Sd0VKVlRteC1IT2VQcHZOYjJWbzg5VTNKbEV6dDllMVpkaHBJWlBabzgza1BuWUFqWFNrVDlwUFJLWG52RWtXTUtiVFpiYUVGcHNUNXFBQ0gzd0xpVHcxUlpUZjVmRVJQNTRFX0JoQ3gzMUpOZjUxODEzbl9FbDc0enp4N1JxYWMxeWlnUFBvNjd0R2daWE5hNDNX0gHKAUFVX3lxTFBhdzFfZGI4X1pUdm9uZUp4amZZN0R1RXRIdGNxQ3ptbVF1LTE0bWVrS09faDA5U2hHTFhJOFVKampUbVJMTnNTQjhKeWRJQnB0Vkh3MWJvakg1b09PNFBMaXVmYXo4UGl5blRTLWkwZ3NxUDlMemNBMG50YmV4MWNLN0FBY1k3aFZJb1E1ZGtXakFKVms4Tmo4SE9Qc0haRXNzVXRYU2lERGZVOFBET3JLN20zbzBxcHQxZDNjVDNGNU43V25aVnE3NHc?oc=5",
+   "source": "Nokta Gazetesi",
+   "published": "2026-10-12T09:00:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b8824aff28a4ca8a",
+   "title": "Kocaeli’nin sağlık geleceği İzmir’de masaya yatırıldı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLU5QWUV1YWlwbXRyQzZ3d0hxVzEtMTVkZ2hiUFUtMENBRm9nTzByYTM0YW1tLUJHV1dzd3lHcGtVdGZqZlZ3ZzJzRHkwMllUdmxfeDdlSmJkNEpOZF9VcEdxd09FZUc3N1d0VWFabDlIc05jTkZSNmFYYUNtdUQ0ajNhXzFDRXhSWWR1ZGRVbHNNVElmeG9PVXk1YS1ZSURJaENZWHJnSEpld9IBqgFBVV95cUxPLU5QWUV1YWlwbXRyQzZ3d0hxVzEtMTVkZ2hiUFUtMENBRm9nTzByYTM0YW1tLUJHV1dzd3lHcGtVdGZqZlZ3ZzJzRHkwMllUdmxfeDdlSmJkNEpOZF9VcEdxd09FZUc3N1d0VWFabDlIc05jTkZSNmFYYUNtdUQ0ajNhXzFDRXhSWWR1ZGRVbHNNVElmeG9PVXk1YS1ZSURJaENZWHJnSEpldw?oc=5",
+   "source": "Mavi Marmara Gazetesi",
+   "published": "2026-10-12T08:50:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d6e90e8dc6599436",
+   "title": "T.C. KOCAELİ VALİLİĞİ İl Sağlık Müdürlüğü KOCAELİ İZMİT SEKA DEVLET HASTANESİNDEN İLAN",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkRtVldRTllrNW1rS21SRUc2RkZwaXhraE44NW9yQzFXd2t5SUp2dGJmWVZxcm1naVRNZVhicWlDQXdJYlMyUHhaY2hyREZlczFWMXI3aktKRExmUjVqSjN4NU5vaHhmaVhGVnhCbDJfQmxqd28zWFhCV3B2a3IxUGFGYWV6ek9wRmRkUXhRREVnTVY5OUtDUjlOd1Y2N3Y1TjRfbERERG42VUZxN0FoWkFhVUxrZnRsTjU5ZEprdGZKUnfSAcgBQVVfeXFMUGVGemZHOF9QVjgwQ1NWLWNqVDVmSjhPamJfSjRURkpIYjlQUkNnMmU0Y1FpbGN2RUNTRldGdUFMdnhBT0RCOUZVOTlLLWJGMTkxN181cjNLU2dQVWQxTHE0V0xKNjZJWko4UjlpZmdLQU5NcG1hWnNoUDQ5SFp3SmxRdFJKcXF6RmN3M3o4cC1LWm1pWDRrR0VELTRIS2dGbVhYNndNQjVXdzlfWnhUQkRDRDJ5amtNRi1XMERfSEJNRWxtUFRwa0w?oc=5",
+   "source": "Kocaeli Gündem",
+   "published": "2026-10-11T21:00:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi",
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
+   "id": "35f79bd2f9777ba0",
+   "title": "İzmit SEKA Devlet Hastanesi B Blok Yıkımı Sürüyor",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1haVUdaWlpnUVNKcU1pZGRXc243RW9zTkhpUEYwWW42dnMtUmhDLWx1YU1IVm5TWndLNHE4czhTdEZ2ZjFRTmdCZklhREFVQTNXZWhMbU02SllpY2JaSVJlUkRrNmJGNmJIY3lyTG9aSmRBQlR2UmxLZUtjZVlZLU1aMmI?oc=5",
+   "source": "Kocaeli TV",
+   "published": "2026-10-11T13:36:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "01f50f273c7a6dd4",
+   "title": "Kocaeli Devlet Hastanesi’nde 1,7 milyon TL’lik düzenleme: 135 oda ve 7 katı kapsıyor",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajV2Skx1ZkxTbTJ0SjhyTGJlUkRBYUJyMWktT1dYWDZMOENFeGIwLUlocGtndkpWQ0tncWUyUHY3VjBnTTEydlY3TmVwN2MydmM2LS1Sb3QxellXcDNvZ1pvbFZvZXU5RHBPTkEyZzdvNm1naWlmeGR3VVdkYlBTTm1UOENRdHoxQ2JXOG9welhRMG05cXZUMmQ5MEhCdmVOX0VldVZMaTRQSzBPZXcyT0VidWFjZGU4bEFZb1Ztc3dTRDhTemxoaElR0gHPAUFVX3lxTE5jZm5saXFGbzVEdTlCd1VMN2ZPc0NaVlVGQi1JSGZoeG9IeFA5QWR1eVZtVFk3aHZhVVNsNnc5STkzUk05QUljWGttX3dmemxaeWV1MW12MzNKa2FYZ1IwM2d0dVN4b0l1OTNlYlVmR2RZd1BlMUhYV3FxVHZCVjE0NzRnUnlsZlBGd01IZUFIMGpTMHFtTGh6RjdrTGNpeWxzR0xleFFZYTBuRFV5N0R5QTNyWlU1aXY1RjNtcW5IUUJWUVI4cy1rbXltQ19wRQ?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-10-11T13:30:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "5c7b005659eba7f6",
+   "title": "Hürriyetçi Sağlık Sen’den Kocaeli’de bağımsız sendikacılık çıkışı: “Yolun sonu göründü!”",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3lkdU80MDFVZGhrUUg5OEctSHcxWFZrdlFIQW42Q0FPS292TUVFVG5fOEgxaDRvanczTXAyaExkeG1yYzFhWk5Vb2VWX0RQMzFYSlFaZTBiN3BXYU5pUFVDS1AxNHFlcWVRSG5RRERmclV1NEJKMEttTGZObzZkclNXMG8xbGgzVHZ4ZWNYajZLZ2hBUkhIQXJub3lLNE1YRk9oUmhibTZVX1E3dlpVbWNLbGNlb3lFcjJrZG9mUF9Jc3pCcnkwWNIBzgFBVV95cUxPbWdSWVpmWThncEpnMkpiYmZsaWNNcUpmQWZaWUltNGdTQ2UtQlRkRDRlUHVxT2ZRSVZSaTZsUU1DU1JSZTBEblVIam53dExRanhVMjRDdmp6R0VEdVc4akl5bTBtZnNzaktwaC1OX1F4d3VwMDBvRjUwbjN0Rmx1ZlhXNm9sUTRoWnA3MDFwV2h5bF9QcFdOYlJWNjZONlNFMmJveTdKZnFrM3BnakNEeVNMQ2REWG9VRC0wN01xVjZoaTZlM3dLZFJOb3U1UQ?oc=5",
+   "source": "Kocaeli Halk Gazetesi",
+   "published": "2026-10-11T10:25:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d27d04230a3ae6db",
+   "title": "Hürriyetçi Sağlık Sen Kocaeli’de temsilcileriyle buluştu: “Bağımsız sendikacılık” vurgusu",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1BleS1QOTRGYURhQjE0WlA5Wko3UDZ2X2QxN3dJT2JNSEpQTWtscTVtVTVlZWdieWhnZjVrRXZfUVNOWXdCaUVrMkFPeUQ3Qzc2T3pzMFV2ek9IOUttcHNXM3RHb2JzTG9BQlV2ZkN0R0FtSWxqQV9CVVVJRExENHhJbDJmVmZJeFVtUmNxVENkR1FRZGowSGwzak1GbTBweV9fZy1YbHBzQ1NMQ2xJdklBX2NsRlc3d3g3cXZoMDB3Z1c5NFk2NTNiaEl6dDlH0gHWAUFVX3lxTFBZdWFlQXBvUTNPZ3VYbzNCODlYRGtHQWVldWQxblNpbWdaUjN1MGFTb1BWOWhXZlpIdVZFaVZSQWc0VXBkSEU2Y2xhLTdPTWJtdUtMdUpsT294X3lHdTFxX01PYlM4ZTRQMDZ2TmpwUDAwSVBWNTMweXpra1JuelFMUVZCcFhkZ0F4cmEwM1h3UzlxNFJ1Z0NJZmxHVUF1UGI4TElSQms2cjdJS29JVURzMm4xUVJOZTU1Nkg1UlhmUFJGUWhtSWVpUmVac3dwZ0x1NUUzNUE?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-10-11T08:59:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c01a0a1582619dd0",
+   "title": "Kocaeli Şehir Hastanesi'nin acilinde bekleme isyanı: 10 kişilik sıra 1 saati aştı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLXRDWHNMcWFqT2Etakd6RWtPd0pMdVNlU2tkQm85VVNiaHZLVEJMTlRDNloxenpldWpHdlhTN19SckdNLURqNWtUOE45Wkw0QjlQSHE4bHJFQWphM2tRRmJjbEVjTGxOdVR4UVh2aTZva1lKWGhOU2xtSVZQbmQ5dDAwUGFwTWc4T2RRMU5VT1ViRUlDcF90NXNuVTF4bk1KOWpWT3JkeGx3NFVMTXF6N3NKQXh0dHlpd2kwYWhnY2dHSFoyYlE1WE1VZ9IB0AFBVV95cUxPVmIxM3NCREVNRlFkTG1LUF9JS25VSkdkQ1NBNlFWNkFQSXp1Qk5BYlo0Ql9BeVJaWEJlZ1lZam1FRXA1SEVjanJBQkdfMHZmUl9BOVFkZmNheXpXM1JqU0tjdmcyNnZpcHM1OVgzSTJMbnV5bW45dlprbDNvSmt3WjMxNUl6b3NQbnEzRnh6aUJYeXRaSGlOVFNNUGVaRTFsVnVpY1FDYlplN1FvMmJaaUY1aTVwSlZDQVljMEE3aHk5MHpQY090OHlXY3pBYWdi?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-10-11T08:57:29Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "64580f77221684d6",
+   "title": "48 yıllık Seka Devlet Hastanesi B Blok binası yıkılıyor",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2g4RENqdXRkekNsSE5QamNTRjNBc2ExeHlnT2hmNU5TVEs3alNaUS1SREdfWVFZSlE2azc3MnVxOE1QaUJSNGg5R2xhRUFybVRrRVVNWFVVWVdJdC1wei01Z0c4RXRacUw1YVFiS0RfXzdKa0lBZnBZOVNCLW51dzhwTEhrMkJ1OGF1STlmYjJlZEoyblFGaDZWVHhIWWV0ZTE0RNIBqgFBVV95cUxPWFhrSjRIbVFhSHFHelpIbjc0bFBjT3lPWEtVT2JlcU11QktvbFljOEhmelY5alNQazBMYXZQa2lSNkxkcWZYWU13VHJONWRBMGFNTFJicXM5eWdVNDlhd0ROM19Fald2NFlCTTBrOW5RYWJXSndkVU81amFKX0Z5MVFJOHdGWDZHbjUtSGk4M1Y1LVJSdXBQelFmVmJOWmhaWFhGX3NWb3RhZw?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-10-10T10:48:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "0fb6a01cbfee7949",
+   "title": "İzmit’te yeni sağlık kompleksinde son durum!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXNqMHRNMWJiZnoxT2RLc0xPeDkyNXIyYnZXR1pEbldrVjByWXl4ZWVPQUE0Ym9lbmFjWFFJb2FnWGo2OVN1TlhhcXNCd1F0X0E0Uzh1eTB5VUtlTmJJVm9GQkpLTGo3LXhicm94Z1pqR2RZSG9zZXFwZ3F3SmsxNHE0a1o3VjNKVzFNdnpTMmNlVTd5SDhN0gGcAUFVX3lxTE5Ka2VSTU1UOWktMUdjLVFQNHN3M3BCT3hXMjVuMml4OElOOG1OakJreEFia1VJVFFNaHZwSnRvUlJkVlhUaFlGSS0xb2xVcEJYSUxJUWYyYWZETWwzQ2k5dzVmb0VJdE5KZzNFLU45TE9vaEl4ZlpubEFWSnFJX0w0VkVibC1TU2p0b2Zqd01xTnVvQ2toaDlIUVlWYg?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-10-10T06:54:00Z",
+   "image": null,
+   "hospitals": []
+  }
+ ]
 }
