@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T11:00:18Z",
+ "updated": "2026-10-17T18:03:51Z",
  "items": [
   {
    "id": "fb67fc43e29d9d9b",
@@ -714,6 +714,18 @@
    "published": "2026-10-13T11:41:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "b0565c2d7209f8a3",
+   "title": "Kocaeli otobüs saatleri 2026! Umuttepe, Şehir Hastanesi ve gece hatları",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUpQYW1xY01KakVXM3QyX05pOEJMMGJfNFhadU1hclBDdnpCMGxlRXZMUWZWeGpJcFFOUnhldWJnU1RtR1RVdDBQWFFaRTJDdXJ5NV83TVRWVUxYR2hvOGhPTXlTcUk0cFB3Q1p5YXpxUjVZYlBvdklXaUJIa0d4cTU2cGwwR09HeGJwbUlFM1hjZTkwWDFVQmIxalFBbnEwUVdfbHctMEI4V1pqM2VyMTFLY9IBuAFBVV95cUxQYVNpWjAxOGd3Tk91MUh4RGI2SFA2QTdUNW95WVpYeGJRbDFVVzk3MHUxbFQ3bGRiMzY4QkMxU1JYeUNOMU1FRXd2MjNlOFFXVF9fT2daMW16bDlzdkxSV1dRU05CNndMbVRKSF9BRXVpM2N1Y29mS25YdGtQRXpIRUtESnZud2NNSFBpQ1l1TmhodXZFSjBjYmF5VHRsTXJNQnFiRi1KZkZtV0NGNjJNTEd5VTA4azFk?oc=5",
+   "source": "Kocaeli Denge",
+   "published": "2026-10-13T10:21:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "6c40e0de300f7b82",
