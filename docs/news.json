@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:30:48Z",
+ "updated": "2026-10-18T13:45:58Z",
  "items": [
   {
    "id": "7e2a4036e381b097",
@@ -758,6 +758,18 @@
    "published": "2026-10-12T19:13:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "069d0c4669e0ed46",
+   "title": "Bünyamin Çiftçi açıkladı: Çayırova Devlet Hastanesi projesinde son durum ne?",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWl0OTJoYV9WTjluby1ucTV6b0JjU1V1T0tnU0tGanhyTDA3a2h3NHU1ZWJiNEN4RDZZc25SbXFpM3drWmVsRmM5TG5NNEZHZVpHNzJIMHNrbmxYcHJlQ21HNExNN0pmc3Z6WE5IdERlLXVNZFpDQ1dWeDU3UlcyMGU1R1NreVFvVm9pNUpoUmVxNFNhOVU3UExQb1V0aWlUclpjUTRyek9pSV9qNUx3NjNtcTNPY3Z0ajNUS3docXBGQ3pYeHN1X1ByYnFyWDNHM0VHRDNNa9IB3AFBVV95cUxNRmJOUHc3YWNVX2hudy1mM0RkOTZhamtJTXBnRFcyLXJYT2lmdXRWbjEyNFlJMXlETlF1ZF85V1YtZHUtY0tsaVY3OGVtNTVGMzVpLThSVVl0dmV3eEJadld2NF9pM2NvTEYxQjF0Um1MNmRfQkhjcVAwUXcwU05XbkJLQUJ5TGZVaW51QldaVDQxalV3cW40SXBBZ3ZILW5LZl9wV1Y0SmJFSUxyZERkckVfVmw2bDlqcE9nMDhFZEhKNXQ5UkYzOHd1Z0stZWotRFhRdkMtaVp4M1ZY?oc=5",
+   "source": "Nokta Gazetesi",
+   "published": "2026-10-12T18:46:00Z",
+   "image": null,
+   "hospitals": [
+    "Çayırova Devlet Hastanesi"
+   ]
   },
   {
    "id": "907699350d90f7b6",
