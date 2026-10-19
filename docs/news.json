@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:06:49Z",
+ "updated": "2026-10-19T14:31:48Z",
  "items": [
   {
    "id": "53d4ddb7e2b2debd",
@@ -8,6 +8,28 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGc4UjBhbHFuaExXZUl3Wi0zclV5TnVMQ0NOTkVDUXp5QWRoWlc2eExudVJUMG1ZbGxfcGhnYzVsbzVSbXR0RFl0Z05XdGd0dHBadHZRNVA5VGVLamd3dzN5ZUNTMFdDZDk1WVVYc3V2cnNlNDNmX0RRcUpxSTdLUGVaVElkc1ZMZ2dEaWR4eGhtOEVqb3hIYVcwYXpmdEItNzl0Ym9Cc2NJbzA?oc=5",
    "source": "Bugün Kocaeli Gazetesi",
    "published": "2026-10-19T12:36:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "1e39b9882a7b7bf0",
+   "title": "Kocaeli’de salgın artıyor! Hastane doldu taştı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTllhenFBdUlpMkYyT1VYZlJIUy0yX0h5eEtTQm9jZXVGM0ltdGhVb2dzX2Nrb3lBWXdKdVBzeWRuYlJ0Z3hCaEljbGpZZlN5ZURQSUY1U0VRcXZOV2JTXzdQaHUwbWFPRUJQcUxXRE5JTmUzTUpfZjlPVHFDUU1UVnZXcHBocXU4bUl30gGQAUFVX3lxTE5UNWZoLUxMbnpHak90S2xmMnpHWUxjX21YaXZ0cHFfUVR5SHhLNG5FeXdUUkRVS2VlbUJhYUJ6YkxQTDJUWXVNb01VazdIZHBRWnQ4dXhwRnVKTjM2eml6ckNYVVY4Y3FLNzd0NnRDekpxd1RSQmxVaUpCLTQ4NVFVWEtQUXVwNXB4WVAzcW5HZg?oc=5",
+   "source": "Mavi Kocaeli",
+   "published": "2026-10-19T12:22:33Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "7882959de5b757ba",
+   "title": "KOÜ Hastanesi Başhekimi Prof. Dr. Maksut Görkem Aksu'nun acı günü",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjZKLVVpWkNsMVNXQ2tIcldJbHQ0Rkl3MTltX2FlMGw2RjlDZkJ3cS1GYnVuVnJDYTAyU1pJYkJ4RExtaEtKUUQ2UHMxRDBGMlBIQ1JGYkdla0pUcWJZMTdhNjR6TlUzTzFHbVpUUENJYmhadWdRd1NUUjBLV1hyVmZDU1FieWpKdTkzMDBsWGN2dlZsbEFZODcxZllKOWNUb3dxQkZLSldIanBoV01XaHNEc9IBswFBVV95cUxQcjZKLVVpWkNsMVNXQ2tIcldJbHQ0Rkl3MTltX2FlMGw2RjlDZkJ3cS1GYnVuVnJDYTAyU1pJYkJ4RExtaEtKUUQ2UHMxRDBGMlBIQ1JGYkdla0pUcWJZMTdhNjR6TlUzTzFHbVpUUENJYmhadWdRd1NUUjBLV1hyVmZDU1FieWpKdTkzMDBsWGN2dlZsbEFZODcxZllKOWNUb3dxQkZLSldIanBoV01XaHNEcw?oc=5",
+   "source": "Kocaeli Halk Gazetesi",
+   "published": "2026-10-19T11:02:00Z",
    "image": null,
    "hospitals": [
     "KOÜ Hastanesi"
