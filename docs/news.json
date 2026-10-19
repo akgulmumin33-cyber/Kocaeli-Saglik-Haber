@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:08:21Z",
+ "updated": "2026-10-19T23:48:57Z",
  "items": [
   {
    "id": "bbb72304d049b8b0",
@@ -888,6 +888,18 @@
    "published": "2026-10-13T12:41:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "8b74b566dad91d31",
+   "title": "Kocaeli Üniversitesi Hastanesi’nde ücretsiz ve anonim HIV testi dönemi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOby1YS2dxVXprd1ExeTJRVjN5OW9JbHp6Tk4yenRzdHNFNFRGa2VFVjZ2anlNaWxqR2xzaHIyMnhENWJsMG5ycnlUVVh0bUpnUmNaUE1tUWpremo4QUQtMTVFZUdiRjBLOVVxLW1BNmt1bWFaSFhhSTNmdDFKN3R4NG1oNXdpaTJFSzNBWFZsN1VPb0JkYTRUU29wTkoxWGgwRUg0VW5Kb3dJTDAxcFZDQWZsZ0VoS2t10gG-AUFVX3lxTFBYTk4xUzhnY2RISzRGbU5UNTl1UWFZZGoyWFc4eEJwekxCNER6VDdCUXE1ZEVFRlpWUXYxMnB4Q3E4c3NkVG1oLUk2azFZNURXbkd2em9rbmhITkZKX0FiZGJLRGtUSjVXVFJldWRRdi1EYkFMSGxSMnUwdUo3aUdSM28wR2Nib1d3U2JzaURrN21icXJIMjFyYmRyNjNLNGxqZWhPM3duU1ZzYlBjTTllVmxBdFZjdG5yYUUwQ2c?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-13T11:58:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "a4068d3354e071e1",
