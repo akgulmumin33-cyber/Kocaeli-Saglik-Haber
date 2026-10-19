@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T07:47:48Z",
+ "updated": "2026-10-19T10:20:25Z",
  "items": [
   {
    "id": "a8c667f7b0d334b3",
@@ -10,6 +10,18 @@
    "published": "2026-10-19T07:12:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "93c93a3bfacc7f6a",
+   "title": "Derince EAH'tan kadınlara özel '18 Ekim' mesajı: \"Menopoz bir hastalık değildir\"",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ3l4VGNUdmFRTkkwbkpmMFluVmRUcnE4Y21FWFZLNTdCWVczbUZIY0g4WVI2bm02eWVJSTlzcWQ5UjllcWZCaVdlaFJPN1R1aGt1dDloWXJQbGgxMlIxMGxGZDlrRzEtQ3lWMzRlMV9vVHVGTHhvVW5pSmRPMXRxNG53cW9ERzk5aURybi1hUEU2TzRhc2V2ckFPbTJiOVVXU0M4cFU0dkN4WXh3WWlTdmhHQ21BNU9xUFJWUE9tcWpmaFBm0gHEAUFVX3lxTE1neXhUY1R2YVFOSTBuSmYwWW5WZFRycThjbUVYVks1N0JZVzNtRkhjSDhZUjZubTZ5ZUlJOXNxZDlSOWVxZkJpV2VoUk83VHVoa3V0OWhZclBsaDEyUjEwbEZkOWtHMS1DeVYzNGUxX29UdUZMeG9VbmlKZE8xdHE0bndxb0RHOTlpRHJuLWFQRTZPNGFzZXZyQU9tMmI5VVdTQzhwVTR2Q3hZeHdZaVN2aEdDbUE1T3FQUlZQT21xamZoUGY?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-19T07:08:00Z",
+   "image": null,
+   "hospitals": [
+    "Derince EAH"
+   ]
   },
   {
    "id": "0c4fdeccb30b331b",
