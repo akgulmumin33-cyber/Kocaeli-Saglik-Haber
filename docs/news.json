@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T14:31:48Z",
+ "updated": "2026-10-19T15:16:23Z",
  "items": [
   {
    "id": "53d4ddb7e2b2debd",
@@ -22,6 +22,18 @@
    "published": "2026-10-19T12:22:33Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "7c7574d58450a5c8",
+   "title": "KOÜ Hastanesi Başhekimi Maksut Görkem Aksu’nun acı günü",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQlJaTVc3RWUtR2E2TDRuakV0UFdOMEFSZDlWUHRaakEySXVGSElXRTU5MUNLampjRTVDTW9mQmZpeDhkcENOZVMxaVVvdWdFSXhyelFHeUgwVXV4LXVQckRGMFlSZEw5d3M3Vkt4YW9sR1JnYTBOMEVOTi1HN3EyVGczbllyQWxkZXlsYXNGcllkYk8wdWlDbE1VWHlvOEJSbHU1WtIBqgFBVV95cUxNRjZlUENlVktTZFNkdlg0OHk2VGJRa1gyeVQ0SWFvYkVOcnMxdG5jVTZRSGJGWXlINDRMbVVvWFRuX3FLbE5CMG5Lblhhd3FKcEhCUVVKME5fcVFkT3RTMUFiQ1NNbXlKczFtSkVObmdTcTdHdGhJLVZRZURwNTJWQUpMdXM0b0VvVFAtN3o2cUwxSDRqcUpTVzRMc1VCWHRaY0x0OXdwanBDdw?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-19T11:57:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "7882959de5b757ba",
