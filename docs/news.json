@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:11:37Z",
+ "updated": "2026-10-20T17:41:52Z",
  "items": [
   {
    "id": "70f8fac04ca71f13",
@@ -66,6 +66,18 @@
    "published": "2026-10-20T12:31:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "4b60a4ea1d0bb2b2",
+   "title": "Gebze Fatih Devlet Hastanesi kantini 10,6 milyon TL’ye kiraya verilecek",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGh2MkxvSV84MUpUSUdUMmRQdURVamhYMzcteXBSdjJJZm8zUTVkdU0ta09JVXZhZ2RxR0FxZHhsYnotX0ZWbFozYjFiazJqUnNFazBzeXlVNGwxUWpsSjYtSzZlMVBjUWh1REtxeU5CcThUNzlLcm5rRkZjYmJUM1Jod3k1ZGZxR1NBelNsOFZ1M3pLQXRUcHRTMDVOV283bUFqSHFGaTJ2OVlta2o3Q19zdw?oc=5",
+   "source": "İlke Kocaeli",
+   "published": "2026-10-20T11:30:40Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
   },
   {
    "id": "0056ce3a5861b601",
