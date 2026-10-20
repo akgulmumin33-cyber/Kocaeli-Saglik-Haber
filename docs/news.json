@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-20T08:18:23Z",
+ "updated": "2026-10-20T09:32:03Z",
  "items": [
+  {
+   "id": "97d5be778f5be2fa",
+   "title": "Kocaeli Şehir Hastanesi'nde doktor krizi: Hastalar randevu bulamıyor!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUgzWldxaC1qcWZPRzZ4RVhlaE5ENU9hTmNvWWxlYUZCM0h2UXlkVUJyS2NWdk9ONko0RWJEY2huOWtkRThzTU1naTJobHZxd095bzJMWDl6R2lGNG82bjA3ZW95VDRqNnRtdjVsdEdtalBWMDNfNXd5N2R4STM0OWYtMzd2RDU2SjNkTGNqNFltY21VRVpEUDNxd2dqNGxEZHkweVdEZnRYZmo30gGyAUFVX3lxTFA2bW1wNUhWQ0hneFB6X0VaVE1OdGRoNHU4YkxMNEUwb1BxNk1ucnRzNHZuazN4allZQ1RSaUNqSmFIZ2N5djFfdV9VWHZDZmx6emRVU3pSRnpteFpQQzhhbWlma2FHb1B2d0FaZmd2VWdqRzBvelZLUEllcHhMOXpqbFA2Z3A3ckVyU3NUM0NNR3dkQkhyOWpQc2Jqb1dvSXZmdWJnS0VIdXgtcE42b2NjVnc?oc=5",
+   "source": "Ses Kocaeli Gazetesi",
+   "published": "2026-10-20T08:22:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
   {
    "id": "c78cf4bfb215101a",
    "title": "Gebze'deki devlet hastanesinin kantini kiraya verilecek! Yıllık bedeli 10,6 milyon TL",
@@ -31,6 +43,18 @@
    "image": null,
    "hospitals": [
     "Gebze Fatih Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "d8d45651fb6d049f",
+   "title": "Gölcük Necati Çelik Devlet Hastanesi uzmanından uyarı: Sessiz ilerliyor, ilk belirtisi kırık olabiliyor",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdHNjdDZFNEJtalp3YmUzUHU5Ty1hZVU2NTNRT2tfLWFXZzEtRmtlWUplYjYwaHVuVWdVV2wxRVc3WGFaVHhrSktVWVZqbHplVVJXLV92cDJ3eWpGS21DUU82cVdpQ2t4TW9SZENrS09yQ3VKVnVrQXNsMnFtMUhkTnp4TlJLd2pWTW9LSFpGM3JZQzA5dHVIeFVTMnlrSVN6RFBjVWZTR1ByTDJNZnBOUDE5LXNZcnRYLW1DazUzU0RUWm9UTk9PNlpIOEtOQjN5ck83OTVVblVmN3JCcU1QUkNXRdIB6AFBVV95cUxNQ1B0U1I3OVRtVF9waGhXVTYtMjRLMVFWdndDMEpZb2lPaHRLNWhXd1FMRWxNXzRXdVJSaUdCUmw4VFN1WUY1RExDS1p0RGVodVRJV29vV1lZaTVOQ3kzc19SazRDYmFsZ2FGT2V4SFp3Y1NMVGIzamJkN2p0cHQtWm91Y2NoNDJXS21qaFVpQi1NamRVaHg2OVlycktYeGlpRnpuOWJZb2lzOXpLdTFxZTBraW1Ub01xR2ctQVFJdDlDZ1FwWGEyYnlCdlNHSW1zZ1psSUF1d0xZbmFIMXJKVjV0RmZoQ0xX?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-20T06:38:00Z",
+   "image": null,
+   "hospitals": [
+    "Gölcük Necati Çelik DH"
    ]
   },
   {
