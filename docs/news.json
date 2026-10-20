@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-20T11:51:44Z",
+ "updated": "2026-10-20T13:17:08Z",
  "items": [
+  {
+   "id": "acdfd61be526b999",
+   "title": "Kocaeli'ye iki yeni sağlık yatırımı! 75 üniteli hastane ve 120 yataklı proje",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3ZhNERCTnpJNDBTN2h2OUhJY093RDdGS284Z0pJM3RtVEhsLVpPelBlc3VrOVJXczB2cG8zemtZb1V0bEh5WlFpWm1leTRKWFRTTThIMmtham1ZRmFFZUVJaU5pTG9rRWFjTjI0Vm9McHZPUmZSR3BRYXpzdVlSQ3BQMlBvT2Vod3l6VVM1NWRLQjlxR2Zndjg1Q0Q4WVhGSGdNTG1iVGxYclFWa1lQaDVsYmZMakxFX1hSUE9ibENUZ9IBxwFBVV95cUxNbVNqZ0Q0VFFvSlE1MlljNzc3WFBhSjBaRV82c0VWTjVqX2pwYTg0SDVBc0pNQ0VJQjBGZ1FwanZKclZ6d2hGTl9xZWZtR2VsT3paVzMyWDlHUHl0eUtETjFEQkM4RGtUVlVtb2pra2ZEUEI5cmdaQkNuWXpSSjQyZG1ibVFXM1RITU9xdHV4aVFlV3ZJVmJZMnk3d3c1QWM1VTlGUGxXRXdUa3VpTlc3enFhaS1FVUlZWEdibjRsYmFGamN2Z0hV?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-10-20T12:31:00Z",
+   "image": null,
+   "hospitals": []
+  },
   {
    "id": "0056ce3a5861b601",
    "title": "Kocaeli'de tedavi gören eski muhtar hayatını kaybetti",
@@ -18,6 +28,18 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmNsZjRtUDJRRXlwNjlZa0NZaUtlWjJ1RzZ1S2EzNngxZUd2T1llSTdwR2VDeWNrV0lfeC1HS0pMal9XUlRLNlVsZDNsZEtvbzl4MGxUNjlMT3psTGgwbEVHZE12c0JqRnlHandoMUFjZ0tqOEcwbHJyWjZxT21yWk1sQjU1VDNSSi11emdacGJaS0ZQN2J3aTBpUlhGWFdCRHRPdDVPZWtjZUFfZ3VWTFNQRjZSaE9ydmhlc1RHYU4?oc=5",
    "source": "41 Havadis",
    "published": "2026-10-20T10:50:59Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "589ce5392a5e7a6c",
+   "title": "Gebze Fatih Devlet Hastanesi Kantini İçin Milyonluk İhale!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV196SzRaZ1dtSUg0d3lFeDRHT2JnaWQ4M0gxQTVQOUVoNmlCMkUyMzVaSFdKUWctNWRvWEdqYWpraVl2ZF9id040MDNDZy1kbUp2aDJUYnVjOVFEMDZSNW9QM3h5NDJPa1pZTFEtSkV1Sm94dlBqd2VHeUxCeDRLZHFCWXlGM1pfbEZqWTMzdmtONlpnLVd2clN0UU5LYlROdnJqb1RsdkZjWTFX0gGyAUFVX3lxTE9EVGYxSUwxSHpHY3Nkd05hTExWLVI5ZWZRNjhISzViNWxKX0hnblE2ZlhhYWV6TE5naHBzLTRfLVBCQUIyVzVyMWpiVDJvX2dyZU5TVzhQQnNZU05EQU43Z2ZHWjF3YWM4VjZmODAtREVHXzRUY3RXUXgxbGk3TFVzbkZrQlpMZlRPaVBsRUJCck5RbnRaQjE3YUV3WUtEb3pNcFB5ZG42LXl3OWNDTUkwdHc?oc=5",
+   "source": "Mavi Marmara Gazetesi",
+   "published": "2026-10-20T08:46:00Z",
    "image": null,
    "hospitals": [
     "Gebze Fatih Devlet Hastanesi"
