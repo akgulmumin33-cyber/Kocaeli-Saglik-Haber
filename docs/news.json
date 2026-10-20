@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:32:03Z",
+ "updated": "2026-10-20T10:08:39Z",
  "items": [
   {
    "id": "97d5be778f5be2fa",
@@ -22,6 +22,18 @@
    "published": "2026-10-20T07:38:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "2bb4edcced95e212",
+   "title": "Gebze Fatih Devlet Hastanesi kantini kiraya veriliyor: İşte yıllık kira bedeli ve şartlar",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZTdaYXRYemRIN1Z0ZTFQT0pETlVMWU5zakJzNGZXeTN0R2xwZzQ1dGFDbzhKaG5rMlVidkZyNjI5SGFFMVg0UEVyRUJYZll5RWVnN0pMME1GRXFqemZQTmRGcnFkb2NsUUV6NGxRSDlEYWdCQy1CcjYwVXVUbzljUlpZNjBMWERfRWZ5OWdZazBoeEdxZmdQZGtETEd1S0NmMDRJMm5Fb0xlNmZ0dkxORlJLdFRWeHJK0gHAAUFVX3lxTFBvajZaZXExcFZ3ZVplZXZKT1N3Z3MwS0pxTDZmSHNxZk13TjRuLTlNSlpCSmhzeEd6dXNEZHE0ejMydnhaNnhzNjdzdnFkSmhFREtBZnVqcjRQa3huenRmLWttTFRlcWpHRlBlUG1NanprVmFKQ0xuNk1BTmZzbkNtY3IxeXhvM1RxOG5uNVIwbVh2ZHBRQ3JhbkE4cFZxZWVHMzVLemkxQ195dDJ3QjBicTJUcmpoYU56LVE3YVAzMw?oc=5",
+   "source": "İşte Kocaeli Gazetesi",
+   "published": "2026-10-20T07:19:22Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
   },
   {
    "id": "5ff06c1409549237",
