@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:17:08Z",
+ "updated": "2026-10-20T13:59:32Z",
  "items": [
   {
    "id": "acdfd61be526b999",
@@ -146,6 +146,16 @@
    "hospitals": [
     "İl Sağlık Müdürlüğü"
    ]
+  },
+  {
+   "id": "2f3f650c03d5324c",
+   "title": "Kocaeli Devlet Hastanesi'nde doktor bilmecesi: Hastalar isyan etti",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0RFck8zR2ZrdFhSRU9uT21USEVIWGVLZ0hmNVE3dXNnV3hzT2F2SnkxWEl0ZFJjcThPcXFnYklHY092YjRfVGV4c21YenJGcFdpSE5NR3gtRlpDZzJ1eGlhcTJXMGlZUjY4aXJtTTZEa3VrOThhbWpaWWNVN1lMMkNySlozYkpuMjVJYzJ0SlM2S3A5SHQtUFk0YlB6eVBrcVFQdnRyX1NCeWlXY3VzUzl6aGtCZEnSAbwBQVVfeXFMTVh0VXpUaGVJT0lEd3o5NWNkeEVtUmQwUUlOd1ZFUVI0di1DWFJRdVNlMnBxdkk3bjNldG5zUWZwM2pGTTZZX0pzVGVBQzQwUjlVdGR2ZnZEbXNMci1nLVphdDR4WURtbGR3ZkRxcUhocDhPZ3VNTmRiVmtsSFdmSkRaakQ3NlBNR3JkSjVOMVloODlRQ2NPcldGQzZqZHNWWlJBNHROaU1sZmJwSjJ6eTNuekI4a0VEMUNDd2k?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-10-19T20:09:57Z",
+   "image": null,
+   "hospitals": []
   },
   {
    "id": "c0438841c22878e3",
