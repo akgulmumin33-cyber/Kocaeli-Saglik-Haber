@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T22:09:22Z",
+ "updated": "2026-10-20T23:45:15Z",
  "items": [
   {
    "id": "76a80c0e01d67b75",
@@ -12,6 +12,16 @@
    "hospitals": [
     "İl Sağlık Müdürlüğü"
    ]
+  },
+  {
+   "id": "7cc1103ff26cf813",
+   "title": "Gölcük'te sağlık hizmetleri",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zNF9UTWRpNjAzamNGZmFFRUdlLU9pbVV4VDdld1lPN2JNcFBVWlRvNTYyb1pZanlIei02MmMtVmVaTnljZV9CZ050cXM3YlBROGhBeEJNVkpHNWJSRDJiYnZ6OGlxbkxjaDZoY2dXQy1xWUpFSmVn?oc=5",
+   "source": "Haber 7",
+   "published": "2026-10-20T19:52:00Z",
+   "image": null,
+   "hospitals": []
   },
   {
    "id": "8b1aaa83ba0c3e13",
