@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-20T14:33:38Z",
+ "updated": "2026-10-20T17:11:37Z",
  "items": [
+  {
+   "id": "70f8fac04ca71f13",
+   "title": "Gölcük’te Doktor Sarıcalıoğlu’ndan Kemik Erimesi Uyarısı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXdSekY2MGYtVTBhOHplQjRYaFVuSWU1aFRJdlhUcjNQckM4QlNWdWVjaHF3eTN3UlRSaFdRSlFsUnhOLWU1b28xQkJ6bng3ZXd6TkRqLUpoV3VoRTJTY1NUMG96a09BSXVaY1gxc2NkMnpwOUNoWG5nQWZveDF1SnRjWU5WdXYyWFFr?oc=5",
+   "source": "Kocaeli TV",
+   "published": "2026-10-20T17:00:00Z",
+   "image": null,
+   "hospitals": []
+  },
   {
    "id": "f275327e6534603e",
    "title": "İl Sağlık Müdürümüz Op. Dr. Yüksel Pehlevan’dan 120 Yataklı Acil Durum Hastanesi Alanına İnceleme Ziyareti",
@@ -22,6 +32,18 @@
    "published": "2026-10-20T14:33:38Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "328067691ad863d2",
+   "title": "KOÜ Hastanesi Başhekimi Aksu'nun babası hayatını kaybetti",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVMzUlBMSXhMYXlGYW1ITXhnUEx4UTdRX0E3cTBzU0ZYRDNKU2NpN2NCdm1zZTgwaFR2clhlbDBVaV9KazRORmR1bkZXTWVWSnNlNnFweVphQWZsZXBnTUt2WE1vX1ZhUkdiUXlfeEF4TjdOMUpQSno0aGFLdHVtdTJpMkhJX2NzblVGOC1UdHVpd0FMNVViVE1Fa1BWUUVZdG9JRTFwUjFtNkHSAbABQVVfeXFMTzc1QzhsVEs0ejRZZzk4c0JHWU82Wm9GeVpGWENoNnNzQUxIcklxLVBtNE8zV3VvWjJ5VWlURjJJOF9pem5haVh0eENuQ1l2eHA1U21BZDhpUGpsM2tubk9rbDZkRjVLUHNTdi1ReW5NRUY3QjVnV0Q0dURQODU3bzdlbHlxTEVNU1R4WmJ3cFVyTWVseTlSZDBMZkxxaHVEWFhSSDVJTzhCM3JEcFRFQnM?oc=5",
+   "source": "Mavi Marmara Gazetesi",
+   "published": "2026-10-20T14:29:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "5b440058e0c33b8f",
@@ -123,6 +145,18 @@
    "image": null,
    "hospitals": [
     "Gebze Fatih Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "bb21513859654b3a",
+   "title": "Gölcük Necati Çelik Devlet Hastanesi'nden Sessiz Tehlikeye Dikkat!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFhfSVc0enVJOUVuaV9oc3BXR3h3Qm83Y3gzd1Nub2lMNjU5akJSeWF2X1VhQmxZeDkySDJzX1pQUU1JYWZyY1VmemZDLVJZQ0dGbGRtVmF5MDZVU2ltc3JxZ1c2NGJ5WmZyVW1jUmc1TzcyN015eXVydllzUXh2QXpGYlQ4dU9KOGZUTlpmck8zQ0dhanBDZElBT1JWZEVUdVY2MW9teE5IRmtI0gGyAUFVX3lxTE5HSTdCVlVGOFRzOUE2OTRVazRadTdDdTdiNWJEVWVBNjItcjZBWjZsQWpSVkZVVHVIOHN4UU5zZnVFU3hoUzl2VU5pLUl2TmdSeWZOYTNrbTBYNG4zRzVJa1B3ai1YNGpMSFJORURGUVN0NEhuNDhlTUY3SU9lYWdFbjY3Mm0zMnNybzhvTGxocVgzb25Ic2VVVURuSWU2NEQwWVRqczZCTldSTVlDakt5TUE?oc=5",
+   "source": "Gölcük Gündem",
+   "published": "2026-10-20T07:19:00Z",
+   "image": null,
+   "hospitals": [
+    "Gölcük Necati Çelik DH"
    ]
   },
   {
