@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-20T06:14:01Z",
+ "updated": "2026-10-20T07:06:46Z",
  "items": [
+  {
+   "id": "5ff06c1409549237",
+   "title": "Kocaeli'de hastane kantini kiraya veriliyor: 1 yıllık kira bedeli dudak uçuklattı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTmExbFZuMjRiSTVNcE9xZzN2S2JYS3Etb2E1LXVDVGlKLU9RUGdRdEEwTnVmeEZWTFR3SWNIX3M2WXlJYndQM25JVTBDelh3TUNONllYQTJRUzlyNXN4VERJRTcxR1cwVWc5SGtYWW9OWjlFN3BCNVgzeGdKYTJMYUlwUEpXVDJrdHkzR09aSVZHdEdYNi1pTkxJemsyM1NjejI3YUFrSEZfNlo5SWxudlM2SkxTcnc0SmxxQWFkNzFudkFnbmM3WmNpSdIB0AFBVV95cUxNUmo2cGZZNEp3aTlsb29ZX2VhcXdfYm9JTmZBdzhqSmlZSmZaM2Z4aHdRTU95TkIwcTFTdVlYaXpCdWNIZWdUT0xmeTdRUjhKa3dmT3h2bWFha2Y0T2ZEaU96SGp5ZzRUYlNUVFQzc1EtM2hLU3hfSnFOYzB1c0ZaQjNMejg4ZFpYRWpmaS1LcE1QdFp1X3VhQTE4WF9tQWxwcVVmWnlPNXdHRTdvWFZTUi1zdllHTy1ZZFpwM3ZYblpfREdvYktLQmlXaHVmU05F?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-10-20T06:53:42Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "7da6963987393ced",
+   "title": "Gebze Fatih Devlet Hastanesi kantinini kiraya çıkarıyor!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGtUWTdXcjNOMzA3UFFDZFNCWmpGdk9TcHNyMjl0c25XdUVSemZEbkFaRXRyZUNkNmw4dFR0aFhHb3lhTWJhMTFzVkc3dHVGMm9IMTZTM05qQTlvdEJCM1JEUG9rQ2l0cXlvV1UwaFhFYVIyeFRZZjA4d3ZCcGJCVGxWTVlrYTlTT21uMFVzZ2c?oc=5",
+   "source": "Bugün Kocaeli Gazetesi",
+   "published": "2026-10-20T06:49:00Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
+  },
   {
    "id": "c6a7072029ab8ef1",
    "title": "Kocaeli’de 104 sağlık yatırımı tamam; Sağlık için dev yatırım listesi ortaya çıktı!",
