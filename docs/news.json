@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:45:15Z",
+ "updated": "2026-10-21T02:52:51Z",
  "items": [
   {
    "id": "76a80c0e01d67b75",
@@ -1088,6 +1088,18 @@
    "published": "2026-10-14T09:39:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "a17adb201f1a5db6",
+   "title": "KOÜ Hastanesi’nde önemli merkez açıldı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTllVLVFabUhaQkNtT0N4ZW9GMnZZbWhwejgxSll0dFFUTk9tRmZENmJOaEZjcTBiaUlnSDV5M1N1NjNpcXhHaUFDTE9BZ25ZTHBEVzlDUUJ3cGV3ZThOdmYtRGNocUw0eGdXc2JnVW5DbTFNT0VzS0loUzNSdktCdEl6alpDVGY4djJpRTNZd19aZw?oc=5",
+   "source": "Gölcük Postası Gazetesi",
+   "published": "2026-10-14T08:07:55Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "17c6aea392466051",
