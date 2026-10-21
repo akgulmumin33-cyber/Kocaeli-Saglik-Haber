@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:53:24Z",
+ "updated": "2026-10-21T13:19:26Z",
  "items": [
   {
    "id": "6764b6503507f682",
@@ -10,6 +10,30 @@
    "published": "2026-10-21T10:47:58Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "f1257513ca21b373",
+   "title": "Dilovası Devlet Hastanesi’nden meme kanserine dikkat çeken etkinlik",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0ppVGdScXhWc3MzTWYyam01ZVJhbk9ldUsyREEyQWJZWlNHd2t0Q204d292anlmbTVXbXB3b2E4VlU2UGtaRXd0UUNpMnM2U1lSWW1zbm1USlNuMkV6dkdHYWNwVDdSb1RKWmc2Q1FfT2l3YWVCUThzYlR5M1hIeEw2UUJKWGNyOWlUaDE3MDdhR0ZoMi1uZEdSR25DUnYyOTlHUTRub3Y3SDJsc3l4NTZFMXpmUEhpNlA2ejdn0gG-AUFVX3lxTE93SmlUZ1JxeFZzczNNZjJqbTVlUmFuT2V1SzJEQTJBYllaU0d3a3RDbTh3b3ZqeWZtNVdtcHdvYThWVTZQa1pFd3RRQ2kyczZTWVJZbXNubVRKU24yRXp2R0dhY3BUN1JvVEpaZzZDUV9PaXdhZUJROHNiVHkzWEh4TDZRQkpYY3I5aVRoMTcwN2FHRmgyLW5kR1JHbkNSdjI5OUdRNG5vdjdIMmxzeXg1NkUxemZQSGk2UDZ6N2c?oc=5",
+   "source": "Mavi Marmara Gazetesi",
+   "published": "2026-10-21T10:18:00Z",
+   "image": null,
+   "hospitals": [
+    "Dilovası Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "b98288f1db883532",
+   "title": "KOÜ Araştırma Hastanesi randevu nasıl alınır, Umuttepe'ye hangi otobüs gider",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTdwd3ZPa3BNU2NPTF82YUZRUVNFX2NCRVBXbjBFM1J4cG4taFNCeThyY2NuLU5JRnVOV1VXTElIVzU5SmRzcmxLb0RiMzZtd3phQkNjWXc1OXhvZVVUbHNEU1FMODg3NFNPM3VsNGoxd29EcHQ5WlF6c2hCRGUyc2c3VnF5S0FmZFZib3owV2t2UnQ4RkxMdE4tNkR2N0pJLWN1SmQwQ1RIU3R1UmQ4UWwzeUowazRUNnBzQ2t4b9IBvwFBVV95cUxQOTdwd3ZPa3BNU2NPTF82YUZRUVNFX2NCRVBXbjBFM1J4cG4taFNCeThyY2NuLU5JRnVOV1VXTElIVzU5SmRzcmxLb0RiMzZtd3phQkNjWXc1OXhvZVVUbHNEU1FMODg3NFNPM3VsNGoxd29EcHQ5WlF6c2hCRGUyc2c3VnF5S0FmZFZib3owV2t2UnQ4RkxMdE4tNkR2N0pJLWN1SmQwQ1RIU3R1UmQ4UWwzeUowazRUNnBzQ2t4bw?oc=5",
+   "source": "Kocaeli Denge",
+   "published": "2026-10-21T08:32:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "9f7a04b6b0ccc619",
