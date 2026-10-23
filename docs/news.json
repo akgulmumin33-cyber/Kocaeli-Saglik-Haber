@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T10:51:28Z",
+ "updated": "2026-10-23T11:59:39Z",
  "items": [
   {
    "id": "89e5b877cd1e2a4e",
@@ -12,6 +12,18 @@
    "hospitals": []
   },
   {
+   "id": "ec4b5bb8de288f69",
+   "title": "İzmit Seka Devlet Hastanesi’nin kantini kiraya veriliyor: İstenen bedel dikkat çekti!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPblpuS1FQQWhOdUtDRTZ2djJCVUJjbF93U1FlQlRpMHB4V2lfaTV6MlRWUFZQLW5uU0tENkZIOW5PYjRaQkw4MUVhd2VLR1NXb2NBZEFNaW1ZaVBLbXpweFJZVVFJVzY0NFFLbXBJT1gtcVpNMzkzZXJUUnlmbEVuMVk5VXVQbGZnTHhVU1BBb2k2VE1OTUM4WXI0OVBFNDF5ck5NUTJjTGRWU1Y2aXBoUWZGSTlsZ3FIN0tEWWpXTlA2OE1jSmhB0gHHAUFVX3lxTE9uWm5LUVBBaE51S0NFNnZ2MkJVQmNsX3dTUWVCVGkwcHhXaV9pNXoyVFZQVlAtbm5TS0Q2Rkg5bk9iNFpCTDgxRWF3ZUtHU1dvY0FkQU1pbVlpUEttenB4UllVUUlXNjQ0UUttcElPWC1xWk0zOTNlclRSeWZsRW4xWTlVdVBsZmdMeFVTUEFvaTZUTU5NQzhZcjQ5UEU0MXlyTk1RMmNMZFZTVjZpcGhRZkZJOWxncUg3S0RZaldOUDY4TWNKaEE?oc=5",
+   "source": "Ses Kocaeli Gazetesi",
+   "published": "2026-10-23T08:47:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi"
+   ]
+  },
+  {
    "id": "ba43207e5042942c",
    "title": "GÖLCÜK’ÜN SAĞLIK KADROSUNA TAKVİYE! 4 YENİ HEKİM GELİYOR",
    "summary": null,
@@ -20,6 +32,18 @@
    "published": "2026-10-23T08:38:25Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "d72b5e108986a007",
+   "title": "Seka Devlet Hastanesi kantini 1 buçuk milyon liraya kiralanacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSW9xNzA2Z2Vpc3RadkN1dy1lU2UtMmxCMWo1c20wSG5vRE9vTnVvQkRuR094dUpOaEdKM0k0cUxFTUd0OXBFaW1XX3ZkRzVJSE9yLXFRZ2ZIVDFvNThOV2w1dUFVeG90QW5kTnJKaDRVRDZXQ1VyaG5vNVNRc1Zkc1VVelVhMWVhcnhseVlKaGs3X1dvZUNGdk1nRTM2aUJVR2FUYUo3LTg2c2o5REZN0gG0AUFVX3lxTE8zTndYeGFoMlpsUW03OXJvX0c2NjFnMXc0bXJWSW94YUJmc2QycE03WWFHa3dQWFc2MG9hT05iMTZzYXJUNU9qS2lRRU9pY1Z6LU9sRkRVakR0Q1kydW9kbHhKVlpYN3BFR0tDM09wNDNUSHZidElpUHVGOC0zS2VuTVN3Q3czOTM1clR3VC14LVRLNkdwcElDT3hsN2NmVVN4MFhvd25wbXZzb1NzMkF5aXRwZg?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-10-23T08:21:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi"
+   ]
   },
   {
    "id": "908e00c53105b220",
