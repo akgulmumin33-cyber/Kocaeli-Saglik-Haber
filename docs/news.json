@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-23T09:04:35Z",
+ "updated": "2026-10-23T10:51:28Z",
  "items": [
+  {
+   "id": "89e5b877cd1e2a4e",
+   "title": "Hülagü Duyurdu: Kocaeli’ye 46’sı Uzman Toplam 48 Yeni Hekim Atanacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmVOdjU1ZlFhQUdYU3dBNV9QeFp0YzltYndMeThNOHRrNGJja09rODBPYUtJdXUwU2lwZU9NNENfeUl3blFCYlEzYWp6T1lES3NkcG9mREpTaXo2c3YtWEN5WUZuS3BqWmVxR2NRNER6WGVJSDBmUXdzcWFBNk5VNlJPclNkWFBpc2FoQ0FRTEdSeXh4NVZ6bERR?oc=5",
+   "source": "Kocaeli TV",
+   "published": "2026-10-23T10:30:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "ba43207e5042942c",
+   "title": "GÖLCÜK’ÜN SAĞLIK KADROSUNA TAKVİYE! 4 YENİ HEKİM GELİYOR",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVWpVU0RaNG9MTm5EV1hrbFBPRERCQVJRX1IxYU9EaWh4ei1iQkZQcFhnOWYwTU1GZEVLOUlPXzhacGRvLTJzQmQ4TkVrYktCTzc4Zkg5WFV5NXF1aVN4RnVGeGE1dFVNM2JGQl85cHBqc05uYUlxQV9HYXZTa3I1MG1nS3BGNUpSNmUxcmJTY3JVdkpJeFE1Vmg3YnVMTGFJMUFxMVJEUHNlVnF4RjR0TA?oc=5",
+   "source": "Gölcük Vizyon Gazetesi",
+   "published": "2026-10-23T08:38:25Z",
+   "image": null,
+   "hospitals": []
+  },
   {
    "id": "908e00c53105b220",
    "title": "Kocaeli’deki hastanede büyük ihale! Sadece 70 metrekarelik alana 1.4 milyon lira istiyorlar",
@@ -828,6 +848,18 @@
    "published": "2026-10-18T09:44:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "b7983efcef30de43",
+   "title": "Çekmeköy noktasından Gebze Fatih Devlet Hastanesi noktasına toplu taşıma ile ulaşım",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGRFY1A4SWY4N3JlNTlxc09XV21rQ1FsWlUzc0dQSTBGTklSVm9uOEYzNjFYRkFKQ0JPc216RXhuNEFtSHVvRkdabV9qVC0xRm9NSDdPMVVBanlic0czR2lUd0RtQmRLdzNfeU5LZWRySEJpQl9SQ285MzdxSUNLS1NHNlMyT19HUU9lVFJFYXg0dUJ6WGFwNFJISTREQQ?oc=5",
+   "source": "Moovit",
+   "published": "2026-10-17T12:00:00Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
   },
   {
    "id": "fb67fc43e29d9d9b",
