@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T23:08:43Z",
+ "updated": "2026-10-23T02:07:11Z",
  "items": [
   {
    "id": "52c5aa74286a9929",
@@ -10,6 +10,18 @@
    "published": "2026-10-22T22:05:21Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "dc127a7c92de9152",
+   "title": "KOCAELİ İL SAĞLIK MÜDÜRLÜĞÜ",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeERmSWlTdFNBYnZBRlV3NDdUdFFISVlma1N3X0p4YmZsWEVqbFpxN1FyYW1kUEpDR2RlN0NPQ0xtR2FPaHNweERiSUlRSV82cFg5SmNMMzBKdVp0MTlBOHdXMHhnZGpjaDFWa3BYU0tOX2xYMnhpYVVfeTFPRHJYYtIBhgFBVV95cUxNMGhhNFpVUFh5UjRLOFFHTUZfRzRXRTlGMWhYUTFvNTBWSTBIQVZaT0JQc2UyVUtqT3ZkUER5WUhMWDV0N21lUDlTSGtpQlZSXzBIM1ZiMTBmMld0MWxNMU1weXlPeEZxdmV0MjVLbllSNmszcTdUVThvVk45YmJTc25SZ082UQ?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-22T21:00:00Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
   },
   {
    "id": "1143c102088bf87a",
