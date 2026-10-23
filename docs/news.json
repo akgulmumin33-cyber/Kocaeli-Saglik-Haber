@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:36:24Z",
+ "updated": "2026-10-23T14:01:30Z",
  "items": [
   {
    "id": "89e5b877cd1e2a4e",
@@ -64,6 +64,18 @@
    "published": "2026-10-23T07:44:29Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "2dd423507bb88635",
+   "title": "Seka Devlet Hastanesi kantini kiralanacak! İşte istenen bedel",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlg5Tnk1TUU5UGx3WmZGd1lrSFJVVnRCUUhERUtLSE0wYU1pOXRESDg3SWFULU9JSWQzSGxxbWE4dC1kZWJSU1NiQjIyTm5MVXUxaE5aTFViRldVZ1pHWjRBekp6aUZhTmpKa2Y0ODNkS1d6WHNXRWNvdWFhN24waER4YmV5ZzFTZjRGUWh3QnFDNDlnaTRqdkE2dGE2U1NuN2hrZnZR0gGrAUFVX3lxTE9PcnlEUzhRRWVJdkh5WEtCVXctczhSRjJiOVhicGtzeUh6QndJUUh0TXJLaFZRMjZMbWFLOEd4eG5wZmoxMnVDZGNQTWN2VTRLcjA5N2Q3bnV5TXlaazNTcGI1T29aYkxPZmJjVGxzNF9FOWR2TFNBZXhNMm0tbmFvejJtSlY0QWdnUlRhOFVUWkRRMjlRRGRwVWFBRzNSMUE4YUtCMmh2WEhjaw?oc=5",
+   "source": "Demokrat Kocaeli",
+   "published": "2026-10-23T07:12:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi"
+   ]
   },
   {
    "id": "6e47c4ae4b6a5e05",
