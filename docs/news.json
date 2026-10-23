@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T14:01:30Z",
+ "updated": "2026-10-23T14:43:54Z",
  "items": [
   {
    "id": "89e5b877cd1e2a4e",
@@ -20,6 +20,18 @@
    "published": "2026-10-23T10:22:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "97e7227510487ed7",
+   "title": "Seka Devlet Hastanesi kantini için milyonluk kira bedeli",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0RGV1ZpcGJMSFQ0ODFnbU9WdVRhZFJQS1JScTRpekFZcTlvZm5EdUhfaVdiT1dOS2NPRVk2SGY3eFFKMDRKcFRCZnFXRlZIR1VCYm5md0ZOQUc3TVM2Njg4TEVScmh2N2JLWFlTeEQ1LU43TTIzLUpBYXdsaU9SNFpzQ3FHTFFkblFBUFp3blc3TDZEb1RzbFVYU2NZRGJMclHSAacBQVVfeXFMT2RGeXhXRS1xejVyWWlhS1pzZXZrazRHM091bXBZYlFEVy1YSlBUVnNoazdob2lLWmRZZWFKcjgxY1lKczc3YV80YzBXclpJSDFVT1RzSkh6RzBTUkItZGFUY3FVWTdVSjREWmpMY1dUbkpqcmM4cmVZc21hY0pYdEUzMHhwZzlxX3lGZGJFMWhSOFdkeVBkWm5kbVhURnVCZFF2OVZ3LUU?oc=5",
+   "source": "Kocaeli Fikir",
+   "published": "2026-10-23T09:49:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi"
+   ]
   },
   {
    "id": "ec4b5bb8de288f69",
