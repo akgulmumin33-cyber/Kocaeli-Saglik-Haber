@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-25T10:20:09Z",
+ "updated": "2026-10-25T11:54:32Z",
  "items": [
+  {
+   "id": "5fd69e2349d3331d",
+   "title": "Kocaeli’de meme kanserinde erken tanı için sağlık buluşması",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWF5bUhBV19YV240aEFOcGZDRHJYRWhVakxmNmJXYmY0S2xRRVlQNXM1LXRkTDR0OEtWNHBqUkMyT3l5ZGptNlBEN0tCN2JsaWptRWtza3FHMmNqNExmS2R3dXY3Z2MxVGQ2VWExQzlDR3hOWGRlZkJpQWQ5VnRYcDlPVlNHTmlsbWljNmZpbjRoMUE?oc=5",
+   "source": "Tirebolu Haber",
+   "published": "2026-10-25T10:49:02Z",
+   "image": null,
+   "hospitals": []
+  },
   {
    "id": "06c00525774df3c5",
    "title": "İzmit'te Şok İddia: Yüzde 94 Raporlu Hastanın Bakım Maaşı Kesildi",
@@ -10,6 +20,18 @@
    "published": "2026-10-25T09:50:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "f5c900da124e203a",
+   "title": "Kocaeli Üniversitesi Hastanesine yeni araç geliyor! 2027 bütçesinde ortaya çıktı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzJCTjF6TGxWNXl1UzZxQjljcS1hVTljMkFUSnNScW1yb0Y5TXN2TEl4cFNPTFFXcjN5VWxkZ1VYN2UyaEM2RXhaZTlfMlpaTGd3WDB0U1NaSTB4TVVQb3ZJMEYzclJaRDVMd1pHTmlJSjkzNHZTbERxQlV1eU9MdGxmQVlJSVI4eU1VSkdOQW5QMEFlWW4xYlVmazh5ZnJ4YTdGUlh1V0FERkZqQzdIZ0czeXVDSEZuUDNjOERnOC1RR05wUjVSb3VKY0h6UdIBzgFBVV95cUxPUzJCTjF6TGxWNXl1UzZxQjljcS1hVTljMkFUSnNScW1yb0Y5TXN2TEl4cFNPTFFXcjN5VWxkZ1VYN2UyaEM2RXhaZTlfMlpaTGd3WDB0U1NaSTB4TVVQb3ZJMEYzclJaRDVMd1pHTmlJSjkzNHZTbERxQlV1eU9MdGxmQVlJSVI4eU1VSkdOQW5QMEFlWW4xYlVmazh5ZnJ4YTdGUlh1V0FERkZqQzdIZ0czeXVDSEZuUDNjOERnOC1RR05wUjVSb3VKY0h6UQ?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-10-25T09:11:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "dc2fe4db67470ef8",
