@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:46:26Z",
+ "updated": "2026-10-30T18:23:23Z",
  "items": [
   {
    "id": "4d500fdd7e2d745e",
@@ -378,6 +378,16 @@
    "hospitals": []
   },
   {
+   "id": "985c6c1e96bc650a",
+   "title": "Kocaeli’de hastanelerde elektronik onay dönemi başladı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVlRTTWJhaktiWlFPYnR6QndDT0puaEZwSk4tbzN2eHRLZWVtMEVaZFd4RnhTQjlOeHN5N2lvUzZ2ZlV6ejN2QW4zYmtCMFVtakFXV21wZUxoNlBSUnY2YmtKUC0wZHJldzVsd3k5bWM3NHJRd2tzc3ZLcU0tM19GRU1PYmg4TWswMWo3RWdCVklvMHpfSUpJQVFMa0pBZGIyNXJj0gGoAUFVX3lxTE1sZWEwNExVamFfczd0SFFGdVRKUHNWRi1ackFUdGY5bTM5SksyVllZVUxXbnVtenJUSWFYZ1k5eGRkajZFaVlWOTJQWUxfY0Q4S19DMHg3bFlqVjd2NU9Ua3lJSGp0QXRCN3pVZ3hxSTNpQS1QcVlzOXR3VXZBRTRkMG45M2QwRERNMmQtZ3h1aGRnOFFxTjJjYUV0ME5oX01YdFgxZk0wRA?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-26T21:17:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
    "id": "03546814f02c5474",
    "title": "Gölcük’te MHP’li meclis üyesine silahlı saldırı! Hastanede hayatını kaybetti",
    "summary": null,
@@ -516,6 +526,18 @@
    "image": null,
    "hospitals": [
     "Dilovası Devlet Hastanesi",
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
+   "id": "6b2428b87d2f48e7",
+   "title": "İl Sağlık Müdürlüğü uzmanı, incir ağacı kavgasında komşusunu tornavida ile yaraladı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTFTMklBWnhHQ0hDTm5DWWVvYUlfaVdXMFFQREVkZ19ocWtCU09rMDNJeGszMEFQZU42SXZtWVRWNkJ2dmIyRUtiUVl6UGd2dzNRbVVfSmktT1Y4UFgyTlZJTGhDeVFzOS1VRnE4SmtGZzlkeGluWUlLYnk5VFR5QUg2R1laU3p5VGVtZDBYZHg5ZUQ4c3ZfYkNsOXdLRTJrVG1YUFAyZTlrenEtUWlJMWNSU0s3Unc?oc=5",
+   "source": "Zonguldak Pusula Son Dakika Haberleri",
+   "published": "2026-10-25T17:32:00Z",
+   "image": null,
+   "hospitals": [
     "İl Sağlık Müdürlüğü"
    ]
   },
