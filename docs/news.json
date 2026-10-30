@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:33:41Z",
+ "updated": "2026-10-30T08:27:58Z",
  "items": [
   {
    "id": "529710f928373dea",
@@ -40,6 +40,18 @@
    "published": "2026-10-30T06:28:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "b629978461d7b0fa",
+   "title": "T.C. KOCAELİ VALİLİĞİ KÖRFEZ DEVLET HASTANESİ İLAN -",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWhMeDQ5VU1RYUJndEt4emZSaW80aUhqQU1RZHFMWWFaOGs5TU1QMlgtYkJ4WkNLMG5nQWpMcEtaTnQ0Q204LU1kRzZhT29razlpTk1PU3ZPaXdjRlQ0ZmlBVTUwTm82NjNpV3g1YlI4bW80OFVBM0o0d0p1U0ltcndGZHZ0b0QxOXluVmlRNzJUNlR3QmlYZm9JOHdBamxW?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-10-30T06:22:00Z",
+   "image": null,
+   "hospitals": [
+    "Körfez Devlet Hastanesi"
+   ]
   },
   {
    "id": "c86fab08ced52231",
