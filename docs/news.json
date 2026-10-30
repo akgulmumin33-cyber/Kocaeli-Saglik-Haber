@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:23:23Z",
+ "updated": "2026-10-30T20:38:35Z",
  "items": [
   {
    "id": "4d500fdd7e2d745e",
@@ -36,6 +36,16 @@
    "hospitals": [
     "Gölcük Necati Çelik DH"
    ]
+  },
+  {
+   "id": "2f343769630da336",
+   "title": "Kocaeli'den Antalya'ya 70 otobüs kaldırılacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2hwWFp6cHlvOFVBX29RNU8tSC1ONnROckZacDBVRlA5VUhnNXkyNHBuZzlCd2JHb2FWOVlOSGJVZ3VPblVWbEo5UUVVQXdqUF9nYnVKWXNJMEJkR0xQSUIxSndNTDBTbGE3TEMzZTVab3hiZEFvN0h4cE16XzNvWE13cXB0OGxhSm42d2N6QkVXMzJC0gGaAUFVX3lxTE9Bbl9MTVpEWk5HUHE0S01saWYxQjBWa19oMEhaR0tjb3ZXMkhpaGdlVXZuRGNyRjZvNTlZYUU2WkpQaUhSd2JhRXZEVU9nbkE2eXo1UkkwbEZDZlBqV1BsVjlkdUtfOWhvbU5hYW90bFBJdndmbV9nbnRQNWtQTWctTk9ZNVpRLWFLOU1DOTBYeGpUNnpmcEl0TUE?oc=5",
+   "source": "Kocaeli Halk Gazetesi",
+   "published": "2026-10-30T11:32:00Z",
+   "image": null,
+   "hospitals": []
   },
   {
    "id": "f8beb2d745c2a124",
