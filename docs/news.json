@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T10:18:30Z",
+ "updated": "2026-10-30T11:02:53Z",
  "items": [
   {
    "id": "4b35c04d3291f8cf",
@@ -52,6 +52,18 @@
    "published": "2026-10-30T08:14:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "d81c44b914d3f5a7",
+   "title": "Gölcük Devlet Hastanesi’nin kantini için milyonluk ihale!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnNKN1NJMnBHVXVWekF3WDlnOW1CTnFIN01uMTBWUmpldFBGTXg2UmQ4YlN0aExBX21lUHp4RW5EU1RFZTM5TzBPcjM3bW9lcWN3UVlIV0FHNlpJY1BuZEQ2d3N5RWNYQ2FtekpwbXZ5U3IzX3d1TzBybUlDczFqSktwa3kxT0ZrdGl2cGJ5NmNncWExNXk4V3FTOFozQdIBowFBVV95cUxNMVZUVTRMbjk0c2k3V1U5VFk5cV9NTlJvWHN1WGM2X196clEyUjJXTV9tYXNDbUxYdFpiNWVzMXZtN05jeWpPRmVTcWh1Z2w4SXhnbnhac1BfN1Znd1RfajV2bjlXYlFmUlRSXzFyemZlNnBzY0RXNTFMTWpQbFFnLUVBal9VWkNDR1NacnBfOTEyV3dtOFdPQXRNTk15eUxDWHZ3?oc=5",
+   "source": "Kocaeli Koz",
+   "published": "2026-10-30T08:03:00Z",
+   "image": null,
+   "hospitals": [
+    "Gölcük Necati Çelik DH"
+   ]
   },
   {
    "id": "d98c1bc41839c8df",
