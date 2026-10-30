@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-30T08:27:58Z",
+ "updated": "2026-10-30T09:22:26Z",
  "items": [
+  {
+   "id": "4b35c04d3291f8cf",
+   "title": "Kocaeli'de hastane kantini kiraya veriliyor: Milyonluk ihale için tarih belli oldu",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHFLUzVBQTNiV1lCX3ctMV9mNFBfOXVaWk43S1Y0N2FURXVpSlZKYlBHYjhfVktUWHJobXZrYzVkQnhjeW1jWXk2R3A2NnJ4S0JpYUpiWFlsUTlNTFVuOXVCSk9iMUx2bkpVY29sT2QyazFrWU1yY3NBbEJ0bklZb2ZjMmhOTzJwZ0tudGxoc1RMRkRnOVJEYlh4OGt0c09oXzRpbXlRYURUdjZj0gGyAUFVX3lxTE5vY0xSam9HbGY4bWNzLVprNTBwdml2S2kwcDdYaTVpNkwwTGVVamJKREhvRWRuZjlxZDAteklaeld5dXRXMU1yZmtEdmhFVmVQZC0wcW9BUnc2YlpMMWIxMS1YNWlZZzRVUlJ6UDM1YWdubktmV09wTlp0WjJHM2dCVmxRUTdjUmREMGc4ZXB4Y3ZPaldSNUprdnVzYUhfWFNXTTFId0dQSGtaTDB0Rlp4Vmc?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-30T08:31:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b3e6e981b8fdb80c",
+   "title": "Körfez Devlet Hastanesi’nde kantin alanı kiraya çıkıyor",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXllWmhuVDdIRnluYTh6dGtRSF94LU9saWpKb2hzMjF2YVR3ekx4bzJIVmNCRXpLcUxTSTg1NG05TFlseFJkZ1lOR3dEN0hMTTNoZ09UY0ZFOEJ6TFNmWkNaTUlnRTNJbHNfREw3NmRMNGVHVWUxeFFpNU5takZqczF6MDhtelloeERZQVVfU1Q5ZGVMaXF3RUsyWdIBoAFBVV95cUxOMkQ2LUhKUGNxc0t2VjFqUkxtaGpsQWppeUxJR29SakotSmZpZW1YYVBKUjJWZmxSZ3dub1dFUzFQel9HZzB1UExnY2t0WEpVZHdwV3dITzlIQW9acWhwMEFGQjd1N0FEUzNfak1jUnB3WWZBNmpxVjRnSzFwVGg2dUwyVVdxdlRKcWEzb0lQWXlGdUljOGdOMFVKeTJOekxa?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-10-30T08:17:00Z",
+   "image": null,
+   "hospitals": [
+    "Körfez Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "75b53a64dd4115a2",
+   "title": "Kocaeli'de 35 metrekarelik kantine aylık 50 bin TL kira! Hastane ihaleye çıkıyor",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnh3ZWgzenRfdjB2V0ZHU24tZktjYTlmeFZUTl90OS14OGtTNjZZT1Q4NW52N05qWHNhTjNuV1E4WVFEdlFmN0J5dkpuV3JlTmtpend2dmpxbldMQmo0UGFDMHdvYV9IUTEyd2pMZjJsWmVueDA1NHYyRmlJQ0Q5ekNOdEN2aE10Rnl3bU91TVY0TkpQY1dfdWJMdnlfY1IwaGxhRVNOOGRtTGlaX0stNHRuWVNDVDJLT0RvUGNOQjNidnRjZ1Nr0gHMAUFVX3lxTE96aGxzWnlzR01BejBPZThsQzJzaWJ6blZ4UlIzdW9pRjNCd0UyTkFZMC1lMjE4Q24zS3RnN0ItWExSVDl2aE5aUEhPdHUyZGxwQWFMUV91VnpZRmowYVFabXRjRG1ZNF9uZlVMWndwUXVNVXRCa2lDRTc0YldJblQxd3ZqWFpPVWRzY2JCNmJGdkh4clpmRGFhV19LTERLaUo3R3hNeHF0Tkk0V0xfaGpDbmhiTldNTDZEcU5sazloQjE5UmhqRWxRMUd2WA?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-10-30T08:16:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "1e075231576f25ed",
+   "title": "Kocaeli’de devlet hastanesi kantinleri için milyonluk ihale!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZklyQk51cTJKWUIxclRxZ2h5M05KYmJTRUFXR0JVYUw3b2tUSjd5Z3dOT0VMOTFZbjlhRVdZZWJJVC02bGR0LTNPdlBibmtIMzNxR3VPd1Z1c1ZYOEMyWllxMGJyYWprM3BMTU51U0lFa2pxWGs1QWpVaWF4NmhxZzlSR1QzaHRtb0J5WTNzb2loMFVNSHNzd0ZfeGFBZmwxa1B4MnZYXzk?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-10-30T08:14:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d98c1bc41839c8df",
+   "title": "Kocaeli’deki o hastanenin kantini kiraya çıkarılıyor! Yıllık kira bedeli...",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGNadk5TTHdVcDM1MndFTTM4NWxqMnpZczcyMnZCTkZUYkhOQWVKZTMtai1tNlZGazRFU3QtM3lCTnEwN2ZYNnNRR1F1Rk1pdUhDRjlTSTE0eTVRZGhrSHgxTTB0MFUzdW9hM1o5a3FZX21LZERtVExqMEE3SnRIcWJQY0txdWotNWJsamVJSnZPczlMMWNiN1lQUk1jOHItb216OG1WU0hwYlBua0RETWEtLUTSAboBQVVfeXFMT2JtT0lUd1k3ZWl0WlVpMjY5SkZtTkR0YnY1a0FscFAzY0d3cEp6V0YwSjh5RXk0NDk1QUxHaFlqeERDX3BsTVZhMzlObmE3VWRyUzh6VjZQajZSWUtYVG5VTDVkRWlyMjlLRUl0N2lvQ0lRcmx5VU5oR1Q1R2dWNXR0RXNxRXprOWt1WHRwT054NWNKRWJLOGFQU1ZwTkZxYnp1STNoaFU3ZHVtaC14aUZUb00zdEFMLTZR?oc=5",
+   "source": "Kocaeli Denge",
+   "published": "2026-10-30T07:54:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b5c8f9ff2719c8d9",
+   "title": "Gölcük Devlet Hastanesi’nde milyonluk kantin ihalesi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOal9XdGFDVnRDOUcwWXAtSnhRV1hHZ2toZ09MUEhhalA0cmE1OExnTW44UjZOOXhhY1VHMjRuQTJZM1J0NXFCUXJrN0xUWnppZk5BN3ptSmx5TU0xUGZpZ1B2ZTFKVndTREdxVVlMSkwzZldTQzZZcWdjSC16aXVKUG5GUVdwT0p3SWMzSktSZDZhS2NWOFdn0gGcAUFVX3lxTFB1d2xwNmpXaFFvcGEtbm5sVGZLQ1RKRlpFQTZXZlkyOV8xSGhLVU9GbllYMV9neFk2VC0xbkhLUVNXNFVZdHh1bzNuR2hCUFh4Y0ZOM29kWWVISnZjMllBYXY0WDJxaUM0TWYxeGhtVVhkU1FNbU9OQ1I3X2U4c3dPRXB2Z0xOZDZhUENXZEt2dmdnYmM0YnpjT0FZLQ?oc=5",
+   "source": "Kocaeli Gündem",
+   "published": "2026-10-30T07:42:00Z",
+   "image": null,
+   "hospitals": [
+    "Gölcük Necati Çelik DH"
+   ]
+  },
   {
    "id": "529710f928373dea",
    "title": "Gölcük'teki devlet hastanesinin kantini kiraya veriliyor: İşte 1 yıllık bedeli",
