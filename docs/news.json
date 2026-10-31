@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T11:53:10Z",
+ "updated": "2026-10-31T14:08:39Z",
  "items": [
   {
    "id": "4b1af42030846999",
@@ -12,6 +12,16 @@
    "hospitals": [
     "Körfez Devlet Hastanesi"
    ]
+  },
+  {
+   "id": "57f474ecfa5e0289",
+   "title": "Kocaeli'nde Özel Hastanede Doğum Fiyatı Krizi: 48 Bin TL'lik Anlaşma 73 Bin TL'ye Çıkarıldı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVcwaTBmLWFXaUhDS0tyLXkyYXlBWmY1X21USVJHUWVHRmRVSUE2ZXFDdGVicUJ5Z3Z4UXZwdFFGajY4TlgxLUc1b2k3VVVqdXdobVdIWDFzQ1dHZnBIZ1VCUmE3b3Fld1J1NVkxcEY2eGNpVzJqQmJnMU5IUkQ2VjhLNExiQm9QTnAtU1ItdnlKWWVIX0RtSmFSdzZpZktmVGU5MGlrMFJsZ2lIT19XUkkwRzZ5MC14djFpdG1fYU9VNUdGTW41elBQUi1QUXVSaklPMNIB1AFBVV95cUxPLVcwaTBmLWFXaUhDS0tyLXkyYXlBWmY1X21USVJHUWVHRmRVSUE2ZXFDdGVicUJ5Z3Z4UXZwdFFGajY4TlgxLUc1b2k3VVVqdXdobVdIWDFzQ1dHZnBIZ1VCUmE3b3Fld1J1NVkxcEY2eGNpVzJqQmJnMU5IUkQ2VjhLNExiQm9QTnAtU1ItdnlKWWVIX0RtSmFSdzZpZktmVGU5MGlrMFJsZ2lIT19XUkkwRzZ5MC14djFpdG1fYU9VNUdGTW41elBQUi1QUXVSaklPMA?oc=5",
+   "source": "Kocaeli Halk Gazetesi",
+   "published": "2026-10-31T10:48:00Z",
+   "image": null,
+   "hospitals": []
   },
   {
    "id": "22d182df2df6248a",
@@ -54,6 +64,18 @@
    "published": "2026-10-31T06:06:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "1c94d6dd62d85c78",
+   "title": "İl Sağlık Müdürlüğü duyurdu: Bursa'da Atatürk'ün de tedavi gördüğü asırlık hastane dönüşüyor! Esenlik Merkezi...",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVjZ0VC1xa2k1UVJTY0pGS0prZHdBRlNIaUdsY2tUWXJIOER6b3VYa2w5ZEk1cVY2NUZ1ZGNXdzRjTWZuaFdlSnptam9USHAwVl9mbUZNUlNqdThpTUpXaVRSQl93SDF3MWc2MGlNNHJpMnE4LXVaWXRoOEZ4bG94OWFqQXJxajFoYUItalY1X0dnaEpjYTh0VjFKbHI2eVJZd3ZYVElWcUp6Yno0SUQ5a29wbGtBa2QtVVBqMnBIOHp1NExpS1FqXzRVWjBnSFR1WXpMUWtHbmtVYzd3bGxCUFR0RGVqZ2RMSE1B?oc=5",
+   "source": "Bursa Hakimiyet",
+   "published": "2026-10-31T05:31:21Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
   },
   {
    "id": "95304edc06f94ea7",
