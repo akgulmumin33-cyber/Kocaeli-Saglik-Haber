@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:43:55Z",
+ "updated": "2026-10-31T02:18:24Z",
  "items": [
   {
    "id": "4d500fdd7e2d745e",
@@ -46,6 +46,18 @@
    "published": "2026-10-30T11:32:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "65e97fc71a54690d",
+   "title": "İl Sağlık Müdürü Dr. Hakkı Öztürk, 12. Türk Tıp Dünyası Kurultayı’na katıldı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGg2VkNDX3lvSnFtS2Y1bUNZQnZ0SmJNbktiVTg1MGJJRlZiSmgyZmg5TVd4aV85cjhGYXZkQzBDSVQwZ1RYQnA1WC1IME5yQ3Robmx2cndyYklOMVhmb3Q5MThmVnBFd1FVTUhUd2hnSFQ0NUVoWWJCeHFNeWxBQU9qT3cxVGFUeXlqdE5jR0hqVFAwWHdJSVRGRW0?oc=5",
+   "source": "Afyon Şehir",
+   "published": "2026-10-30T10:38:54Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
   },
   {
    "id": "f8beb2d745c2a124",
