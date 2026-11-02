@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:52:07Z",
+ "updated": "2026-11-02T15:51:54Z",
  "items": [
   {
    "id": "32e61b142b1bab5a",
@@ -270,6 +270,18 @@
    "published": "2026-10-31T09:11:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "2e11219e39c710ba",
+   "title": "Bursa İl Sağlık Müdürlüğü’nden ‘mantar’ uyarısı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2w4dVkzeDduUXdQaHpodHViakQ5SmJ2M3BXOUxIQnF5TlBVRHIzaUJoNUJwQmwyczdRUTVOM0huT25CWFNNTjBmQzBzajhJdUNYUUJrOFhBbTJCalpnVVZlVFpaZVVZa0NBb1RMM1BFb0RfcllnMWg1bmI0U19rNFpnLWJ6dGpMV0RXM3pSOGN3N0E3dk03dzYxNjM0Q3FodWxj?oc=5",
+   "source": "Gazete Vatan",
+   "published": "2026-10-31T08:36:14Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
   },
   {
    "id": "939836c1042bbecf",
