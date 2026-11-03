@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:22:29Z",
+ "updated": "2026-11-03T07:42:43Z",
  "items": [
   {
    "id": "eb8f8c5b5d52195f",
@@ -24,6 +24,16 @@
    "hospitals": [
     "Kocaeli Şehir Hastanesi"
    ]
+  },
+  {
+   "id": "c8d9431e072adaa3",
+   "title": "Kocaeli'ye yapılan sağlık yatırımları",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWhQdXdBamlZTHR1WURCeUxvVzJUQlRBcEpKYVZ3akJsYWhDeS02ZDlQZnlENHZTT2xtNjNvTjB2UlViM0F0cjhjemw2enZvUnUycE9zSmNXS1VZWk5GRDVrejhTbVpnbFRkNTJoR3RqS2pock1FQ0lZejJaVzM5S2h6MTg?oc=5",
+   "source": "Haber 7",
+   "published": "2026-11-03T00:23:00Z",
+   "image": null,
+   "hospitals": []
   },
   {
    "id": "32e61b142b1bab5a",
@@ -746,6 +756,16 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXlqdVhJRWVESFZJVTIwRVJKeldfT3lGcFJ3UlBpZjZ1eVlqZEtkMGhwcEFCbFJiYWI5SE05RjQ3N013M0JlQmtVX2Jic29fTl9VNFZVUHNWanJ5U01iTWs1dzE0ZnBnd1lTM3F4RFJyeDhKSG9QMS1MRmxmUmF3aGhZWGdnbDdkcnhldzlUWTRlYkphZGhUZnJHYW85SjJXN2JLSmYyTjJiQVRndXdGOXFneDRha01YSE9oUFBxcXFZbzl4WWfSAcsBQVVfeXFMUGRzeXdJNENkNkJGT0Znc0Q1QkR6c2I2bkYxRmx2VFJqMEFhckdBVHI1SHE3VmFYYWcxYk9BS1BwVlVsQVBBelA2ZGZ2aTNSbWtwTEZiaElwc0ZXeXVyblhUbnU3VFAxYzVQdWJUVFF0S0xjUmFGeUVlWGRaYmMwNXUweU1MNy12dnUwdUxzNk1yTElfc0F4cmVwdEpUVXRhNnk1dkhXUi1XbG9BSE5aZkl5a3Vuc053VTRqOVpnY2loNEdqbHBzbkJpc2M?oc=5",
    "source": "Kocaeli Gazetesi",
    "published": "2026-10-27T10:18:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "eba4f29dde43fe74",
+   "title": "Kocaeli Gonca Engelsiz Yaşam Merkezi’nde 195 Özel Öğrenciye Ücretsiz Diş Tedavisi!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlNTQS1RZEozNXRuYXE5VjBoRDE0T2Fpa3doREZHRGdFYjVVZDZsZi1SZkwxNG0zQl9ZMXI5UDlLcWVqS1J5MnN3aUw0eTJTSTh3NnIxaEEwWEpRMGI2VUxCdGZUZUtLUXcycHZDbVpOdXoxQmM3Zi1WQ3B0Mk9fR0F3dDllUWpnZDExZFJDMUR0eTlwQXQ1M0w5MERFenZyVjFTNUptalA?oc=5",
+   "source": "haberkocaeli.com",
+   "published": "2026-10-27T09:23:15Z",
    "image": null,
    "hospitals": []
   },
