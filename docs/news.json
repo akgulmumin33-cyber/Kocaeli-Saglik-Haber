@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T06:39:44Z",
+ "updated": "2026-11-05T08:55:19Z",
  "items": [
+  {
+   "id": "50949cd24b977f94",
+   "title": "Organ Bağışı Haftası’nda Farkındalık Çalışmaları Sürüyor",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-396922/organ-bagisi-haftasinda-farkindalik-calismalari-suruyor.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü",
+   "published": "2026-11-05T08:55:19Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "e72dfd25be43c6a9",
+   "title": "Kocaeli Üniversitesi Hastanesi’nde Organ Bağışı Farkındalığına Dikkat Çekildi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMWVWbEpQNXFsUzFLUUVmcTBOaDBkcjg2UDFYa3dYYmlGWjBMWHZsYTFfUDFpbVUya0RrN0lFeEdKN0Z3eHRGUGVLZTVzUW1GR1hOQzM3MFQwMTQ0SlllRGRrdnhQYWJOOFl1N25rblpZVW1uaUhYT1lEaVVvZFhUWkRFN2JERGM4M01zN3lySXRCNW1JSWdseTFETXBoOE1nMXpQa1hVdjh0WFBDOGJ5RzczQnB5cTRrOElsc1FtRUFiZUFNNHc?oc=5",
+   "source": "hedefgazetesi.com.tr",
+   "published": "2026-11-05T08:16:31Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
   {
    "id": "6d759c9535285ddd",
    "title": "Göreve Yeni Başlayan Hekimlere Yönelik Oryantasyon Eğitimi Düzenlendi",
@@ -18,6 +40,18 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXc2c2JDUkJYeV9KdHZINmFJak5uOU5PNWhWNC1hMldCTkh1QjFqZDcyNGh6N0xxWkZfVkhOeEZ5clBja181S0dIZTZxQVAxSDBDaGRtUU92X25uYWxUR0VZOTNYZDFGUXNzS2tES29sLXROVHJzRW9OMGxTNU1ua1pmbnVfOWlXZXRRR1J2WDdUVXl5UHFv?oc=5",
    "source": "Bugün Kocaeli Gazetesi",
    "published": "2026-11-05T06:19:41Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "f5847099b421e104",
+   "title": "Kocaeli Üniversitesi Hastanesi'nde yenileme kararı! 170 gün sürecek",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdXc4R1dvSm4xRzQtN3hYc0FUM0lyMENWS2xkTzlROHE2R3JsZXJfRXNwTmFBeWNFM2RGU2x0dkg2aDJzdWJwY3MteGE1bzJFOU4ycG5Yc3ljd25rclYxdmNvZ0NUTkVDY3hHY05jODhCdkFJMV8zaWo0bzN3cEdrWmVValJlVVcyWDU1Sjh6V1BPcS1Lc1FGdFJfT0tBX3Ntd1dpNVo3ZDNBX3J1S0R0YzgzbE9zV0lqbFFN0gG7AUFVX3lxTE11dzhHV29KbjFHNC03eFhzQVQzSXIwQ1ZLbGRPOVE4cTZHcmxlcl9Fc3BOYUF5Y0UzZEZTbHR2SDZoMnN1YnBjcy14YTVvMkU5TjJwblhzeWN3bmtyVjF2Y29nQ1RORUNjeEdjTmM4OEJ2QUkxXzNpajRvM3dwR2taZVVqUmVVVzJYNTVKOHpXUE9xLUtzUUZ0Ul9PS0Ffc213V2k1WjdkM0FfcnVLRHRjODNsT3NXSWpsUU0?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-05T06:00:00Z",
    "image": null,
    "hospitals": [
     "KOÜ Hastanesi"
@@ -120,6 +154,18 @@
    "published": "2026-11-04T16:47:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "d1bc47a3a79575fd",
+   "title": "Kocaeli Üniversitesi Hastanesi’nde Organ Bağışı Haftası etkinliği düzenlendi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0RWZ1ZncXJOVUhoWXk2U2l0UmJUcURrU3Y5cnlLSktYTjVIemtiVk5WbXZhU1o0aDlSbHNkcVhpRFBSZldpeEZsVUQ2REFNcUJZYms0QkpURy1CT0k5eEZUcHpRZ3NjLVJRb3lrWW1kMl9SOXVFMEkyNUZBcTFaVk0ybVM3VmdOdEg4dldJUVljMnhnV1psNlppMWdHWHBHU3RwMWp5MkxoYmpSbWxvZF9WVnQxTEHSAbwBQVVfeXFMT0pIUEUyX2RoR09fM0NRaTVTRGMwWUdkZUZfOE1PcXRNSUlNcG54Q2RvTm5HN2xXUEQ4d2NKOWRFVUZ0VEQtVmxNMzNPd0Z6ZUpkR19uNnpUNzd5d05WUFllMElFWk8yOUdfWUpJQXhHa0hxZE1pU2Y5LVZmZmp6Ulp0RjBqeU1CVHJjT0ROZWlUbWxkcjczZGk2em5aTHJNU0ZxMzJhenYyd1ZzbkFzQXdFMDlCOHNZMGRaX0o?oc=5",
+   "source": "Bizim Yaka Gazetesi",
+   "published": "2026-11-04T13:57:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "3fb5dc0557f72930",
