@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:42:42Z",
+ "updated": "2026-11-05T03:31:23Z",
  "items": [
   {
    "id": "c7cb2073d0a59a96",
@@ -66,6 +66,18 @@
    "published": "2026-11-04T21:08:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "e429fbb29e74f6be",
+   "title": "İzmit hastaneleri 2026, Kocaeli Şehir Hastanesi, Seka ve Kocaeli Devlet Hastanesi adres ve telefon",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR1JRaTIyN3ZDai1TSk5GZEJWcEhHdWdxNy04b3NUZUxtdW0zbTdXY0V0NnNEWUp2bzlyZmJWb0pxLVRybDhSejM5MllTUkh1cU4yRHg0ZWU1azdUN2x6Yk5mdGpWN00xREczQW1HbUcyT3ItWmhjcS1rX29hNmZIY2ZBTzc4aFJ1a0ozLUx2eE5LS2o1QWNNRjN6LUJYNWIzQTJYdG9LRldXc1J5Ull2dmRCMy1OR19OaUpVNE9uVXBNMnVYUlVQdzRRUlNVRzVPb2Z5dUV2WdIB3AFBVV95cUxNSzY3YWtQZ0dBZk5YeWxydlE1WVhvYXQzRVhzSVZrUjNyVjRYRFNIQmRKd1AtWHRISlZQbV9peTJOSEE4RERqekhIVDNGT3ZzVnVBUnpOZFUybWwxNl9xa0YyVHdwVHFsMmV3X3Q0OTlsRF9kRVFpRG5OemFRQXZYV0lFakhnX3hoUDJsQ1lfbXBwbDdaNHlNQTc5WkxfQklPdHlPTmlleFJrc0liUVQzX1VGVEFaaWc5c1NMRkpJN2MxSzM1WkdJWHpaN1VjeWwyYzJLOURwZmZMRWNj?oc=5",
+   "source": "Kocaeli Denge",
+   "published": "2026-11-04T21:08:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
   },
   {
    "id": "fa05d6260a7c06f9",
