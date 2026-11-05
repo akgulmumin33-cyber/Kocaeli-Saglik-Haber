@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:58:31Z",
+ "updated": "2026-11-05T17:07:23Z",
  "items": [
   {
    "id": "5d36171fd305cdd2",
@@ -20,6 +20,18 @@
    "published": "2026-11-05T15:08:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "8ec075c4b9a87ce8",
+   "title": "Kocaeli Şehir Hastanesi profesöründen hasta tepkisi: “Hekim haddini bilecek, ama hasta da haddini bilecek!”",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcGR4d2d6MVgxRGJZQWVPSmZZdWNScmNxT3FoblNZVFpqSG9KUURUd3ZDbWtGckdRUGFiem1XTTBObnJFSExfMlItLV90cFBNeHkwODZ6WWRVT1JVMlV0b3RBd2xDbW1MZDB1c0xYaWxGdTVXRXRCNTVRbXFhUFJnc0Z3bEVVU0ZHMWx5a3oxeG1hTzBtUUJsZHloeDhITnd3cWozRU1aZENkWWZmdGVRWXpBbktlbDJtQUJGSlVKSjNDWml5SWdnOTJxT2dibFR3TmFVQkVQdTYtOC1YU1NTaVdVY0Q2dkXSAewBQVVfeXFMT2FyVGY5Zk0yVFVFcDAwS3JXWVVNRHhkejE4ZjE3ajVldG9xUkFodjFnV0YxZEgyNmxBR1lpTFg0ZkdSOVZsTl9oYUFUek80VnM1aVptdVNIS24yMTZxdUVYQnZRdkd1aUw3b2NlRkVfWnpJR2h6clg5YlJOeWF5VDRRazB1c1NXbUVkSjE4RmhzWW85V2RpRHBoMmxQNzRZeVY0aGd2a3RoSU9tNEJBX3hwRjZ1WUdqZVN3Z0lIRUhpOU42ZGprcEd3M3VMZTZmOUtUU2xVNHlLYUxpQ25hYlpIRDItV2JBcWxKVlc?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-05T15:01:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
   },
   {
    "id": "bc8dc964a320428c",
