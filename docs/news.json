@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:20:44Z",
+ "updated": "2026-11-06T18:55:05Z",
  "items": [
   {
    "id": "def3fe1583e03d65",
@@ -20,6 +20,18 @@
    "published": "2026-11-06T13:54:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "bda8964ab31b7aa0",
+   "title": "Kocaeli İl Sağlık Müdürlüğü 126 bin 300 litre motorin satın alacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWF6TC1RbFlBWVp6N2ppeklXV3ZodkRNeThOUUZ2WUlveFpVOWhKOUlIQVhuQjdtUGJWZ1Z0M2dsSFpMQVlwMkdfM1BQOXZyOHQ5SnlxME11WkFYQWo4cEhvZC1lM01PN1JKYS02ZXhlY2ZEVklCZzF0Y01WLTFCUGRkbHRGMmt5WFJjT2tyS1lOTFF0NkM1bFhpZ2xROEhqZjRRQkpURzJlWVY5Q3Vz?oc=5",
+   "source": "İlke Kocaeli",
+   "published": "2026-11-06T12:30:30Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
   },
   {
    "id": "a9b9e846fbb052f7",
