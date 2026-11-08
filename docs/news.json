@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:08:31Z",
+ "updated": "2026-11-08T02:35:29Z",
  "items": [
   {
    "id": "d44f0c5f97d9731c",
@@ -44,6 +44,18 @@
    "published": "2026-11-06T13:54:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "0b0a337c06921f44",
+   "title": "Çayırova Devlet Hastanesi Hızla Yükseliyor: 200 Yataklı Sağlık Yatırımı Bölgeye Değer Katacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX28xaHB3QTlORGRRZTZuaExtWWphNVlyZzFmNDcxbGN3bXlxcVZ1WVlVenFUVmViOUQ1OWY5dXVsSkIzaGJvQzNKbmZlRF9JYm1td3RJaG1ta196YVcwZWE4ZmdzdnRHeUttcGRBTVRZYl94X05GR1NudFlXcVVjR1VfRDBIbmRLQXU2cGw5a3dKWTRhMEJRSHJNa1Jkc1dHSk8zNkdJZDJkVld6VmJ4NDVxS3JManZiU1B0YjJR?oc=5",
+   "source": "Kocaeli TV",
+   "published": "2026-11-06T13:32:00Z",
+   "image": null,
+   "hospitals": [
+    "Çayırova Devlet Hastanesi"
+   ]
   },
   {
    "id": "bda8964ab31b7aa0",
