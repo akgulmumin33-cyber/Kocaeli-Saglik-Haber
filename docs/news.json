@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:36:59Z",
+ "updated": "2026-11-10T14:32:16Z",
  "items": [
   {
    "id": "0097aa651a58c018",
@@ -20,6 +20,18 @@
    "published": "2026-11-10T11:15:57Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "99dfe9ee4655458a",
+   "title": "Gebze Fatih Devlet Hastanesi’nde Atatürk için anma programı düzenlendi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlhNS1U2Q0ZadnN5cWsydHREcVpST1huZ1hVQ2dXWkh3akJKVG5CdkwyRVdJUmR4TThROXJXZjMwWmhnZnZfVVZrck1Hb09JeHJsbk5FZU02dnRWcmhBdk1uOHB6VmlxY25CRm9xM3BZZmVCNkplek5qRU1BbWt5Q0J3NDVsemNWQmR1eVA4c0c0dlJUTmdrcTFJYXdxM0cwbFJjd1VVS1c3emZ6ZHBtdjNkXzRtUW1ySUV3QtIBwgFBVV95cUxNQ2ZJZGxlS21zS2c5VDNTajZYeWJkNmlvMlRmaWJrVkdPdnQ5S0tuUlh4VFp5UHBMTzg1aXFyMlNjUERzU0FlMldRTEdUUU14a01pemVrSzlUWHZvTko2ZmJsUFBzTHdPRTNMYk8zVmhLYmFRdG5NS3ZRa0ozY090cDg4TkNQYlFFaHVmTlZDaW5qR2F5THZHNlZqSzhJcUpib2tzTjNKbTUxUTZxdHNsY3FCdmsyX0JPMTd3azQ1NmF4QQ?oc=5",
+   "source": "Mavi Marmara Gazetesi",
+   "published": "2026-11-10T10:39:00Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
   },
   {
    "id": "0e4420445f65b773",
@@ -423,6 +435,18 @@
    "image": null,
    "hospitals": [
     "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "ce71320efaa93ea3",
+   "title": "Kocaeli Derince Devlet Hastanesi yeni binasında",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGxTWFVZNnk4XzhPNDlHcFpwazZ3LWwzX3JyaWdzVURBZ21hWHdJekdJVWE4a1ROdVI5SW5XTHFKSkY2VVdCZElpZjIyWEV3TlpUUW95SmdMQm5FT2IwaUFQa2J0X3NwT05Na2NtelBpa29sNzNtNFFzdlJ5YkhHVzNuQjlGMnllc1JaMVRUaw?oc=5",
+   "source": "Medimagazin",
+   "published": "2026-11-07T08:00:00Z",
+   "image": null,
+   "hospitals": [
+    "Derince EAH"
    ]
   },
   {
