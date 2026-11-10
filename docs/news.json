@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:32:16Z",
+ "updated": "2026-11-10T15:23:40Z",
  "items": [
   {
    "id": "0097aa651a58c018",
@@ -12,6 +12,16 @@
    "hospitals": []
   },
   {
+   "id": "0cb384b78bd2b206",
+   "title": "Kocaeli Milletvekili Cemil Yaman’dan Kaza: Evinde Yandı, Hastaneye Kaldırıldı!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZF9PUUxZam1oWFhvZldISlNlZXhaZEZhcWFqODg2VExSZk1uY0VDbWdPSE5SRDF6QkctR0gyWHpxSzkzVmotWWFzcXpZdjdYb1JpVFh6VHlnYUxxQ1ltQjZsN3hCRmlib3d0c1lNTFBIZGhwc3dlNUxZeUZqZjJfUGotR3JzUnZoQmZNRExQRnpyTlNfM3FkbjE2UHRmZUthU1cyNTlCN2hJdzZTV3hMM1p1OTdMZGhOdTRKbURR0gG-AUFVX3lxTFBkX09RTFlqbWhYWG9mV0hKU2VleFpkRmFxYWo4ODZUTFJmTW5jRUNtZ09ITlJEMXpCRy1HSDJYenFLOTNWai1ZYXNxell2N1hvUmlUWHpUeWdhTHFDWW1CNmw3eEJGaWJvd3RzWU1MUEhkaHBzd2U1TFl5RmpmMl9Qai1HcnNSdmhCZk1ETFBGenJOU18zcWRuMTZQdGZlS2FTVzI1OUI3aEl3NlNXeEwzWnU5N0xkaE51NEptRFE?oc=5",
+   "source": "Yeni Kocaeli Gazetesi",
+   "published": "2026-11-10T12:51:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
    "id": "10712587e417c9c5",
    "title": "Darıca'da sağlık çalışanları Atatürk’ü saygıyla andı",
    "summary": null,
@@ -20,6 +30,18 @@
    "published": "2026-11-10T11:15:57Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "41413d3a3773d31f",
+   "title": "Kocaeli Şehir Hastanesi'ne 3 öğretim üyesi alınacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3R3cHB4UUVLcEZXUVZJYWVRbUxaNEtBazhTRDVlWXQ0OEZSLWJtemg3TEIxOVFnME1JWEtQUEZNaDhUQTU0aWRaQTM1dnRKaVcwUk45bFQ5a2tUNEJ3X09JR2ZxQ2RZSDBibjFZamNUbVJHNGt1T2NaVTdxZkdVbFBtVFlqUEVEOGZ4REhvbWU5Y1VVUGtFQjhFSVByWknSAZ8BQVVfeXFMTU90d3BweFFFS3BGV1FWSWFlUW1MWjRLQWs4U0Q1ZVl0NDhGUi1ibXpoN0xCMTlRZzBNSVhLUFBGTWg4VEE1NGlkWkEzNXZ0SmlXMFJOOWxUOWtrVDRCd19PSUdmcUNkWUgwYm4xWWpjVG1SRzRrdU9jWlU3cWZHVWxQbVRZalBFRDhmeERIb21lOWNVVVBrRUI4RUlQclpJ?oc=5",
+   "source": "Kocaeli Denge",
+   "published": "2026-11-10T11:15:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
   },
   {
    "id": "99dfe9ee4655458a",
