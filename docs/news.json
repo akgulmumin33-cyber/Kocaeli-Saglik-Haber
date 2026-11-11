@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:40:46Z",
+ "updated": "2026-11-11T12:43:42Z",
  "items": [
   {
    "id": "04328a6d8db118c0",
@@ -40,6 +40,18 @@
    "published": "2026-11-11T07:31:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "008e2d092edd7273",
+   "title": "Gebze Fatih Devlet Hastanesi'nde personele iş güvenliği eğitimi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUFXV3J4WkJaVkFNbk0xWnlDV05sQktRY0tuUWZJcDZ3cXNFQmV5Xzh0U041UXpWUzVtVmZ5UmJ4ZzJLelFXU3NvSzg2bW1kdUJucDVqZDF6YWc3bWRHR1JRVXAyN09kMjh5YUtRZ0tqTEtFMkxUbFoxN3FGRmNBai1fQkZuNms3UzVkdW5yWkRmekNnUFFQTlNDWjRMWmRlWkdwdVZtTzNId013akhVbEJmVdIBuAFBVV95cUxPMEJtMU5FblV4Z0xxR3VZV1p6LXhSSlhra3lkbURERWc0VVlBSWZMQnkyTjZzN2FJejVEV0N3cHBBN1k1cEYzQkFsa2hnVjZQdWhLTnZkVGVFLXRFdS0xZDFxTy12dXFtZHJ2TjJPVU9SSmNCUjJLT09Oc1A3OWtYSHpZdVIxblZlR2M1SUctMzZwVGtPa25mUjhiemRWNnRValphSExhQzAxbXNFZk94TWFIMWRJZERw?oc=5",
+   "source": "Mavi Marmara Gazetesi",
+   "published": "2026-11-11T07:30:00Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
   },
   {
    "id": "7a0e5e371e4ef6ea",
