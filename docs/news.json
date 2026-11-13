@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-13T15:41:06Z",
+ "updated": "2026-11-13T22:04:02Z",
  "items": [
+  {
+   "id": "0e8a57903e4d243c",
+   "title": "Kocaeli Şehir Hastanesi için ilan edilmişti: İki kadro birden iptal edildi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnBjSVNiSXk0RGFBb3BOSWFpdFVHaTNjX3liSVpWTDk2TVFNVXpsVjVUZEhSNTlaRVNqdkpZMXI5Um9SU19Yd2xhbjJ1OXk4anF5R09hLXhTd2pSQ0g0SDBGTTV1cFNfbEF0T1BYbXZDY1dNMWZ1eF9TcndPbmtJTzRYYy1tVl9rY2pBYWVfb2Y2Mml5NWVKUS1fT1JQOWstbnplSUxJcTh1cnkxdnRDTzQ1UUxjMzh5bmRncXRLWVRvaFU?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-11-13T21:52:16Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
   {
    "id": "358e125173c13e68",
    "title": "Derince Eğitim ve Araştırma Hastanesi’nden Kritik Uyarı: \"Diyabeti Erken Fark Et, Hemen Harekete Geç!\"",
@@ -4333,18 +4345,6 @@
    "published": "2026-10-11T08:59:00Z",
    "image": null,
    "hospitals": []
-  },
-  {
-   "id": "c01a0a1582619dd0",
-   "title": "Kocaeli Şehir Hastanesi'nin acilinde bekleme isyanı: 10 kişilik sıra 1 saati aştı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLXRDWHNMcWFqT2Etakd6RWtPd0pMdVNlU2tkQm85VVNiaHZLVEJMTlRDNloxenpldWpHdlhTN19SckdNLURqNWtUOE45Wkw0QjlQSHE4bHJFQWphM2tRRmJjbEVjTGxOdVR4UVh2aTZva1lKWGhOU2xtSVZQbmQ5dDAwUGFwTWc4T2RRMU5VT1ViRUlDcF90NXNuVTF4bk1KOWpWT3JkeGx3NFVMTXF6N3NKQXh0dHlpd2kwYWhnY2dHSFoyYlE1WE1VZ9IB0AFBVV95cUxPVmIxM3NCREVNRlFkTG1LUF9JS25VSkdkQ1NBNlFWNkFQSXp1Qk5BYlo0Ql9BeVJaWEJlZ1lZam1FRXA1SEVjanJBQkdfMHZmUl9BOVFkZmNheXpXM1JqU0tjdmcyNnZpcHM1OVgzSTJMbnV5bW45dlprbDNvSmt3WjMxNUl6b3NQbnEzRnh6aUJYeXRaSGlOVFNNUGVaRTFsVnVpY1FDYlplN1FvMmJaaUY1aTVwSlZDQVljMEE3aHk5MHpQY090OHlXY3pBYWdi?oc=5",
-   "source": "Kocaeli Barış Gazetesi",
-   "published": "2026-10-11T08:57:29Z",
-   "image": null,
-   "hospitals": [
-    "Kocaeli Şehir Hastanesi"
-   ]
   }
  ]
 }
