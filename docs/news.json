@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:18:50Z",
+ "updated": "2026-11-13T00:21:36Z",
  "items": [
   {
    "id": "6b38ae30acf888cf",
@@ -286,6 +286,16 @@
    "hospitals": [
     "Gebze Fatih Devlet Hastanesi"
    ]
+  },
+  {
+   "id": "a2109c2909928408",
+   "title": "Kocaeli'de 112 istasyon açılışı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkeHMzTEpQWUJHc251LWNMOVV1NmFuMnZ6WUdfTW9TcnFpQ0VsYUZZWFJKSV9lR3RhM1YxbGMwLWI3Um53TlFkLUYwOXpJZGV5c0FTeGY2REp4cWZLbUkzMVBidVBzdWpYdGN4VnA5M2xSTU9qYnpWazVXS1Y?oc=5",
+   "source": "Haber 7",
+   "published": "2026-11-10T10:36:00Z",
+   "image": null,
+   "hospitals": []
   },
   {
    "id": "0e4420445f65b773",
