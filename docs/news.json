@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-13T13:58:05Z",
+ "updated": "2026-11-13T14:51:35Z",
  "items": [
+  {
+   "id": "358e125173c13e68",
+   "title": "Derince Eğitim ve Araştırma Hastanesi’nden Kritik Uyarı: \"Diyabeti Erken Fark Et, Hemen Harekete Geç!\"",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFFqNm1EODdNZGNtZ2swd2pQS01VdzZCRnY3NWk4aHZvUk1TTXBkb2hSOGV1Mk9KaXNEeUhaa1dEU2h2RDVSZy1heUFEZ1lRdGZxMTF4VDltZnJlRjZDTmZOOFJzQXFramVXLVYxaUx4bUZqeTJfaFVYR0w5NkJoOEQ2bFl5MTFsUy14Y2t6aVpIa0puQTAtU2dQNDhRWmtRdG9aNGt0a01QVGY0T3A4QWItMl9wVl9nQW1hWmlvbndMSWc?oc=5",
+   "source": "Kocaeli TV",
+   "published": "2026-11-13T14:00:00Z",
+   "image": null,
+   "hospitals": [
+    "Derince EAH"
+   ]
+  },
   {
    "id": "e6f11eb765fd6542",
    "title": "PMAP, Kocaeli projelerini Sağlık Müdürlüğü’yle paylaştı",
@@ -18,6 +30,16 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHVmU0kzVHFqZ0RzTG41ODc5Vm9hTWwxUnpfSXNnSnRLWE5fV0ZKbFFNeWhiT3NzWEVnaVFJelBfb3B0YlE3NWg4X0M3MzRITnoySUU2MkU0RWdmaFVYNF9LNjFHSFJ5OE5yZWJpWjg3emEtaDhzWnVkaFpZTUNMal9VZGY?oc=5",
    "source": "Kocaeli Kent Gazetesi",
    "published": "2026-11-13T12:47:57Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "9aeb8873f9c3a215",
+   "title": "Kocaeli'de devlet hastanesinin ek binasında son durum!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWcxN1VtSWVUTV82TXVuVlhMZUZlM1JITnVOOXMyV29kd1cyTW0zY0YtdjRUeU1wN2RTNEhXUm5mZWtldUpmeFdjR3ZVZTZZeS1CM29QcXotbWdEaWZsME5fMi1wd1RRNVJwMWxKeEVTdWZWVjg2MzZwMVI0X2gwbDV3Z1BUV0plZFFHVUlHUGxRNXIwc1B4dnlSWU1jR0JSX2JSSlJVY3VzUdIBqgFBVV95cUxPbWcxN1VtSWVUTV82TXVuVlhMZUZlM1JITnVOOXMyV29kd1cyTW0zY0YtdjRUeU1wN2RTNEhXUm5mZWtldUpmeFdjR3ZVZTZZeS1CM29QcXotbWdEaWZsME5fMi1wd1RRNVJwMWxKeEVTdWZWVjg2MzZwMVI0X2gwbDV3Z1BUV0plZFFHVUlHUGxRNXIwc1B4dnlSWU1jR0JSX2JSSlJVY3VzUQ?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-13T12:41:00Z",
    "image": null,
    "hospitals": []
   },
@@ -4325,16 +4347,6 @@
    "hospitals": [
     "SEKA Devlet Hastanesi"
    ]
-  },
-  {
-   "id": "0fb6a01cbfee7949",
-   "title": "İzmit’te yeni sağlık kompleksinde son durum!",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXNqMHRNMWJiZnoxT2RLc0xPeDkyNXIyYnZXR1pEbldrVjByWXl4ZWVPQUE0Ym9lbmFjWFFJb2FnWGo2OVN1TlhhcXNCd1F0X0E0Uzh1eTB5VUtlTmJJVm9GQkpLTGo3LXhicm94Z1pqR2RZSG9zZXFwZ3F3SmsxNHE0a1o3VjNKVzFNdnpTMmNlVTd5SDhN0gGcAUFVX3lxTE5Ka2VSTU1UOWktMUdjLVFQNHN3M3BCT3hXMjVuMml4OElOOG1OakJreEFia1VJVFFNaHZwSnRvUlJkVlhUaFlGSS0xb2xVcEJYSUxJUWYyYWZETWwzQ2k5dzVmb0VJdE5KZzNFLU45TE9vaEl4ZlpubEFWSnFJX0w0VkVibC1TU2p0b2Zqd01xTnVvQ2toaDlIUVlWYg?oc=5",
-   "source": "Kocaeli Gazetesi",
-   "published": "2026-10-10T06:54:00Z",
-   "image": null,
-   "hospitals": []
   }
  ]
 }
