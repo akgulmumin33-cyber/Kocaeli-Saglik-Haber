@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T12:06:57Z",
+ "updated": "2026-11-14T12:54:51Z",
  "items": [
+  {
+   "id": "60fb8ce1d77b2954",
+   "title": "Kocaeli Şehir Hastanesi'nde kritik toplantı! Bakanlık temsilcileri de katıldı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWxXVU9ueXBWVDZna3VvZ3IxVTNPd1BRTmxPamctLVZOWjBydkJRV2JVcTdKN1BMVGFzbVA4TGJWTGUzeURrNURiWjJWM2cxTnVCSnZaNGQ3aUFDN0o4LW9fOEpSTUhvT0QzOVlTWFp0U0VUQWx5OE9sLU1UZFRKVThueWFOSkRoYnVWWmN0dWN1MW1sLTVBUWJlTTB0b2NSNDlMY2J3d0FnTTNpVVczdEkwQzAyTjlIQ2xDaXRGX1o4UTDSAcgBQVVfeXFMTlI4cDdXd01hOHN5RkVRZTRpa1ZEbFNheG9pNXloNVItdHZ4OUtNcHpnTUVvYXZTX3gzbkFoUHpZZVhuOWI0ZWhpNEp5ZDJmZlpmV3NmTjFtWUYzeHV2em1RN3pMT09UeXZfT1hPMW42QXN0dU1GZ0hFbFZvSHV6a3dVZzNlakNaWWl4U0NmMXZHT0JDX2YtSjdxNnpoT3JlOUlMNmExR0FoeTNmQWwwQ0lQcHVBTWdFanhGNDBIUk5EWm9SR0xYLWY?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-14T11:57:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
   {
    "id": "deb73091e8e4220b",
    "title": "Kocaeli Üniversitesi Hastanesi için yeni dönem!",
@@ -4344,16 +4356,6 @@
    "hospitals": [
     "Çayırova Devlet Hastanesi"
    ]
-  },
-  {
-   "id": "907699350d90f7b6",
-   "title": "Kocaeli'de devlet hastanesine 5,7 milyon TL'lik yatırım",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUE1LUHMzYUgyRnhaUUtyVmRuNmstaGlzcHNJcm96QVVjT1BaUmxJRlJqMlRyZEtMeXFEQWNQUk01SE1QUlY5VUMxeFNTclNXcjI0ZjM3bC1PWGhuc2otVmU4QWpSM1lsQWUxQUF6QVBSZkJwNkwxS1pIVTlQZHQwQjFwb0tnYktwNnUxbFVReFJiZDlDbWYzZGNRS19nZGRFYXk0WNIBqgFBVV95cUxPMGVPLWdaWjJmaWtwdF9lS05rdWg0aTJOZFNVbTBzSWtGTFN3ZnVlUlFkV05zR1ZwbHV2eWVYMG1GXzBZbXl2ZEotODJMVmlZUWJFOWtoN3VSSTJVaUEwdGU0SHduT1dDVGJvQ0xLSXNfUGxMN3g3cEFQUDg4U2dnLTN0M3FwOW9GUmJabXBibDM0X3FFb0VjZkhvSkVpbUdRSTFCVTBpSXNyQQ?oc=5",
-   "source": "Kocaeli Gazetesi",
-   "published": "2026-10-12T17:00:00Z",
-   "image": null,
-   "hospitals": []
   }
  ]
 }
