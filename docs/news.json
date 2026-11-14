@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:04:19Z",
+ "updated": "2026-11-14T02:05:54Z",
  "items": [
   {
    "id": "0e8a57903e4d243c",
@@ -8,6 +8,18 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnBjSVNiSXk0RGFBb3BOSWFpdFVHaTNjX3liSVpWTDk2TVFNVXpsVjVUZEhSNTlaRVNqdkpZMXI5Um9SU19Yd2xhbjJ1OXk4anF5R09hLXhTd2pSQ0g0SDBGTTV1cFNfbEF0T1BYbXZDY1dNMWZ1eF9TcndPbmtJTzRYYy1tVl9rY2pBYWVfb2Y2Mml5NWVKUS1fT1JQOWstbnplSUxJcTh1cnkxdnRDTzQ1UUxjMzh5bmRncXRLWVRvaFU?oc=5",
    "source": "Kocaeli Barış Gazetesi",
    "published": "2026-11-13T21:52:16Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "d6799bd8dca110ef",
+   "title": "Kocaeli Şehir Hastanesindeki 2 akademik kadro iptal edildi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGowS3JydmRYUXFvajdrZFN6QTFmMG1NdlpWQWZSZWxvZEFYWE53TG4xSHUyUldJbTZhSXk2MDIxX1pwSFNSUGlYWWdZZUdkYmJDYmVwR1Y4cDA2NVJPc2NrdmtPQkNmVUhfUGxNcnp1ODY3TGh1T3A0TzRRbTJqa2VyYzR2UTh0SzJPcmNZRllUSVpFVE1icHhDUTBlOEhtX0RjaEZqWUd5VEpT0gGyAUFVX3lxTE9PRTk3d2tpT0JXam9LMkVLVWQ4dU90QkFfOGdMMmRHbXpyQTJSaGdnYUI5NHJGczJqSkVtSGFQd0M2aXc1VW12M2pTenAxNHpsNHFIYVNvVWV6cl91eXluaEpSaTRHSk41djkxLVc3ZzRYbmdxTkZwN3IyTmNFNGNMdFowWURLNVJFeWVPbHVsZjNqTU5Cb2tWUzVmTUZBajBrV3R2SElsS2xhXzNMXzBnb2c?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-13T21:15:00Z",
    "image": null,
    "hospitals": [
     "Kocaeli Şehir Hastanesi"
@@ -4333,16 +4345,6 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajV2Skx1ZkxTbTJ0SjhyTGJlUkRBYUJyMWktT1dYWDZMOENFeGIwLUlocGtndkpWQ0tncWUyUHY3VjBnTTEydlY3TmVwN2MydmM2LS1Sb3QxellXcDNvZ1pvbFZvZXU5RHBPTkEyZzdvNm1naWlmeGR3VVdkYlBTTm1UOENRdHoxQ2JXOG9welhRMG05cXZUMmQ5MEhCdmVOX0VldVZMaTRQSzBPZXcyT0VidWFjZGU4bEFZb1Ztc3dTRDhTemxoaElR0gHPAUFVX3lxTE5jZm5saXFGbzVEdTlCd1VMN2ZPc0NaVlVGQi1JSGZoeG9IeFA5QWR1eVZtVFk3aHZhVVNsNnc5STkzUk05QUljWGttX3dmemxaeWV1MW12MzNKa2FYZ1IwM2d0dVN4b0l1OTNlYlVmR2RZd1BlMUhYV3FxVHZCVjE0NzRnUnlsZlBGd01IZUFIMGpTMHFtTGh6RjdrTGNpeWxzR0xleFFZYTBuRFV5N0R5QTNyWlU1aXY1RjNtcW5IUUJWUVI4cy1rbXltQ19wRQ?oc=5",
    "source": "Kocaeli Gazetesi",
    "published": "2026-10-11T13:30:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "5c7b005659eba7f6",
-   "title": "Hürriyetçi Sağlık Sen’den Kocaeli’de bağımsız sendikacılık çıkışı: “Yolun sonu göründü!”",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3lkdU80MDFVZGhrUUg5OEctSHcxWFZrdlFIQW42Q0FPS292TUVFVG5fOEgxaDRvanczTXAyaExkeG1yYzFhWk5Vb2VWX0RQMzFYSlFaZTBiN3BXYU5pUFVDS1AxNHFlcWVRSG5RRERmclV1NEJKMEttTGZObzZkclNXMG8xbGgzVHZ4ZWNYajZLZ2hBUkhIQXJub3lLNE1YRk9oUmhibTZVX1E3dlpVbWNLbGNlb3lFcjJrZG9mUF9Jc3pCcnkwWNIBzgFBVV95cUxPbWdSWVpmWThncEpnMkpiYmZsaWNNcUpmQWZaWUltNGdTQ2UtQlRkRDRlUHVxT2ZRSVZSaTZsUU1DU1JSZTBEblVIam53dExRanhVMjRDdmp6R0VEdVc4akl5bTBtZnNzaktwaC1OX1F4d3VwMDBvRjUwbjN0Rmx1ZlhXNm9sUTRoWnA3MDFwV2h5bF9QcFdOYlJWNjZONlNFMmJveTdKZnFrM3BnakNEeVNMQ2REWG9VRC0wN01xVjZoaTZlM3dLZFJOb3U1UQ?oc=5",
-   "source": "Kocaeli Halk Gazetesi",
-   "published": "2026-10-11T10:25:00Z",
    "image": null,
    "hospitals": []
   }
