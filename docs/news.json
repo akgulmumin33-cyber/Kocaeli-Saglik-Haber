@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:05:54Z",
+ "updated": "2026-11-14T05:28:30Z",
  "items": [
   {
    "id": "0e8a57903e4d243c",
@@ -268,6 +268,16 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTgzdGJmRjJRbUNiSWE2YTdmdmVOX3dJRUUxR0VMUTNmVE1fMjlXeElaYUhqQ3lRM3NjeWlvbEI2YmhvNGpsNGN6NDA0ZGlQbnFXRkpBVjJpZHVTQm5pUTlyZXBjQ180VnUyRnV5dUQ3R3l6cUN5bHZvdnp2VFE4eVRvMW9ucTZicGZYZm8ydUFyTWJVM0ZSV1pnOERBZlNUdm9nM0h6cGJ6NzBNeXVvYWx0WHNWUdIBuwFBVV95cUxOWFVyU3JCSjhWMkZLWkJYMWFOU3RNRVl6WTRrZkhnT3J0ZEpoYXpTQjBkaEVMSk5sUnNEZlVJWUhSWmgydzBUdFlxdHJhdF90bkVyUEFOYWI2TjdIdVZBLWpFUVlick01VzBJY1JVQzFQdzNDRFRLYzM2WVdWeXVlc0IxdzUxN1k5RHBGeHFLWDlFa3VhSUlsUTU5UXBrQlBhanN6RVlyeVJGckd4M2ZEcUtJOTVHZS1rZnVz?oc=5",
    "source": "Kocaeli Gazetesi",
    "published": "2026-11-11T11:13:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "5e01c214c16f4eba",
+   "title": "Kocaeli Sağlık Ve Teknoloji Üniversitesi'nde meme kanseri farkındalığı: \"Erken tanı hayat kurtarır!\"",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVW5uYm8tU3hCd1FIR2tIcjc5aFM4TkZ0V1k5TGhtWE5zTnZVdjBCR0Z2XzBmeVlnaEJ5alZ2LVMxOGJ1Z2xrc3IxcjBTVEV2bUZIdGtlTmdWTWticWpzekdDS3I2aVJNRkYxZXV4T3VHU0NfXzlkZHZfU3BNeXNtcW93TUNxT1I2Zl9JWTFWSjhxaGljeWxnTzBUZkQtd20tVVhBMVVCaHVOZXdrRndsMnNJam9NVk8wQURmTVBFMUlyMnRtRE00NHBoclBkMHRZV2VwUU4xQUhMdnPSAeABQVVfeXFMTzBwOTkzTWtFVHlDd1ZBSDBOc25NdXhBSU8xVnhSTGNaZy1FYk9LajFzWkZZSWlkUFdyT2xjT3pVUUJvVm8ycF9FNWZDZW5oWU85dnAybXQtRnFwWXVPc0VJT2xFVUgzbWp0ZzRNNlhoRG9uQXkwLWlHMDktZXFpS3p0ZndYWDUtbEY5T3d1NVhCY2M0UDNHbHBzY3dMZmVKLUNXXzRDXzJkZ19GeW5uSFFLZHVfcWJPbFdlOVN5SldGOEFSMDNod1FIUC0yZDRmWG9vNWpKZE5fbWV0enJ6Vjg?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-11-11T10:26:00Z",
    "image": null,
    "hospitals": []
   },
@@ -4337,16 +4347,6 @@
    "hospitals": [
     "SEKA Devlet Hastanesi"
    ]
-  },
-  {
-   "id": "01f50f273c7a6dd4",
-   "title": "Kocaeli Devlet Hastanesi’nde 1,7 milyon TL’lik düzenleme: 135 oda ve 7 katı kapsıyor",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajV2Skx1ZkxTbTJ0SjhyTGJlUkRBYUJyMWktT1dYWDZMOENFeGIwLUlocGtndkpWQ0tncWUyUHY3VjBnTTEydlY3TmVwN2MydmM2LS1Sb3QxellXcDNvZ1pvbFZvZXU5RHBPTkEyZzdvNm1naWlmeGR3VVdkYlBTTm1UOENRdHoxQ2JXOG9welhRMG05cXZUMmQ5MEhCdmVOX0VldVZMaTRQSzBPZXcyT0VidWFjZGU4bEFZb1Ztc3dTRDhTemxoaElR0gHPAUFVX3lxTE5jZm5saXFGbzVEdTlCd1VMN2ZPc0NaVlVGQi1JSGZoeG9IeFA5QWR1eVZtVFk3aHZhVVNsNnc5STkzUk05QUljWGttX3dmemxaeWV1MW12MzNKa2FYZ1IwM2d0dVN4b0l1OTNlYlVmR2RZd1BlMUhYV3FxVHZCVjE0NzRnUnlsZlBGd01IZUFIMGpTMHFtTGh6RjdrTGNpeWxzR0xleFFZYTBuRFV5N0R5QTNyWlU1aXY1RjNtcW5IUUJWUVI4cy1rbXltQ19wRQ?oc=5",
-   "source": "Kocaeli Gazetesi",
-   "published": "2026-10-11T13:30:00Z",
-   "image": null,
-   "hospitals": []
   }
  ]
 }
