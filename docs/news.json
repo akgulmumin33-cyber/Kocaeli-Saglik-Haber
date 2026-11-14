@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T05:28:30Z",
+ "updated": "2026-11-14T06:21:51Z",
  "items": [
+  {
+   "id": "0c8a95a6403a6074",
+   "title": "Cumhurbaşkanı Erdoğan imzaladı! Kocaeli Üniversitesi Hastanesinde yeni dönem",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnJpN3p2bEtscjYtT3pCU2pwREdnSURiRklDWk1LZ3Z6R2x6N0FLOWRmWnZYWXd2ZmU1RFFxU0pTTzRDd0ZKSGlvMzBwLTdEYkVweGV5bnN3TmVEQ1Z4S1ctNlkyakdYNlhTbHRxZlBqdlA2Z3pCR3lLc2dkVGV1OWg3eWlZUm9IQWtjY2RmcTRRWGhfT1ozMndDWVBGOGJHWXlkVm5KMWM2akFLRHVQQ0hTN1NhM1JtMEc4SC0zOTRYelXSAcgBQVVfeXFMT0xxVHRLdk5SSlN1UGFJMFNfeVNlLTdDaVU5UzJKQXJITVYwOFJDX2daMTR1cFV1bS1mazltWWJzNDVwVUlVNjBLLUtJM2JZZTI1Q0dVOEp4bXJsd1hWY25NaEVYTEZFRmxaa2RMdElDZi1ZbnpfTWZJWVZBRE1VSVltQ1hMZE00dUlIazNJa2QwdmJFSk9tZFNuakRiV3hUY0FURXNjVGVsQWFRd29pd29DS0xjdU9lY2Z3eDVvTlVRWkNnc21OZms?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-14T05:13:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
   {
    "id": "0e8a57903e4d243c",
    "title": "Kocaeli Şehir Hastanesi için ilan edilmişti: İki kadro birden iptal edildi",
@@ -4334,18 +4346,6 @@
    "hospitals": [
     "SEKA Devlet Hastanesi",
     "İl Sağlık Müdürlüğü"
-   ]
-  },
-  {
-   "id": "35f79bd2f9777ba0",
-   "title": "İzmit SEKA Devlet Hastanesi B Blok Yıkımı Sürüyor",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1haVUdaWlpnUVNKcU1pZGRXc243RW9zTkhpUEYwWW42dnMtUmhDLWx1YU1IVm5TWndLNHE4czhTdEZ2ZjFRTmdCZklhREFVQTNXZWhMbU02SllpY2JaSVJlUkRrNmJGNmJIY3lyTG9aSmRBQlR2UmxLZUtjZVlZLU1aMmI?oc=5",
-   "source": "Kocaeli TV",
-   "published": "2026-10-11T13:36:00Z",
-   "image": null,
-   "hospitals": [
-    "SEKA Devlet Hastanesi"
    ]
   }
  ]
