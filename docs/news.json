@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T06:21:51Z",
+ "updated": "2026-11-14T07:35:41Z",
  "items": [
+  {
+   "id": "dbecef09734b15df",
+   "title": "Kocaeli Şehir Hastanesi'nde ameliyat oldu, 30 bin TL alamadığını iddia etti!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmJSNVgyMXJSc0VVNjVEZXlxTUdad05qbTBJOXJLY0c5MjFRRERLM3BzNnc2Ukd6WnhnT2hNRU9mQ3VPemEyVHh0bHM2RWl0S0F5Mlh6MF80WTFaOS00aUlBQllvWUtBRGpwbVhaQVB5MG5WdUhqLXE1dmZMNEdKbEZuMDcydVpGdW01RzlZbEFXY2RFX2ZpYUhZN1gtZ0dVdXZMQXctSVVPSFlnSzQ3S2VzbU1UVkZIaWdfQTFvZEVuM3htOXfSAcYBQVVfeXFMTk5iUjVYMjFyUnNFVTY1RGV5cU1HWndOam0wSTlyS2NHOTIxUURESzNwczZ3NlJHelp4Z09oTUVPZkN1T3phMlR4dGxzNkVpdEtBeTJYejBfNFkxWjktNGlJQUJZb1lLQURqcG1YWkFQeTBuVnVIai1xNXZmTDRHSmxGbjA3MnVaRnVtNUc5WWxBV2NkRV9maWFIWTdYLWdHVXV2TEF3LUlVT0hZZ0s0N0tlc21NVFZGSGlnX0Exb2RFbjN4bTl3?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-14T06:39:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
   {
    "id": "0c8a95a6403a6074",
    "title": "Cumhurbaşkanı Erdoğan imzaladı! Kocaeli Üniversitesi Hastanesinde yeni dönem",
@@ -4334,19 +4346,6 @@
    "published": "2026-10-12T08:17:45Z",
    "image": null,
    "hospitals": []
-  },
-  {
-   "id": "d6e90e8dc6599436",
-   "title": "T.C. KOCAELİ VALİLİĞİ İl Sağlık Müdürlüğü KOCAELİ İZMİT SEKA DEVLET HASTANESİNDEN İLAN",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkRtVldRTllrNW1rS21SRUc2RkZwaXhraE44NW9yQzFXd2t5SUp2dGJmWVZxcm1naVRNZVhicWlDQXdJYlMyUHhaY2hyREZlczFWMXI3aktKRExmUjVqSjN4NU5vaHhmaVhGVnhCbDJfQmxqd28zWFhCV3B2a3IxUGFGYWV6ek9wRmRkUXhRREVnTVY5OUtDUjlOd1Y2N3Y1TjRfbERERG42VUZxN0FoWkFhVUxrZnRsTjU5ZEprdGZKUnfSAcgBQVVfeXFMUGVGemZHOF9QVjgwQ1NWLWNqVDVmSjhPamJfSjRURkpIYjlQUkNnMmU0Y1FpbGN2RUNTRldGdUFMdnhBT0RCOUZVOTlLLWJGMTkxN181cjNLU2dQVWQxTHE0V0xKNjZJWko4UjlpZmdLQU5NcG1hWnNoUDQ5SFp3SmxRdFJKcXF6RmN3M3o4cC1LWm1pWDRrR0VELTRIS2dGbVhYNndNQjVXdzlfWnhUQkRDRDJ5amtNRi1XMERfSEJNRWxtUFRwa0w?oc=5",
-   "source": "Kocaeli Gündem",
-   "published": "2026-10-11T21:00:00Z",
-   "image": null,
-   "hospitals": [
-    "SEKA Devlet Hastanesi",
-    "İl Sağlık Müdürlüğü"
-   ]
   }
  ]
 }
