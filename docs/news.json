@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:54:51Z",
+ "updated": "2026-11-14T13:44:23Z",
  "items": [
   {
    "id": "60fb8ce1d77b2954",
@@ -11,6 +11,18 @@
    "image": null,
    "hospitals": [
     "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "961dd4f0433d96b0",
+   "title": "Kocaeli Üniversitesi Hastanesi’nde yeni dönem!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjd3bWhxbWVSS1pPaFFLUlpzdWNFdm9pbjhqN25rM1p2TFRsRlJnbHFCUm8teUIydE03MTRRbnBGc3NSb3h3ekk2SEdaN3NOZ1RqV0F4QjdRWWNLM0JaWXdhN29LR19yVkkzSW5zU2VvWDdJRmhIV0E5aGlyYl91dEFqbkpkR3NJaG1zcmhpZmXSAZYBQVVfeXFMTTNjc2F1ZXZxOHh3a0RzRHJSTW9Ka29EenZZRzBwVUdZUUhMT3IyU2pCWHRPd0N0X0tiaGhvR2FiMWRyamZ2LWUzcVJUN1Z1VVl3S2tPckxyX2Q1b1AtdTBtVHN5Zlg1ZkZ5TVU4ZjYxSVduekNkVGtQSXRqYXM3eFRNSEU5WFZwMlZsQUhZT19sRng3Yk1B?oc=5",
+   "source": "Demokrat Kocaeli",
+   "published": "2026-11-14T11:32:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
    ]
   },
   {
@@ -32,6 +44,18 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkgyWEdESWt5Mm5KZG5aZ2hjaEJwU04xeUdOS0lvRkVBQXN1c29FaUxZOC1vNms4NVBmYkk4T3pRaGcyTTFnb19RaVYtSTlQMk1DQjRnbEk2NFg5SGp4WDJJUEJyMjc5RENtYWUzeEFMMVg4OVhzNmIyOWZyc1JkcU1Id0tISURKTlJGR3o3dmpKN1pFUTJqcGdZZnJYQQ?oc=5",
    "source": "Özgür Kocaeli",
    "published": "2026-11-14T10:05:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "2f0bc161197106a8",
+   "title": "Kocaeli Üniversitesi Hastanesinde Koordinasyon Komitesi kurulacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1JlN0Q5RjBiaHVleWpGNnRIRV90UDE1YlhBT1ZJS2pmcmgzby05a2xFYWxZcF8xS3ZwM0ttOW5ONVl3STlQdTMtb3pHQUU4NVF3REJrRHBrd0ZhTVZINmw2WU5UaU1IRzlsR1c3NUEyR1UwWExTVkdCY3FzLTFlTkpZR0tEV3J1dGxyYm13dk5QYVJQTzVmUldQaVFDU3B6Q2Z1RUh6WVM0dlNld2F5M1F3?oc=5",
+   "source": "Kocaeli Halk Gazetesi",
+   "published": "2026-11-14T09:27:00Z",
    "image": null,
    "hospitals": [
     "KOÜ Hastanesi"
@@ -4333,28 +4357,6 @@
    "image": null,
    "hospitals": [
     "KOÜ Hastanesi"
-   ]
-  },
-  {
-   "id": "6598f0118b33cfd3",
-   "title": "İzmit'te korkunç olay! Öğretmen yaşlı adamı muştayla hastanelik etti",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDhjQm9lOTU1TE5NS19WRTd0eG9QTDlOX0FraXBFNkxJNkROalVnQlF0eEVCYnA2UWU3WmFzUHU1OFN2am1RUGY0YkZieDAzSVcxd2JEMkN4LXBrWTMxNjJEbHBWVXIxQVVxLS1xcTk1X25seEVROGwzX1hUVHZZTGp0dDF5aUlxak45djZmV1lMWHNUMVp5a18zYWs1eHdGMlVnOG54VTJKYmvSAbABQVVfeXFMTzBvcWYyWlRTWEVMOXZUS0tLWTluODBCUDUtc0RaVGV4dk5aSmVrQ09LXzI3b2dkY1VCZGJxbU1qMkNFNEJ0VEhOQ19MV2pfT3RzQzJ1OXdsak5tY1NrZ0pRQ2JELWVDUzJZalQ0TDNVUG83bnFJWGd6UE0tVm01T1FYYTZYanFQazdPRnV5S2F5dndUY0d4b2RtYzE4ZzRyaGJIeS1tdGdLUjFmTFBVUkw?oc=5",
-   "source": "Kocaeli Gündem",
-   "published": "2026-10-12T19:13:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "069d0c4669e0ed46",
-   "title": "Bünyamin Çiftçi açıkladı: Çayırova Devlet Hastanesi projesinde son durum ne?",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWl0OTJoYV9WTjluby1ucTV6b0JjU1V1T0tnU0tGanhyTDA3a2h3NHU1ZWJiNEN4RDZZc25SbXFpM3drWmVsRmM5TG5NNEZHZVpHNzJIMHNrbmxYcHJlQ21HNExNN0pmc3Z6WE5IdERlLXVNZFpDQ1dWeDU3UlcyMGU1R1NreVFvVm9pNUpoUmVxNFNhOVU3UExQb1V0aWlUclpjUTRyek9pSV9qNUx3NjNtcTNPY3Z0ajNUS3docXBGQ3pYeHN1X1ByYnFyWDNHM0VHRDNNa9IB3AFBVV95cUxNRmJOUHc3YWNVX2hudy1mM0RkOTZhamtJTXBnRFcyLXJYT2lmdXRWbjEyNFlJMXlETlF1ZF85V1YtZHUtY0tsaVY3OGVtNTVGMzVpLThSVVl0dmV3eEJadld2NF9pM2NvTEYxQjF0Um1MNmRfQkhjcVAwUXcwU05XbkJLQUJ5TGZVaW51QldaVDQxalV3cW40SXBBZ3ZILW5LZl9wV1Y0SmJFSUxyZERkckVfVmw2bDlqcE9nMDhFZEhKNXQ5UkYzOHd1Z0stZWotRFhRdkMtaVp4M1ZY?oc=5",
-   "source": "Nokta Gazetesi",
-   "published": "2026-10-12T18:46:00Z",
-   "image": null,
-   "hospitals": [
-    "Çayırova Devlet Hastanesi"
    ]
   }
  ]
