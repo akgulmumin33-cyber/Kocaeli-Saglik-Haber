@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T07:44:58Z",
+ "updated": "2026-11-15T15:52:02Z",
  "items": [
+  {
+   "id": "e122e6bf85da70da",
+   "title": "Kocaeli Şehir Hastanesi hakkında yeni şikâyet: “Ben ne yapayım, git o doktora götür!”",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOGstNUlpMV9nYmhxNkI3ajR0ZjQ2OEZnQ3hQQUk2dDlmTk94TVAxUmZBbVJfY2c3T1VMcmVZOEJFclU2Q1VMTDJGVmtmZ3NqamZ6RzZ0SFZoZHNRMk02cFQwSUtWbzlSX3M2bUZoVjdRbDBxSk53OVJVYk56b0tpdnp6Ti1Rb2lTcHIwaHBxeVJEbFY1dzRERnEwb2pGejE5ZTNodWJKUFE2S1Y0Y2ZxNG9MT0lHLVJRU3BZeUVnY2VmbFp2a0wtUndB0gHPAUFVX3lxTE54cTU4UDkxdldEYmstaDVrd1JoNTRnMEpzZGZ3SS1vYWFfVlE3U0Z4c1pLSzRIU25Ya2dyM2VDY1pRT0FFMXNNdmpRUVA1ekc2cVU3bzJxQmYwRGtDbGMtQklCQWZ2WFNnN2piVGVHQ2JWelRhQzZyMmp6cXI3UWJ2NS1YZUZzQkc0TzdmdlM5UENHNkk4VE1uWnBLOENYR0ZyWldtdlAxQUFpdnI4RW5wVmFpd3Y2WnRFZDVsYzVmVUFsVXNFOVdoVWRsZnNKQQ?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-15T07:24:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
   {
    "id": "c1176202ce9e1f79",
    "title": "Kocaeli Şehir Hastanesi'nde doktordan azar işittiğini iddia etti: \"Ben ne yapayım o zaman?\"",
@@ -36,6 +48,16 @@
    "hospitals": [
     "KOÜ Hastanesi"
    ]
+  },
+  {
+   "id": "2883ff9feeb9d8ce",
+   "title": "Bir zamanlar şifa ve ilim dağıtıyorlardı! İzmit’in kayıp hastane ve tarihi mektep yapıları şimdi nerede?",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbzNJeW1ZZzFRb0Z1emMwQ1hOR3M2OUo2NU9sYjU5UUF4YXVLcDBkN05sU21hNVFLTHBNcG0zcllDYVNoMVhLeEtKelRrVklJdnptV0g5MXRKa0JDNVNlck85b0ZwMEdPQ3p3cDJUaUlNUVk0LTJjOXhLT3J1TUkxRXJkX01tZlN4eG1mNU5XRlBoN0VmX3RUS1lpTEFUcHpsVXVPYldQbWV3VE5SdlR5LUtPWm9iZkJ6MTFfY1RIMVZmZThoamVDZmtMOEZ4Q1BoWDgzU0t5a01vQVgx0gHiAUFVX3lxTFBld3ZDdV85UzBQM0RmMFJXeFFnM2laZ0IxSGVIOG1FSVh0WWlZWUtvaUNaRkc5dFQ3eDJoVkFuem5fSUF1S2VrY08ydzFQdEY5M0R4OF8wSThVUDFXTnZ3bEU5X2hLTHkxb3BXeDBUQlNKQVNfVDJZTmRqblh1NXdmTU4tMHRDcVJ0REdFaG5qMkVoeGJ5UnpGSkhJZVNGdDlqTkxnYzJrTHBiUUZGR3VVbmpxZk5oZ1ByNnZUekc2a0F5andkMUZJcVRKNEtSS2JLZGV1eGlBMlR2UDVvWU1TdUE?oc=5",
+   "source": "Demokrat Kocaeli",
+   "published": "2026-11-14T19:37:00Z",
+   "image": null,
+   "hospitals": []
   },
   {
    "id": "27e02a8b7e59f435",
@@ -4338,28 +4360,6 @@
    "published": "2026-10-14T06:34:00Z",
    "image": null,
    "hospitals": []
-  },
-  {
-   "id": "e969ffa18f02e742",
-   "title": "Kocaeli’deki devlet hastanesinde hastalara profesörler bakacak",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVhXeDRlOU94WEt5UjZFOXdqaVZmYjl4VTAtWHBGa2NtQW5sMVRJc1ZvSEFidkxfLWNxZHp2clJ2YnVDSHc1aFpIRW9WbmljdFJFc3ltS2pNUklIdFR0MTNhcy1LNjBVLVNZQ3RfWlE0bXdfNGsyZGRMMFRpQ0dsbktoMEU0MnY3RDdoejlKSXNDbTZtUkNpZXZaRlhFbGxYdDdNbVFmZUxieXo1LWUzOEVLONIBuAFBVV95cUxQbFo3UlFpWXNwQnNaa3ljX0hUZy1PbkExREltUWUtRHpzS3RMT0JOLTUzNFB1Nkt0Zk9vUThBUHhTV0d5bGxqTXhsOVZKNUMwM0R3MTE2SU9XNFN5QS1BdlltVjVSMHdTaEttMHlLSjlyYlZmbFJFSVBJcGtiM3p1UVBVOHcyM2cybmV3TVIxRVo3U1EtVGIxSzVpdDczZzg5YWh4XzBjSmdqX3Y3aDYwYTdSOG1rM2h1?oc=5",
-   "source": "Kocaeli Barış Gazetesi",
-   "published": "2026-10-14T05:14:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "f2a8cff902c02ed8",
-   "title": "Ağız ve Diş Sağlığı Hastanesi Başhekimi Görevden Alındı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVpJMkFodmFnMTQ4RWFPTVFZRzY2V1JmTUlmMWpPM1kxVXhtcDBreVZFUWJBcDNMTEZtNjlqSWMtOTZzS2E5ejQ2R1RKQUpHX2ZMQmhmZUQ2MzNnYWVRLWJmbkxuNENSNUdVZ2pzQUc4bGVIOVQtZnk5Ylh1UFFLNldwb1Y3eENiQ0Z3Q3F6cVhwWWhyUXhz?oc=5",
-   "source": "Sağlık Personeli Haber Net",
-   "published": "2026-10-13T16:52:00Z",
-   "image": null,
-   "hospitals": [
-    "Ağız ve Diş Sağlığı"
-   ]
   }
  ]
 }
