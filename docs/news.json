@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:52:02Z",
+ "updated": "2026-11-16T00:47:55Z",
  "items": [
   {
    "id": "e122e6bf85da70da",
@@ -58,6 +58,18 @@
    "published": "2026-11-14T19:37:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "78eb00ef0e1a5b8a",
+   "title": "Ağrı İl Sağlık Müdürü Acu, Bölge ASKOM Toplantısı’na Katıldı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUk10d1ZwNFdEYUhRbUhONVhjTzhwSXlRWWNBblpNMmIwUjEweU5nRUpjYUQ3MDRHbjd6dzRCZks2WVd6V1RITGQxcUk5bzA2QWFVbC0xMkMxWFV2RVVoekh6Qk5HNWs2TDN4cFk2TzdJdUU0Ny0tYTFuMk1IMW1zZGFscVJRcmdLd3BNaVJR?oc=5",
+   "source": "Ağrı Hürses Gazetesi",
+   "published": "2026-11-14T12:42:00Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
   },
   {
    "id": "27e02a8b7e59f435",
@@ -4350,16 +4362,6 @@
    "hospitals": [
     "Derince EAH"
    ]
-  },
-  {
-   "id": "7170177a08a062b9",
-   "title": "Kocaeli Kitap Fuarı'nda ücretsiz sağlık taraması! Tansiyon, şeker, göz ölçümü ve mamografi",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTnVBN29menJObFk0bVRNSkJCQjVtZHRsMDctWHJial9MZUpUWEFjZ1hsbHVNekRkTkJhSlVDdXN6S0VNd09tM2J5WVFCcDVNMXNjUDlLR2R0eDVlWVVVZVBCMW1WdHlLR3pWX2VNbFE0UXRsX1dsSlJOMWtTeEZSdHpwWWZvMWQ2SG5vSmpyUlZaUVltTFUyVmFKNGVBb08zclBIdWk3SDVkS0pWVkkwWklraTFuYnNnRVBxZ3FtWElVMktjUnYydVFn0gHPAUFVX3lxTE04MThjYUNnaERQYkJPNTRMblltVlFJSHVOSGNKamVPb3FOMkh2aWNHSHp5N2tEdUNxdUUtXzE1bGQwcDk2cjhSOUtCamhxOW54WHBub2JZdHBJNVJ5SUFMRVN5MHhpSXZ1U0xKUFkzUDB2YWd5aTFTUHJNQXNOcDVMamJ1N1dFeXM1QzJPRnhmZlBMcHh0UF9mMklxR3dXdGZaTzNSeFRxQWItbWl5bENnVGxwTkNNRy1vQXAzRXpvRkJTNkpyTGI1ZGlDbUVCTQ?oc=5",
-   "source": "Kocaeli Denge",
-   "published": "2026-10-14T06:34:00Z",
-   "image": null,
-   "hospitals": []
   }
  ]
 }
