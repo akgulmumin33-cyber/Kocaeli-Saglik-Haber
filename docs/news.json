@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-16T17:18:15Z",
+ "updated": "2026-11-17T00:53:26Z",
  "items": [
+  {
+   "id": "52bbca05365c32f0",
+   "title": "SON DAKİKA! Kocaeli’de grip salgını hastaneler doldu taştı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRjlhMXBub21rWDNXeE1EeC1DS2JnY1lSc19HZk1zLTJXdF9tZXlQZkZOQW0wQmhUV0oxUFpCRFVBck5qNThPSHNWY1VtbU5aTDJiY0JKam9HR0VyTTlqaFVhV05FNURqMkctNDhHZHVkeEkzbDVqbjNNYzN6ME5zTzF2OUgyUGVueXhwbmZ1SEdxQQ?oc=5",
+   "source": "Bugün Kocaeli Gazetesi",
+   "published": "2026-11-16T19:12:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "bd24bf2c5222a625",
+   "title": "İzmit'te sürücüler dikkat! O sokak trafiğe kapatılacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXRmNG02MERMMmxPS1NPUXcwSnN2YnJ6RThrRl9jeFBJVGlXV3VDVlpWemZCZHA2Ni1rRDdGS0tDLTlUSlRjTlZqRkJfTUxrb19GQlNFcHM0RldVME9odUdWSk1QNTVaZ2xiQXdvOGtGSjJCR0ViTmNWdGFGa3RkYkFqMXEtaTFFaUVGZEZTNUpjamttV3YyR295djBHd3JBTVHSAacBQVVfeXFMTXZmWWZ3dE8zOUExTTFENUE0T3MzMUhyVU1PNFFEYXFnSUUzM3EtZncxQVpMNHVVT3ZUZndSQi1XbHI0dXZCUDU2amtBc1lPWUNjYi12U2tYY3BmZTJVUWFxeTJWWS1GWEpzNHpZV2U2VDFXNE90NnNHbE14aXFVMThucFlVVU9yUzlteDFRb2llZlhQSm00Wml0R2VfU0ZPZHlmOW5IT1U?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-11-16T17:58:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "da86e8f821c6d616",
+   "title": "Kocaeli Şehir Hastanesi’ne 80 personel alınacak!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFNqdXcyeEhJenFpV0JXTUFUTkdZU3Z6Rl9OeVJNdEEtLURYUDl2NG1QUTJ2NUUxNGQzcnZzUFVCY0RTazU1SWJhdndNUlBMVzFXU29adlFRTkVmR3Z0VUM3RWZhc1J5eU1FSGdMd2wxamd6S1ppNmNmQnJ6X2RUVkhDQ3VaaHNfRFhuUFhhN3BZWE9Wc3RHcWFhdTFsYkU?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-11-16T17:26:08Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
   {
    "id": "52d3b55ad96a19ce",
    "title": "2026 Yılı Kasım Dönemi İsteğe Bağlı İl İçi Naklen Atanma Kurası Yerleştirme Sonuçları",
@@ -10,6 +42,18 @@
    "published": "2026-11-16T17:18:15Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "15ab7d920b36da1e",
+   "title": "Darıca Farabi Hastanesi kıyafet alacak!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNTFyUjdadXRDTTJJS0pPZ0pIb0FMdkVHQUdQYThncm5KM0tKSGFzckpjdXp5bHlsSEZlMG1QSGttZjVDT2pDenRjOGk3V2c5OURhTjc3ZWpRLWRIYnNMaDRBWEMtRDVaOElxTEtMQ3h3SlBKZnBqXzR5MUpCNVFzWFA1dW1JMm1yeWc?oc=5",
+   "source": "İlke Kocaeli",
+   "published": "2026-11-16T12:45:39Z",
+   "image": null,
+   "hospitals": [
+    "Darıca Farabi EAH"
+   ]
   },
   {
    "id": "5f620200017fad01",
@@ -4318,46 +4362,6 @@
    "hospitals": [
     "İl Sağlık Müdürlüğü"
    ]
-  },
-  {
-   "id": "acdba97d08e3dcfa",
-   "title": "Sağlık camiası ve Ses Kocaeli ailesinin acı kaybı: Dr. Güvenç Koçkaya hayatını kaybetti!",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWUZickZUZmtCUGFlVnBEcVdKMk9QT0VNMVpZTHJmZWxZODUyRzY0U195VFB5UEc2RmtCclJlUGUxbzNWbzFTRHlqeGd2eVRjQUpxRVNWRFhSM2pBbVdsQ19xektsT18xakNVa19oZC1SRXNDTExGd3JNUEVUQVdXUjNzbUt2YlZDZkJ6MFlINnRMaHp5Vk5LTzJ6MmRKSFhhOU1fTzUwVFAyYU9qUS1iUTRHNlBoZTBPSTUwazdZU3VWbXBpNVHSAcsBQVVfeXFMTXBRVEM3RDczRFhqS2NEUGRnd2M0eFFaRmpJSl8xc0x5SWZJbDhGUGtQeEY5b3hkYTFHV3d6WDZmdU1STjIxZS1xbGliVExaOWxodFkteFU0ZC0wanllZVVBcmNyMFFGQ2JvU0lIYTZmWlFudEhDZklKWUdJWUt0ODhYSnJoVWsyam5TaHdiRm44WHB2VVVUTnBSRnZneHdlUVhacUFMeUlHVFRiaUlDUWJlOGhremFBVFpDc3ZpZ3IyUWV3aVBNYkJITFE?oc=5",
-   "source": "Ses Kocaeli Gazetesi",
-   "published": "2026-10-15T07:06:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "8f04a2aea8c86e51",
-   "title": "Kocaeli'de sağlık camiasının acı kaybı!",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONlQtR0Rja242aE5nT05OQU8zVi1Zdk9OZEN3eDZESzh4MF80MVI3RDRtNFFpZ0lDSTE1Wk00QVhCYWJvYmxoTWtBWklNbXp6TlZDNFhxX21OM0pLQ2RGMFNwSkdoS2k4SHhmQWxXLThsRnFRemRYWVdGSEtQUDJpbWZCeHhzdE55VXAtR1ozclgwZGpnUjROZ3RfOE1wSkcyVkx6WU1vcVpFUdIBrwFBVV95cUxQTnlhR2FxbHZ6V1RRT1ljQ3Q4RTZ2bGZ2N0xkY3U5SmdHaGUzelowSnFtYXRJVi1SVlZFSUJNZS1lTnlCUl8tdXpEZi1aWWJzcU9CY3ZLMXVaYUtBeXhtNjNocF94dTFUbmItOEI5U3pOS1pXZTRoUnJWVDNKaFVvWjBCOFpwcHVUdTdQLXQtVjRKM2E5TzVMbnRTM21pcS05WkhJZlYwOVhzaXRsQXdV?oc=5",
-   "source": "Kocaeli Gündem",
-   "published": "2026-10-15T06:54:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "fee38712baac4ff0",
-   "title": "Kocaeli’de Sağlık Camiasını Yasa Boğan Ölüm! Dr. Güvenç Koçkaya Hayatını Kaybetti",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmdfdVVKX2lYMXBOQ2ZKMGpTSGxLWDJSQmt5T0prMnI2TlZsVURPRWl6S1pyZlpkY1BkVmJIalUycmlJTHZFR2xnanVTbzR0S3BTOW90M1prcUhFRUZrYndoMTB4RFJOdVpwVml6RktQaVl1MkE3NkQ2NUlEU0xwOVBrUzJGYXJaWlNtS2JKYnRmSUNTU1ZHRnNWSElIQnZRaTNPRENPSEoxdnlZdGpR?oc=5",
-   "source": "Bugün Kocaeli Gazetesi",
-   "published": "2026-10-15T06:06:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "2944a9bfc5dad22d",
-   "title": "Kocaeli sağlık camiasının acı kaybı: Dr. Güvenç Koçkaya hayatını kaybetti",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmc0YWdhcTk4S1prWWhYZHplOEVYRG13QTJXdDJ2U2pCc0hmWlByeW1pb3RtV3kydloweG0tMTJSMGVnTktsR0NCX211VWpzNUNueU9XcU9WVThBME9FS2FpTEY3NUh0bENSc2NzMXJ3bGJBSmhyTVA3UUs5d25ZOEU3a0ZXTFozSXlmaTRUcDNwdjUzOW95TEpFMXZRWTlHRHpBNTFYak5RM0pqZWtLb19md1JaTHREbHpOTWRMZHjSAcABQVVfeXFMTlpnNGFnYXE5OEtaa1loWGR6ZThFWERtd0EyV3QydlNqQnNIZlpQcnltaW90bVd5MnZaMHhtLTEyUjBlZ05LbEdDQl9tdVVqczVDbnlPV3FPVlU4QTBPRUthaUxGNzVIdGxDUnNjczFyd2xiQUpock1QN1FLOXduWThFN2tGV0xaM0l5Zmk0VHAzcHY1MzlveUxKRTF2UVk5R0R6QTUxWGpOUTNKamVrS29fZndSWkx0RGx6Tk1kTGR4?oc=5",
-   "source": "Çağdaş Kocaeli Gazetesi",
-   "published": "2026-10-14T21:00:00Z",
-   "image": null,
-   "hospitals": []
   }
  ]
 }
