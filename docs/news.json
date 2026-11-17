@@ -1,6 +1,314 @@
 {
- "updated": "2026-11-17T08:51:12Z",
+ "updated": "2026-11-17T18:13:03Z",
  "items": [
+  {
+   "id": "5fb67152134ff400",
+   "title": "2026/11. Aile Hekimliği Ek Yerleştirme Sonuçları",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-398226/202611-aile-hekimligi-ek-yerlestirme-sonuclari.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-11-17T18:13:03Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "3d4bd8ca15cc214b",
+   "title": "Darıca Ağız Ve Diş Sağlığı Merkezinin Yıkılması Ve Muhtelif Malzemelerin Satışı İhalesi",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-393331/darica-agiz-ve-dis-sagligi-merkezinin-yikilmasi-ve-muhtelif-malzemelerin-satisi-ihalesi.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-11-17T18:13:03Z",
+   "image": null,
+   "hospitals": [
+    "Ağız ve Diş Sağlığı"
+   ]
+  },
+  {
+   "id": "84068e1d51dcc470",
+   "title": "Çayırova Devlet Hastanesi'nde 5. Kat! Yıl Sonu Hedefi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNclRjeER1Wnpkd2xkVkpQMUJscDBsdDFqVjREeFUzdFZ2WGJJREFUejY4Unc4TTVWUFZ6eDRyenByQ1g2ekc3LVl5VnBFbmxiNVVxdHR6d2pSdjUwUWZSNU5ZV0pKbURMSzI5R0U5Znh4ZXZjUTVkcmVGYzl1ZzhPMEFzWDZtUnZMdGRDcldDRlVGQV9S?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T15:04:00Z",
+   "image": null,
+   "hospitals": [
+    "Çayırova Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "8191268177751de3",
+   "title": "Kocaeli Derince’deki 120 yataklı sağlık tesisi inşaatı yüzde 40’a ulaştı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUFtLXEtT2RMLU1CbmNFc3k0RE5idEtxXzlWZW03WlFveTB6M0Q4RFhNdmMtbDROQnZHTWhwNmpvY3VUZWxBTzUtdkpQNDZFTXE0SFVBMjlYNk1hZkpmR0Nrc0tXSWJ1bnk4eTlTeGdxV2dvZkRQYUItUWpMbXR4UFlDUW9OVWRCS2gyOF85X1p6eWxidFE?oc=5",
+   "source": "Tek Haber Ajansı",
+   "published": "2026-11-17T15:00:41Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "0696fc8cb99d37a0",
+   "title": "Kocaeli Üniversitesi Hastanesi Yemek Listesi 17 Kasım 2026 Salı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWlhVFhsV0pfV0xqUU9EVER4a2dad29nU0liYXhrRlpwR3pFSjY3bUYxLVBJTXRocW9ZVFhMbHJzaVNfal94Y19nZWoxUnNUM2g5LW1yODBfVFVoZjRsMlI3TDNJc2FZS0tDSjBlZVhTNUoyTlFrY2FiZmgybmdyNG5IWHA3d3dOTGpvUzVIbHFhRUpic0gwOWRlQQ?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T14:12:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "bcb8143f0cfc3432",
+   "title": "İzmit Seka Devlet Hastanesi Yemek Listesi 17 Kasım 2026 Salı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ19mU1VQTVF5b0VpYlJQd3pUNG5mSmlwS2xsLTVyLW1yVEFBZ1pGSUwydjR4cTVpSkZtZDFoRGxBSDRQcTI2NFBpTFNEUkJGbEd5cVlQd3NoalVzZEoxU2VQcFJiWHhxRFJfOWtiNjFhbGVLcC1GaUlKM0lOUWx1RlBKZ0gwNlBSWGFSbnhQd0kzLTZOM0Vr?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T14:04:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "1cb14b9dc1430373",
+   "title": "Gebze Fatih Devlet Hastanesi Yemek Listesi 17 Kasım 2026 Salı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZHJyQmp1bWVNbUotOG1xQUlxQURYcFU0dElhdUswOXF4VERwdk1TM3M5VkhLX0N0V05WR1I3U2FwZ3FNR1p4M3FCZTl5UUNRdWZCNTZyQ1piRXBCMjZFaWZyVzF0SDZYSnM4NjRtS3JQNkpMc245bEhYVUhZcFRnUnZLcGhTVWFTQWpRUDVsZ2xDOTR2UmFaYw?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T14:00:00Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "c93f846f42eaf93f",
+   "title": "İşte Derince'deki 120 yataklı yeni hastane binasında son durum",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlVOWDVVWldfY1lLQkVmUTdwMXBFMFZNLVM1Y1JCVFRjdlRSbVdNRE9XLWtlVXZlSFF1UGFSYkhELUF2MTFxNjduUGNSemlubE51cXUwTUFZT3d5eW1lVFhsOG1QeWtlS2FOUEpFYnZDQV9UQ2ZIaUJaU05Rb3A5cVVma1ViTTR3QUdqanhlZU5uN00yQmYyMzViMjlIcmNTdmNZVzZhZHlxelZrMGxMYnVaYw?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-11-17T13:47:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "354d761e2e4b532f",
+   "title": "Derince'nin yeni sağlık tesisinde büyük ilerleme!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFcwUGRFWmdhcmg2NGd2am9Eemt4VWh4azBsZkxOd00xeDdNeUc1WXA0eDl3elA5N1VOcjVCY0FyUXFmdnRTbzVhSFlXdUNFcDFjLXZkSnFRVTJMbC1IZW9WYlcwdnktRk5KYlIwYkhIY3NxU21Gb1dnckpRRTNNR2N5VXhfOGRhdmlMS0N5U1B2cmVma1Zj0gGXAUFVX3lxTFBIVzBQZEVaZ2FyaDY0Z3Zqb0R6a3hVaHhrMGxmTE53TTF4N015RzVZcDR4OXd6UDk3VU5yNUJjQXJRcWZ2dFNvNWFIWVd1Q0VwMWMtdmRKcVFVMkxsLUhlb1ZiVzB2eS1GTkpiUjBiSEhjc3FTbUZvV2dySlFFM01HY3lVeF84ZGF2aUxLQ3lTUHZyZWZrVmM?oc=5",
+   "source": "Kocaeli Gündem",
+   "published": "2026-11-17T13:41:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "855e33301e4c3c59",
+   "title": "Kocaeli Şehir Hastanesi Yemek Listesi 17 Kasım 2026 Salı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUo3S1pWR1ZjQXRLaVRpNlZSLTNyR2ZCMU8xa05USHZycWRoVnJzeG9VLXVuVzlpWVJmTFd4WVFkQUtPWk9YVC1oankzQUFyZm9lZjk4TWtrdW9la28yN2p2c0QtNHRna0dVbnJQVDZiUGl1S2lBd3VRVGtkeXdsN3hIRGQtaVVEYUFvSE5YbG83UQ?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T13:40:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "56590a84723083f8",
+   "title": "Derince Eğitim ve Araştırma Hastanesi Yemek Listesi 17 Kasım 2026 Salı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWhQQzBaMW1sWjlQUnFmSzdXaXRPQUFnV20yc3NjV0t3ejBteUNZa3F1TVcyTUFHRmRuRlNpX0lWR0p3QlRKcG13OWJ1b0hQWXRPcXhRLWVoUzRwS3FxWDdlUk9Sa1l5RmZnbjNOZmR1VHRrUk42NnZ6c2FndmdwUFlKMWl2bmE2OHlmY1ZzU2kwVkJldVdXSUNEZkREdXNPMmdwZg?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T13:40:00Z",
+   "image": null,
+   "hospitals": [
+    "Derince EAH"
+   ]
+  },
+  {
+   "id": "a090e22c0bfabb26",
+   "title": "Körfez Marmara Hastanesi kimin, sahibi kimdir?",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1VBeEJSc284XzZuZklQNVpkUVRrRWdHdHE0WVFmY0VKbUdpODZFMlVWbHJSWUp0ZGF2N3VvS1NKMlFUMXI2S3NaOFIzRGx3ZkZWQXRZZ3k1a05YWXBwYkFuOTVVc2VMZFhtWmJiYnM1ZjhFcUEtbnRSRFo4a3FEdUZwQnRvbWN0SnNwWnlWNy1DWFVy?oc=5",
+   "source": "TRHaber",
+   "published": "2026-11-17T13:34:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "d404f3ca3fb9bf17",
+   "title": "Kocaeli'de Çayırova Devlet Hastanesi yükseliyor",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWU1DM1dwS3NXQzNqVW1DcVh5MFVHbFBqZFBpREkxdWNWdkJueUFPdEtidjZ4MXlrZlgxMVk2ZmdpSldGb2ozRWwzWmhFdFg3eHFzSlp1YzVUU1JzY3JQdElUNjljZmxsM3FrOHRpMVVSUjUydFFwQnlUNTQyLVZiYW5naw?oc=5",
+   "source": "Ereğli Önder Gazetesi",
+   "published": "2026-11-17T13:33:00Z",
+   "image": null,
+   "hospitals": [
+    "Çayırova Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "0b481ae292d5b4d6",
+   "title": "İzmit Seka Devlet Hastanesi Yemek Listesi 18 Kasım 2026 Çarşamba",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUNlaW40TWltSFdzOGFObktvaFRpTFU0TXpWVk5GWkxQU2hYT3gxM21sZWt0bUdWdUtaVjRHd0FuTDZxN0dWUFdoRHI4VW5nQVN4UEhaaEtTcDRQMlV6MDhYVWdMeURwWmZGRmRtaklYYUJ1RWlYeHJNczNBMmxtUWZlbTVSdGsyb0pnNm03RVlqUTZRS21vd2ltZ08?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "91e9fefcc58c31d8",
+   "title": "Kocaeli Şehir Hastanesi Yemek Listesi 18 Kasım 2026 Çarşamba",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG9mMFpuaGFhLWhKRFdJb3REQnFrWW9nTkY4UHNOcWpSb1RLbTVQSDFhckZkY0lPZzZsOGNUV3dRdzkwVFNwc19zUEF0Y29PMnBYeEN5cDZieHpnNGpFMURJSWJFTVM0ZzhsTnFraGFhU2N6bFcwc2JGUUZzc3h6djhUREo0MXZ2RjJUR0pUVE00djFOVTRr?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "7dfaa8f644590af2",
+   "title": "Derince Eğitim ve Araştırma Hastanesi Yemek Listesi 18 Kasım 2026 Çarşamba",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlFTTno0NjgyVWl5T3ZSaUMxLWs3eUpaYnJwLTVrWEl5R1RnRDNkQ0VZSldjd29xODdlUU93ZUhVWmRac3RKaVBxNER0XzVRcEJQREYzVmR4OTdqXy16bURyZUlpYmswdjh2aEc3WnFKdHc2X3RGYWFnaEptNTZjV2hMbU4yWjRiLVNfSmFyUDZRQnZ6THBwZWtXT1VwY0prWGY5LU9WMXVMQQ?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "Derince EAH"
+   ]
+  },
+  {
+   "id": "31196a27a31f6455",
+   "title": "Kocaeli Üniversitesi Hastanesi Yemek Listesi 18 Kasım 2026 Çarşamba",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjI5MFlmYTRzRTVCTGhuX0JRTHF4OUhPMUlCb0sydkU5c3hxa0pUZmFaWnJLLVdreFRyZTlCS0lpczlIc2MtTW9jVUFWUUxDNTdxa3lqd2k2dG5KSS1lNkNhSkFmYUpoUnJLQXJvVmFpZ25MN09wTWpIcGpWWXFTSkdlSTJXSXNCc2Q3QU8waXNISWwyYjdCRzlNelpsdnl6?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "3c1a7856266127ba",
+   "title": "Gebze Fatih Devlet Hastanesi Yemek Listesi 18 Kasım 2026 Çarşamba",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHFBNnk1OHRfSFBFOV9EbExnUmQ1MGhFVkhTRGgxcWNaVFRFcUV5RENPUmxfanhwT2FTbjFQS2E4WmN2MlB4dlpUTDlsQ0VZMGNqcHV1REpLZTlwaDJjcmo5YlBhMEtFRE9MV1hic1hWSU90a3RwZjBXd3o2ZWJ0T2RpbXFndWhTQzVHV1dkZGlOR3hlRzhqdDlKXzI1UQ?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-17T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "b948e7a5a0114c2f",
+   "title": "Kocaeli'nin bu ilçesinde ilk kez açıldı! Devlet hastanesine yeni poliklinik",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTFjd2RTS1ZwYzNLYkp2QjU1LTA2cVZuTml1cXBJcWVsN0NJS0NKeXZiQVUxUXBJZTBrQWNGQ1JVNmRCWER3akUtYW9Pa2Jmb1NfdGtWeVdKUk5Qc0R0Sm1seXhJZWNuN210ckx0NFVsZEZUeVplME9GWmV1ekhQcmxhX2dlbkJvSlVnU3dyUHFGdDBuWmstdzlQMXlsTXZuOEpjajUyWVFQWVpNSzN0VkxOcVRtMXM2bUVQenNORErSAcYBQVVfeXFMTi1VeU8yaDZYMGNjSE12NWdXcUNDVTU0d3lBSWRxNGJmczR0RmJGVXZkalpmMU9OaTJqMWl5TjczT1FiVlVKd2dybzgxQlVHX1JXa2tzRmtUQ29mdFlSWXJhbUo2UnNBeFk4UmxtNTdNMU1IendhS2pTU3pmeE00SnNMMnZSWXU0b3lPZE8wbllNcnE4LS1DWWw4Y1pZY1BoRzJmeERyaE1lSnVfX1BVVjRldWhMZFctLUxqcko1RC1GTklEY1FB?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-17T13:18:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "99c60547d5e1fece",
+   "title": "Körfez Devlet Hastanesi Ek Binası’nda sona doğru! - Kocaeli Haberleri - Son Dakika Gündem Haberleri",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0tfVWx0VlI3THF1cWtxTVR6aWtXV2VINC1kTXdEUkkyYmxtVzZuN1lfMnB4dVQ4N0xISHgydXY2SHd6Zk1uR01mZE93UktmaUR1QXBOTGwteGV2NVBST29jYjRVaENtQVVsdF9qTHlrOUkzc05nRnM2bldNVWFhSDRJSTZnbzMxNHlBQTF1WkRCbFhIbURIRGJXYm9mQU0?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-11-17T13:16:00Z",
+   "image": null,
+   "hospitals": [
+    "Körfez Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "837d7169ed18f175",
+   "title": "Kocaeli’deki devlet hastanesinden tıbbi malzeme ihalesi!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYzQzSTdoZjdySmlrRHZRN1hMRzVfSXJoUXJNanFHaDdEYktBTVdXT2hqdno1VTVuNEpCMTZQci1xaDRUMGtQS2xhcko0YXZlSDJGMFVxVXNhVGJEYzhWOFNwYWM3ZTBxSDAzR1h4SU54ek1RZGd0MVRmYVYwZ3FOdUdsSzJDUFVWRE1UclI3RTd6clFZX0FlUnFvMUtVcVBsRnhWVVV3?oc=5",
+   "source": "İlke Kocaeli",
+   "published": "2026-11-17T13:00:40Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "7fbb31cf0d7c3afc",
+   "title": "Kocaeli'de vatandaş bu hastaneye azarlanmaya değil, şifa bulmaya gidiyor: Dur diyen yok mu?",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnc5LVJuN0Npa0lSdG1ya1pta1l6MHlTV0tTdlhIX0pkc0NXM2ZHb0xpcGF1TkVFNEc1cTg2c0xmZ0tyMGxGVGltV1JvWFpJNmFQdXgzdEt1a2pZRWotVjNqXzNCbnNYTXpCZUlFR3JlM1ZIaGJDaHBBVEczRGhKa3JjRndjNGZPTkxVdUdSMlZJalVvdGNTNEtneHVrX3hLS0hCZzN0ZkVRaWxZdFpQUldGcS1BNXpWcVJXXzk3cUpqZzRyYlNRa0FIS21LY2VqeG1HeTl3?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-11-17T11:34:33Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "8d544e693d78113e",
+   "title": "Hastanede sıra sistemi çocuk oyununa mı döndü? Kocaeli'de şaşırtan şikayet",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX3VJRVJpRW5vY3FMLWF1eDVPZ3g1bU56TW5yQl9FT3IwOUhvaDR3X3d2aTRQbFJRWEpOMDhyeUxwbW9YSmJJbHhqZnFFMVhSdmVzTXJkYUdmZFhGYm4tS0tqMFFERGJScHhfcWVsRGgzbjMwSEpGZDdwcTAyOEZ1bVF6QTdMTVVYUnI4czlpQnFyZkFxbmNMMnNtRHQwbnpVSFJFdWd1b3d3Q0JPQm9hSVprQTZoTG1mYjk1aTl2dTZNQQ?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-11-17T11:26:28Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "bb6557a0dca3e1d4",
+   "title": "Kocaeli Milletvekili Prof. Dr. Mühip Kanko: “Sağlıkta Yönetici Olmak İçin Liyakat Mi, Dolar Mı Gerekiyor?",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeEJqR0VRald0dEtiUGRNUElIMzNoQngwMUxGYUtVT1dUUnMxdFhrTWFycW8wajVEbVVpSUpqNHBVaUI1Ykd3N3R5MGJ2ZlBJdHlNT1I3dDdDeWtLUUg3blBJcUFVbnU0bHJZT3kwTDgyU1VOVXRoWlEya0FUcEMwZUJ1NGgzcGhLakdsT2ZHM3B5UllfLUhMU0l0MUNOZkhNTlItT0IyUjVzMk91eUdfYmNDdUtxUVZUSHRNLTFQZFNCbDRkanc?oc=5",
+   "source": "Başkent Postası",
+   "published": "2026-11-17T11:07:35Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "b755a0a0e59891e1",
+   "title": "Mühip Kanko'dan Sağlık Bakanlığına Kocaeli tepkisi! Hastane eksikliklerini tek tek sıraladı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZFBvSm95VU9sZUl0Ny1rZkd1U1NPaTZtbHJ5NEk1eXJCeGVVZ3VmZEs1RDBHR1J3Qlk5dTd5cUhfT0FRNENYUDEwVWFjQ0ZLdWItNVdybVZnRDFET3U5bXhHelJwYWFSQVE1UF9vYUhscWp6MnNMZDBMeVd0YnlVYjcyUi1UU3VMbnlETGNYd0o0TUdyby11YVYzVDRfcjQ4SjdkU3k3M1hzRV81VkRXV0Iyb3JSNUVnejlfUEx1SE1ha05JX0lGVzk0a2RQZWZGSUpuWkppaGhnZUNQU1p1Mms5S044RW4wbmRB?oc=5",
+   "source": "Nokta Gazetesi",
+   "published": "2026-11-17T09:57:17Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "3f4fe47b3e77e03e",
+   "title": "Kocaeli milletvekili 4 ilçeye devlet hastanesi istedi!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3JESXVlTlhxai1aODRUWWlZTkkyNlFCWEh3eTBmdEJWU25EZ3dFMFlFUmpuSUVUbmtPVzZNMTFUdk1YOUdfenRYb1lYaU5lN3NidTJtcmg5LS1iNUJMSG9haGd0OUEtTEFRdklTYUdtcWkxemNXemlENU5qRGw4cFNIMFJQMkFOWFAwM0s4NnBYQUZ4LW1GVG4tTHl1Zjh4TEFUTXpB0gGrAUFVX3lxTE9hRGhBNHJ2VHItMXl4VjJkZXEyTnNFS1ZBYVB0TEwyalFQbGgzX2R0YnBUb1FjNkhORk1nUTV1ekZKR1NfWVJUNUowcUc1RmJXUS1CeDNfSlFOT21EM2VzLXlGYVlzUWxZOEx2S2pOejhkMlg2WlRoNk5UUGwxbGtqS2R4Rno4TEwtOU5TUE9Zay1aNmFDTldwQjdReDBrTGJyblZtcENCTlB2SQ?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-17T09:51:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "71885e907a703024",
+   "title": "KANKO: “KOCAELİ’DE HEKİM VE HASTA YATAĞI SAYISI TÜRKİYE ORTALAMASININ YÜZDE 25 GERİSİNDE!”",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWmNOZ1lCRUdTNjZBOVBJeUtiMkdMQzhBOHpkNG5QcGZaV21wRjM2d1NOV0JmMFVRcmEyaG1kbWtNWFNWTVVoRXpEdkJEMXp1LTBTT2dFeGt3bUllblBuQlNQMUVIOHBhUW1KUHhKSDRtMlFLbXRJakZqaEJPb25jTENSWTJyMF94WE9NSndhZGJFclpTaHlFZ0s1SjhFUDZoeWUxYzhzYS1HSkJPVGFyN3VfSktLZFRDY2R2dDAzUVpmQjg?oc=5",
+   "source": "Darıca Gazetesi",
+   "published": "2026-11-17T09:49:01Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "3e16056c0d311045",
+   "title": "Derince’ye 120 yataklı sağlık tesisi geliyor",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVFPTHB0cDloZ0dNVTd1Y0lWVG5RN0ZaZUlEV1NoVlotaFdnZU9NdzZ4MHZHbTduZmdwa3BQZ1RjbGxhNFA0MHhwSUk4LThqenVOdXptYU50Q1Zrd012Q082NnhVOVBqRW5DQkt5bXVEQVpWWWRpdEsyUjZTVGt3Qg?oc=5",
+   "source": "Bugün Kocaeli Gazetesi",
+   "published": "2026-11-17T09:11:00Z",
+   "image": null,
+   "hospitals": []
+  },
   {
    "id": "9be093f439563d37",
    "title": "Birinci Basamak Sağlık Yatırımları Yerinde İncelendi",
@@ -10,6 +318,18 @@
    "published": "2026-11-17T08:51:12Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "f46e6fb1a723e7f4",
+   "title": "Kocaeli Üniversitesi Hastanesi'nde hasta yakınından şikâyet: “Doktor sistemde var dedi, röntgen yok dedi!”",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZFhxemlIVTBnalY1QThRc1dRVHNWVkMyUkVFWXE4SHBqbEJ0Y3ZjVlYwaVZaZ01UMHpob01YV0FPUHdOT2gzbDVtNGwyR2lMb3lBTEg3aGVwYmZ1TFdKbUhmeFE0a3FRS1Q3dnE1M1h6MEw1bDlYVTNhLUs5RmNzZFlKLWFycnB2QWdobkJ4RDROX0dHVXAzeTJjanlBTjNUakJuSjZleVlhYUc2VXc4MFZQOWc1dU41cGx0OVJIYW9QdFd3QkNscTYyaEMzZ2c1RHpSdzlNRXB6aGwwMHNiMWNVSU_SAeoBQVVfeXFMTTduXzlYQlRTWGpuRVhCZVNySE5jYVEtYnFZWDFraWVWM2lBLWJJMnBXRHZ5QmxmOG1XZmlleXBNSVY1Qm9vak0wZmppUFVMZFZyS1FCM2VMcjRvZ1VXSXRiSkZpU2RBUHFBeEF3LXFkM2xJUTBiZ0FpanNpdktDTTFvT1BlOUZQeVloMnpkdnppTThyNTZkSWU5NDRZWTRnMDVuN1d5Y0s4ZDhKT21PMkhUMGhLWWx0R3JSLTdNZEYzZUg1emQ5WXlpZEJSXy0zTHJTbVdyczNURXNrZ1dWaG8wZzZ2RWY4Ui1B?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-17T08:22:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
   },
   {
    "id": "a1fde3e93d68b7fb",
@@ -64,6 +384,16 @@
    "hospitals": []
   },
   {
+   "id": "c0494674560d406a",
+   "title": "Derince’de yeni sağlık tesisinin inşaatında ilerleme yüzde 40’a ulaştı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVRtTDliVGZoYnB1SHNteWlpYV90UU5pR2dpY3ljVVo4ZjdsUV9iX0l0ak53dXRXWVY3V2huejhNYlJZczVuUERkMjNMejFvQXhHY3U5WVRCaS1iLVdwbjlLMUxLT1lmdkxSNHctNU1xcnVjMEJFYWtyaWdiNTByTE1BM2E5eDRKdGxmNGVYaGtLX19kMkRTYndfZmNSUWRjRVVmWUFUMWVTTVdHY1BqMA?oc=5",
+   "source": "İlke Kocaeli",
+   "published": "2026-11-17T07:30:49Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
    "id": "34643c993d580e22",
    "title": "Kocaeli Derince'de 120 yataklı sağlık tesisinin inşaatı yüzde 40 seviyesine ulaştı",
    "summary": null,
@@ -104,12 +434,34 @@
    "hospitals": []
   },
   {
+   "id": "2eba16baf318f0a3",
+   "title": "Kocaeli İl Sağlık Müdürlüğü TYP personel alımı! 5 temizlik personeli alınacak, şartlar ve iş başı tarihi belli oldu",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQkwyWnlZSTducllyTTZ5TDU4OEhfV0hra0tfODlVQ0FmY0FESjd1RTREQ2ZPTDF2WTdoVDliUzVmOWUxQkptNDdQamFpcGZzX3E0ckQ1SV9DOWZYTWZvVUtnMm8tX092ajdQLUpNMEZBV1ZNV0V5OURaLV9KSm1NWDkzT2s4aF9VSkk4WUluMm1oeFFZTU5mcUNnYUpnWlhJdGstODRiS1VxcTQ1czJwa0RSMG83Um9VYU5vQ1dVckU3aGQ0NEVQVUNKbUtLaTFXN05CbUFjNHgxaTFkYzd4V3haSHlyWU1nbGc5TmtB0gHzAUFVX3lxTE4wOGliX0x1SDR6Q0w3S1d3dUJqQU1iODE3VU0tcFlGNDNRclpGa3U5ZVpYWUR4OTF1dm1vYVZSWmJGMjJ3YUNXLVVuTUFxSm9ab09feEFsdHVFck5Mb0hsRFA2NkllbFVQcy01M0FwTHJWOHhNTVpMM01VZUxlSjRfVmZ4TkFHNWhjQW1QNTI1amJYMUNMVDV4REpLa2xYYUlndFNvNlVqaGYxa3MzRWNfSkZrR2VBRThkYktPTlhkZXJfSEFQSnZScU01MFY1Q3hWUHczT1poNWZHX2QwbFAxOUMwdlFWeEhPSUlzSFBVN3pGcw?oc=5",
+   "source": "Kocaeli Denge",
+   "published": "2026-11-17T06:52:00Z",
+   "image": null,
+   "hospitals": [
+    "İl Sağlık Müdürlüğü"
+   ]
+  },
+  {
    "id": "16372e60897bf141",
    "title": "Derince yeni sağlık tesisinde ilerleme yüzde 40’a ulaştı",
    "summary": null,
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczJSbDNmVlVqT19aUDdfaVl6Yld0QlhKNWdLSGg1UXNBNm5HM1JDMEI1SG90T0NPYm9yaWxNNHVCWTRieE55TXFuNDJZRUhlNzh3TloyLVlWcmI1ZHZLdi01c1k3ZWZvY2VYTXJFSTUwci1pVlJmQ1RJdWxVZGZtMHQybzVzVkpIaXZNMHJmVURoRk1QaVR3bE1Sd2RmSHV3d1l1Vg?oc=5",
    "source": "Özgür Kocaeli",
    "published": "2026-11-17T06:46:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "576ed860d9c7d210",
+   "title": "Derince'deki yeni sağlık tesisinde ayakta kemoterapi bölümü de bulunacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0ViWHd1czFZc29qcURGS29feUR4Sno3R2lYQnQzX1JwQWszR0pPd0ZPaHRDdmtMelVDNzNMVmIxVkYtUzdfZVRobkN6OFJNVU90aVVqeFNRM1dNWExJTURhcDVQTjFMRkQxTWQzR0RTczk2b192Y2tFcGhrRVg5QjdwRXgwNFVkN2UxeUtjMTVqVkxNZUHSAZYBQVVfeXFMUEtFYlh3dXMxWXNvanFERktvX3lEeEp6N0dpWEJ0M19ScEFrM0dKT3dGT2h0Q3ZrTHpVQzczTFZiMVZGLVM3X2VUaG5DejhSTVVPdGlVanhTUTNXTVhMSU1EYXA1UE4xTEZEMU1kM0dEU3M5Nm9fdmNrRXBoa0VYOUI3cEV4MDRVZDdlMXlLYzE1alZMTWVB?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-11-17T06:38:00Z",
    "image": null,
    "hospitals": []
   },
@@ -184,6 +536,18 @@
    "published": "2026-11-17T05:21:16Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "ee11b93c10efeeeb",
+   "title": "GÖLCÜK NECATİ ÇELİK DEVLET HASTANESİ BAŞHEKİMLİĞİ",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFhMbTJVMGpwaVF0dFFOQjk4SEdYUlAtMm9XVXFsSHVrX0ZpeWFkSEE3ZjV3MWhvRFdEVnduX3o3UTRxc0J6ZU02clN2bUxPcnkteGRNYmZKbVBqbGxLbkRIR1JIQjh5ckNRYmlGTGlUcF9Ob1hEa3BqUlB3emZoOGpBMktWRlYwVmlkQWRQYW13NDlnMm9GZHZBck5kb2RMdlY0RE5R?oc=5",
+   "source": "Nokta Gazetesi",
+   "published": "2026-11-16T21:00:00Z",
+   "image": null,
+   "hospitals": [
+    "Gölcük Necati Çelik DH"
+   ]
   },
   {
    "id": "52bbca05365c32f0",
@@ -4000,360 +4364,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHNDZEwzTVROc1g3Nk9JM0JEUzE1UlZ2Rlg2WTVyRTF2c0lLU2dGcFAzSHVsOUhrQ1J5N0Z1OFRvSVVQZTY3YzV4UGowc3B6ZEZ4ZndyUUk4TTNJRFN2WDZTUks1WjAteUtyRjVCamNId09FdDRhLVRDa1RXNDBwamRuQmk0N3lQX0RuQVdxeHRucEdVLW1DRm9JRGh5MGdXaHpqNWx5V2toVlNxNXl5QTYyYXBGd0xBVkUw0gG7AUFVX3lxTE90c0NkTDNNVE5zWDc2T0kzQkRTMTVSVnZGWDZZNXJFMXZzSUtTZ0ZwUDNIdWw5SGtDUnk3RnU4VG9JVVBlNjdjNXhQajBzcHpkRnhmd3JRSThNM0lEU3ZYNlNSSzVaMC15S3JGNUJqY0h3T0V0NGEtVENrVFc0MHBqZG5CaTQ3eVBfRG5BV3F4dG5wR1UtbUNGb0lEaHkwZ1doemo1bHlXa2hWU3E1eXlBNjJhcEZ3TEFWRTA?oc=5",
    "source": "Mavi Marmara Gazetesi",
    "published": "2026-10-18T09:44:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "b7983efcef30de43",
-   "title": "Çekmeköy noktasından Gebze Fatih Devlet Hastanesi noktasına toplu taşıma ile ulaşım",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGRFY1A4SWY4N3JlNTlxc09XV21rQ1FsWlUzc0dQSTBGTklSVm9uOEYzNjFYRkFKQ0JPc216RXhuNEFtSHVvRkdabV9qVC0xRm9NSDdPMVVBanlic0czR2lUd0RtQmRLdzNfeU5LZWRySEJpQl9SQ285MzdxSUNLS1NHNlMyT19HUU9lVFJFYXg0dUJ6WGFwNFJISTREQQ?oc=5",
-   "source": "Moovit",
-   "published": "2026-10-17T12:00:00Z",
-   "image": null,
-   "hospitals": [
-    "Gebze Fatih Devlet Hastanesi"
-   ]
-  },
-  {
-   "id": "fb67fc43e29d9d9b",
-   "title": "İzmit’in sevilen doktorunun ani ölümü",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFpjZTBQXy0xb1F5VDdhZmhHWTlwSi00ZlJremRsZkxkbGxHd3N4R3prR05sZkh5YkFhdWgwSzR0YUVveDFjbEFaX1lOdjdCMHpnekRkcW9NenlBUFNqOXBuZDVrYmJOMGxySzk2SjlHbkd5NWNaQXRIbFdhc25LZTlMTzNzNnBQ0gGIAUFVX3lxTE44WmNlMFBfLTFvUXlUN2FmaEdZOXBKLTRmUmt6ZGxmTGRsbEd3c3hHemtHTmxmSHliQWF1aDBLNHRhRW94MWNsQVpfWU52N0Iwemd6RGRxb016eUFQU2o5cG5kNWtiYk4wbHJLOTZKOUduR3k1Y1pBdEhsV2FzbktlOUxPM3M2cFA?oc=5",
-   "source": "En Kocaeli",
-   "published": "2026-10-17T08:59:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "976487fa64f91ed9",
-   "title": "Kocaeli Sağlık Camiasının Acı Kaybı! Dr. Güvenç Koçkaya Son Yolculuğuna Uğurlandı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDlYSFVvbFNJR2w1SlhkdVpTV1RhNUNtSVlnYVlOS3EyNmZIYjg4NmEyMEdxRE9naFlNckpmNV9LS3l2bHhRUDdBNUF1a3duZnNGN08xYnVla2E4VE1zRl8tNUFlenFXT0Q5V3NqZWJUbmFkaVBQQWpfRzFuUEcybEtfcEhxaVFicjNTNDQ1VXV1RnRfTzliTVVVOU96X0hTMFd2TDljdTlCZEtlMGJxQ1dvWU5aLU1pNzhfRkFrNWVSRENycDhtak9ZMNIB0AFBVV95cUxQUzNON19JbWtfTHJXVUh4ZXMxLUhfZ0RCMnFQbFNrVFMwa29Lc0xmSFdReTJkaFpSUDQzeURuTkFOYVJiWjY4eWJaa1BnM3RtQVN0eVg2aHpvMFJpZzN0MkRnd2FxRHQxSjhid01BMWR5QlZUcWppM3ZBSnVDaU5pT0VKNUVlWnhrcEhSbEVwMk5qMkE4bWFWcGJGNm5SYzZESkk5dDZQblVZQU9TdEhuaDFuTTU4aWZxdFZ1WXkyVTVQeFhtbWdhV1Rtc1ZNOUY5?oc=5",
-   "source": "Kocaeli Şehir Gazetesi",
-   "published": "2026-10-17T07:21:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "e427b6cbdbe9fc11",
-   "title": "Kocaeli sağlık camiasının acı kaybı: Genç doktor toprağa verildi",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbG9YcXBzSE1oQ3VnSkJsNGw0Y1dIdFhhVndta3A2cHB5S1NHMWtKeFR4NzRHYlN1Ykc5bi12aUdpd3JpaE92RTdMQXNDS1lfN1FTVVp2c2R0R0Y5LU5pTG5iWDRIa2pBelU1VjhnblIycEYtSXVzc2taNDdNVVhHQXhyclNCYVVfT01zejRnN2VKRFhBeXZ1WXg2ODlQS1hTT3dhUnp2VU9uZTNPdzhKYzU2TnlMd9IBuwFBVV95cUxPWDFQZnNiS2hwZXhNdTRvakJSN1kwOVZLSUJXV3l0SDdGaFN2aVYxOHljNzZUeEQtYlZHX3V3OG0xSWhFdjRVX2psd00yYllyNkFzY2VNdHllcFByS013VFdWUEppNzF2b2xSS1AwNWtjRnZ3b0xMdGRmQ2Q0dDhHWXh2M3AzM1Y1RVYzTE0yYXN3WjhpMFVKUERkWExETDV3Tk0xdVFUQnNybm1FdGFrUzV5QVJrRmtGTHQ0?oc=5",
-   "source": "Kocaeli Barış Gazetesi",
-   "published": "2026-10-17T06:38:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "9e62b5bba1435ef6",
-   "title": "Kocaeli 112 Camiasında Acı Kayıp: Dr. Güvenç Koçkaya Vefat Etti!",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZC1MZ1pkS0dvTlFQc182LWRqNzRvbkVqc0FET0hCZzhPNlFYZlRTbnJvckJUbEVVcnVUNE01UmphaHpLVm1nMlAzNXVyOERXb1d0M2NYa25Gd2UzY2phYnk2UmsxZ3dJM2M5SV9DU0xESk9zTHNMd1lpMzNZWC1aOGUxNmhXazFPV3Z1endaZzlWQQ?oc=5",
-   "source": "attyiz.biz",
-   "published": "2026-10-16T22:05:11Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "0d73869aa76b8ad2",
-   "title": "İzmit’in sevilen doktorunun genç yaşta ani ölümü! Son yolculuğuna uğurlandı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTktCRWtDNWdfNGZPdkxOek1IOXZEVFptYmQ3N0otNVp5V0NwaHJMV25BSnNFRHNTd3lIOEFRM05MeTZxOXNqODBPX1dUMnF5WGt5RDJaQ2NIOVNudDN6Wi1PbWxpMjQ3SkFtLWRMY3BubERfbGJZZ1NqMzAyLVp0SEpDWG9qa0d4d0xsUC1KZ1VPODNRQWJsWUI5WnM3U04tZk54X0lpcDJLSVItWXdHbW9kSmV0b3ZLSGx5edIBwgFBVV95cUxOTmZFcGdJeFdwNS1KRV9CUEx2V3Y1QUloeXUyTzdPYmV4Y3p2Q0RkR1ZaLTM3eDdpZ1RoOFZoaUk5NGVWMTJfWmgxc3FDbnJTNmZUamlUVl90dXdnQzFLampnc2pCenJEYTJBLXA5dDJVdFpGYXFwLUplMlBnR1REYmlRNWVHaFcwVS1ZZkdwblRpSjZESkpYcjFRenBDakx0UXBTeE9FRS14SHhnN3FWdFMzenRFVVlkUVVhZGpuVDdQUQ?oc=5",
-   "source": "Özgür Kocaeli",
-   "published": "2026-10-16T21:14:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "145456b595163f52",
-   "title": "41 sanatçıdan KOÜ hastanesine anlamlı hediye",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMnVwai1EdTM0elNHZ1BOaUNUZE9xdDVha051a05RMkN0RWtnbHltOS1pM2l5SW1LUW5rblV6dHZUSkdNa05nTGI5SjBtZVdQUW1fbXRXZnJweUdOdi0yX1A2X1gxbTBXUXNOT0c4SDFTNTVxY1FaY3JlTVQwa3ZoWHZkTmlGV1lGRWhBSTIzMDBzRmt1blHSAZsBQVVfeXFMUFkwVndGcGZpb2NPZTFQWU1RaEJxQW1xZHkyaHF0M0wtb0toLUxtNWNrSWxDVUxadWhTNDg4R2xOXzBwczJsbnB1alNwVllpS3o2YVJ1RVVjamRUdFVhaEF5bFZ5Q1hRcTlfZEs0OVU5NDh3STBFWG9MUzdYcFQyZkoyMDVwWUd2amJTUVVLOVZQU3h5S0pxczJyYUU?oc=5",
-   "source": "Özgür Kocaeli",
-   "published": "2026-10-16T13:42:00Z",
-   "image": null,
-   "hospitals": [
-    "KOÜ Hastanesi"
-   ]
-  },
-  {
-   "id": "76907b391b0cb559",
-   "title": "Kocaeli Devlet Hastanesi önünde gerginlik çıkardı! Polis ekipleri devreye girdi",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDl2eHE3REN5TWRyQ0o1Y2pKVUJnc0JFUnVtSlpoYmhHSnBoR0UxVVZWanEzSWszNENGSHlCNlhIY2lIRXhVWVhBRGhpOHRzTWUyTnQxRi03YjJTRDdnaUVRZWR6bTZrTnNsV3V3OEc2SVNjVWpHdkJYMTZDX253ZkRsVFpfZV9rbThPM05EeG55TlFVOHNyRFltNVM2ZktrcXBvV3JzdlI5c1NOYnZlSmxTZ3B3X3VLOTE5cGJIONIBxAFBVV95cUxNQ0VTUzNZeWNvM2I4dlhJZmVodjE0MGZRc3pOS2w1RU9ITVNQOHdqemNSSkY5QVduXy1sdG0xNGt6dXA4UjJrTDdlX3g0cFVBeHVacVFUSDVRY3M5T3RuaW1oYk5yM05QV2w1ZnVRdTNnN0RtajdLeXBlUGZTUlNlR0VwZXRqZW5LS2ZUWEdNWXJTcEVpMUlvTG4tMnhGeWVUSVAzYTFfTl9BYm1GeFVhN1c3dEtrcXJEbkRHZlQxQ0JzMWY0?oc=5",
-   "source": "Kocaeli Fikir",
-   "published": "2026-10-16T09:31:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "459523de745a5064",
-   "title": "Kocaeli Devlet Hastanesi önünde gergin anlar",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUxRbHNMVC1XUEo3eTZqd0ZvYmUyOThmN21ob1lYRlIwZldjVEliVHhmMnprTEFYQ2tmbzQ2dDlIZzVlNk1xcHBEQS0xNzMta25rSkNBcnZ0T0FoUWZtSFZmMmhpUktScjcya0ZteUJVYmNJdHl1ek9TNnF6UG50dEM3cm1VRURKYm1oejZB0gGTAUFVX3lxTE1vcEgyTi1VMzBGbDZaUkY5YkU5eWdnY19JQmcxWmx0Vm1ZY3kzWTdQRmZwdzd4SEd5RXRqTmtHZ3hOcDJjMF9ncFAxX1JKUF85akhCbnk4T1RUQUF2TmRjRWstSnVUZ25iMWJZTmRrdFV6c2dUOGtrYjhZQzBySHVBTEo4Y1VQQlZ1dnRjbGZzT09TQQ?oc=5",
-   "source": "Kocaeli Gündem",
-   "published": "2026-10-16T08:38:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "4211894d18e3cea4",
-   "title": "Kocaeli Şehir Hastanesi’nde tuvalet tepkisi: “Hiç mi ilgilenen olmadı?”",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTENYY20xSkRCV3VnQ084YTBwYlFjcjhFMEVxcXllc00zSlY1dUdUYl84RGZGejJ5aWRsdUVYZUhnd3l4RTdBNEJ4OGFBUXJ0ZS1Ua3FESk9Ga3RLTl9iY29VZktvTGxnUXdpSElNMEVqU0M2aTJ5MmNac1hPUFhGQnFVakMtQkZQRTY1aFpQeDBQUWNnOG15aDJEVFBORlRMWFJGNnR5MnRYQ09YR0RNUDdzTGgyb03SAbwBQVVfeXFMTWNaTVg3cnhuNXphOGJiZFFqUUhpOVprQklQdXhmZzhyQi1SNjRpSkRmcFFFdlRrdW1nZGd1WXdHWWtWaEtWRXc3OXJydzJ2MVZUZGZkaFUyNERRUks1Xzk4aU9adElBQUoxa1NLMk1vUU5iVVdIUnpRVmtDVms4V0VBS0ZMRnlOMW1LZWpjUnV5YWN2NHB2WHgwWTNKaWF6UEZOak9XVVZ3a3NGYXNLRzE0VXFLMEZ1eHo2aWY?oc=5",
-   "source": "Kocaeli Gazetesi",
-   "published": "2026-10-16T08:21:00Z",
-   "image": null,
-   "hospitals": [
-    "Kocaeli Şehir Hastanesi"
-   ]
-  },
-  {
-   "id": "e1bcc4893bb4866c",
-   "title": "2026 YILI EYLÜL AYI PERFORMANS İTİRAZ KOMİSYON KARARLARI HAKKINDA DUYURU",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-395462/2026-yili-eylul-ayi-performans-itiraz-komisyon-kararlari-hakkinda-duyuru.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
-   "published": "2026-10-16T08:15:40Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "2c7689e2a2e413fb",
-   "title": "KOÜ Hastanesi’nde alarm sorunu çözülemiyor! Arızalı yangın alarmı sık sık devreye giriyor",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbmVDUUM2M3V4emRKeHVjX0dsaE1Fc1BvVmRsSDIzZkZ1WGtDRUo0TEoweFVPcmZSQ0NwRjVyMVVYNVRiaWVXUjVmNjIwUWJtV0MyOVd2N1F3VUtsMFF2LWMxMUc2ZHl1MXdkYXF3VWxiZm9peFZVX0dZc3YwWlppVkRaQUh3bldmR2JRVVgzS25mUmRpLVU4RUFKUVVKaE5BR0U1VnZGVHFyY0VUeGEwRE5hR19QSm5kaGdVbVo2d2VJa3BMTjNCSGJKb094bmPSAdQBQVVfeXFMTm82aEhiQjhvYUFRVklSazVWdGtNOWdvLXEzZnF6TF9Xa1ZiVFZRTnZ4ZWFjcUtGUzBOcThzYXByYnM3UjB0eXhMTmlWSVBJcGxsdEFiTUJTU3FPVmZzR0s1LWZmUUppODUwcFJIYUtWMVhqV3c1RWxXR0hzcWQ4VF9MNnlycUk3cGpTWEZMaW4zaEdOMGhRTENLd1VvdExRQ2FUMkR2TFFrdlV6a0ZYMDR4SkJsVUl4UHgxejI0T2JPNkZUZ3ZfZklBaVpSamNLMXFyUlQ?oc=5",
-   "source": "Özgür Kocaeli",
-   "published": "2026-10-16T07:43:00Z",
-   "image": null,
-   "hospitals": [
-    "KOÜ Hastanesi"
-   ]
-  },
-  {
-   "id": "61e1d3050f082332",
-   "title": "Kocaeli Üniversitesi Hastanesi’nde yangın alarmı paniği",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR2JjVlhUNE9tandVQXpWUkFONk9GNkNRczQtU09faV9rbFNWWGw4djRyTVU3VWQtcWxjMkhkNmpnZVdlY2xjcFNIZE9kWDRkbEItd2dSR2QwTHowdkRZd2RzZ0VldzRRWlo2TWpaSHBEM0pIeDk4RnhyTDduWjFVbkJrUExuZmRxWE5VYTgwTFpOSFFOWkZ0WURYbWlZbGRDbG94MNIBqgFBVV95cUxQWUFJbUdHUF9OMTh1clMtUkYxazljRVNSbUFYOWpKYlJTNzYwWmo5NmdvMGw1MllYUS1rNUNuenpTTHRROF9WYnMycnRRM2JYMnYwUDNDSEVNTE5uNk1nZHhMZGs1M0lkczU1TVhReGNyME1aQnFyeUd5UW9peENaQmNSaks3c1p6TGRUSFdnRExEUS1TWHJwZGMxYUNEUTZjd1BkeXROS3lUUQ?oc=5",
-   "source": "Çağdaş Kocaeli Gazetesi",
-   "published": "2026-10-16T07:36:00Z",
-   "image": null,
-   "hospitals": [
-    "KOÜ Hastanesi"
-   ]
-  },
-  {
-   "id": "3897582a8218edec",
-   "title": "Kocaeli Üniversitesi Hastanesi’nde Yangın Alarmı Krizi! “Binayı Terk Edin” Anonsları Bıktırdı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdENzQ29UVXNqMmFaWGxsTnl1NTBoeWJaazNRMzI1NXhWVjdTLTlQSkJuSVE0MngxNnpaMnYwdmlhOFlrb3ZBeFpSNmVvOTNVbl90Nl9HaHNEYjhzaGtpUERjVzZjR2Z4RFBwM1A5ZE8tMmdoR1ZXa18yQmk2dkdtV094aEt0OExYVEk1MXhqbjVUdFE5S2E4ZVRvZnlZV2tWX0JkSUc2OGp6YUVTS09HbTF5aXdtNTFqd0ZQY0FOdHpPWmF6NVJvUGVlR2hoQVJNVENVdTA1WdIB1wFBVV95cUxPdENzQ29UVXNqMmFaWGxsTnl1NTBoeWJaazNRMzI1NXhWVjdTLTlQSkJuSVE0MngxNnpaMnYwdmlhOFlrb3ZBeFpSNmVvOTNVbl90Nl9HaHNEYjhzaGtpUERjVzZjR2Z4RFBwM1A5ZE8tMmdoR1ZXa18yQmk2dkdtV094aEt0OExYVEk1MXhqbjVUdFE5S2E4ZVRvZnlZV2tWX0JkSUc2OGp6YUVTS09HbTF5aXdtNTFqd0ZQY0FOdHpPWmF6NVJvUGVlR2hoQVJNVENVdTA1WQ?oc=5",
-   "source": "Kocaeli Halk Gazetesi",
-   "published": "2026-10-16T07:34:00Z",
-   "image": null,
-   "hospitals": [
-    "KOÜ Hastanesi"
-   ]
-  },
-  {
-   "id": "24b504187598186a",
-   "title": "Kocaeli Üniversitesi Hastanesi'nde “Yalancı Yangın Alarmı” Krizi: Hastalar Tedirgin, Çalışanlar Endişeli!",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU0hUQlhZbTJBMjc0Mk5Lczl0ZmVrY2duMy1IeE90clZzbHBaMnpsX19rZERJbzB4Q184REhiTEtydjBBRG9oMkswdlY4MDVfRWtlNE5fT3BxbnNKd1pzWTFxcldTa2dmMldDeURXUC1uTFNxWlptekVCeEk4VkRDUzY2TXQyS3FuRW45RGFHN01SejlSRW8zaDhHektaUGZWc042TXA2dDhlMHFjN2djUGZpVy02NlFadlNiS0lydzFsZk44a2Zkczk1NF9iV3RnMUg0ZzMwakNaaHBqSDFkc21LQWY2QU55YWk5M9IB7AFBVV95cUxNU0hUQlhZbTJBMjc0Mk5Lczl0ZmVrY2duMy1IeE90clZzbHBaMnpsX19rZERJbzB4Q184REhiTEtydjBBRG9oMkswdlY4MDVfRWtlNE5fT3BxbnNKd1pzWTFxcldTa2dmMldDeURXUC1uTFNxWlptekVCeEk4VkRDUzY2TXQyS3FuRW45RGFHN01SejlSRW8zaDhHektaUGZWc042TXA2dDhlMHFjN2djUGZpVy02NlFadlNiS0lydzFsZk44a2Zkczk1NF9iV3RnMUg0ZzMwakNaaHBqSDFkc21LQWY2QU55YWk5Mw?oc=5",
-   "source": "Kocaeli Şehir Gazetesi",
-   "published": "2026-10-16T07:32:00Z",
-   "image": null,
-   "hospitals": [
-    "KOÜ Hastanesi"
-   ]
-  },
-  {
-   "id": "d976844c75ac78ce",
-   "title": "Kocaeli’de 15 kişi hastaneye kaldırıldı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1RONkhnSGJtS0ctNU1tM0daMUZuYnlETHcyTzJVb01qN3hfYlk3Sk82c0lXckVCaERVazlUdDJaamEyTnUxV2I5bzVxOVhzQm1vUmlIVHdYdjZ3dE9DSmlyNVpQZFdfZDhtQWM5MzZQTk9iZkNGYjBjZktCUEJhWkV4MFRkcU1jYlHSAY8BQVVfeXFMT0NxMmtscmVNRS1XWmU2QzRIaDBBSEVYVURYX01CeGpBZFN1OXEtWUZuMGFtMmVKZ2hIcnpoRzF6Nm4zOUhRelFuZWRyU2EtbE9lSTZGZmRacmdRaTVLTVo0MFF0RGFaRlZITVU1eUxMcnlQZWNhTEItTXJuYUJiWU01dTZoNDVteEw1bTlzU00?oc=5",
-   "source": "Kocaeli Denge",
-   "published": "2026-10-16T07:29:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "67355868792e532d",
-   "title": "Kocaeli İl Sağlık Müdürümüz Op. Dr. Yüksel Pehlevan başkanlığında, ilimiz genelindeki kamu hastaneleri ile ağız ve diş sağlığı merkezlerinin başhekimlerinin katılımıyla “Başhekimler Değerlendirme ve Paylaşım Toplantısı” gerçekleştirildi.",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-395259/kocaeli-il-saglik-mudurumuz-op-dr-yuksel-pehlevan-baskanliginda-ilimiz-genelindeki-kamu-hastaneleri-ile-agiz-ve-dis-sagligi-merkezlerinin-bashekimlerinin-katilimiyla-bashekimler-degerlendirme-ve-paylasim-toplantisi-gerceklestirildi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": [
-    "İl Sağlık Müdürlüğü"
-   ]
-  },
-  {
-   "id": "de9b227c35694e9b",
-   "title": "TÜGVA Kocaeli İl Temsilcisi Mustafa Salın’dan İl Sağlık Müdürümüze Ziyaret",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-395196/tugva-kocaeli-il-temsilcisi-mustafa-salindan-il-saglik-mudurumuze-ziyaret.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": [
-    "İl Sağlık Müdürlüğü"
-   ]
-  },
-  {
-   "id": "382486460697dcd3",
-   "title": "Yerel Düzey Afet Sağlık Grubu Operasyon Planı Masa Başı Tatbikatı Düzenlendi",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-395161/yerel-duzey-afet-saglik-grubu-operasyon-plani-masa-basi-tatbikati-duzenlendi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "dd1932ffef25b918",
-   "title": "Kocaeli Ağız ve Diş Sağlığı Hastanesi İnşaatında Yerinde İnceleme",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-395041/kocaeli-agiz-ve-dis-sagligi-hastanesi-insaatinda-yerinde-inceleme.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": [
-    "Ağız ve Diş Sağlığı"
-   ]
-  },
-  {
-   "id": "b568f387c4893ff1",
-   "title": "Körfez Devlet Hastanesi Ek Hizmet Binasına İnceleme Ziyareti",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-395040/korfez-devlet-hastanesi-ek-hizmet-binasina-inceleme-ziyareti.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": [
-    "Körfez Devlet Hastanesi"
-   ]
-  },
-  {
-   "id": "98d332a73b6ae982",
-   "title": "📚 Uluslararası 16. Kocaeli Kitap Fuarı’nda son gün!",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-394970/-uluslararasi-16-kocaeli-kitap-fuarinda-son-gun.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "53c090a6134fb33a",
-   "title": "İl Sağlık Müdürleri Toplantısı İzmir’de Gerçekleştirildi",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-394968/il-saglik-mudurleri-toplantisi-izmirde-gerceklestirildi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "771c5b6e470caf71",
-   "title": "📚 Uluslararası 16. Kocaeli Kitap Fuarı’ndayız!",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-394966/-uluslararasi-16-kocaeli-kitap-fuarindayiz.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "6b62347ed185792f",
-   "title": "Kocaeli Üniversitesi’nde Sigara Bırakma Polikliniği Hizmete Açıldı",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-394738/kocaeli-universitesinde-sigara-birakma-poliklinigi-hizmete-acildi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "7b177b00618f27c6",
-   "title": "“Yerinde Sigara Bırakma Danışmanlığı Hizmeti”",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-394500/yerinde-sigara-birakma-danismanligi-hizmeti.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "9f5864f1397002be",
-   "title": "Kocaeli’de Sağlıklı Yaşam İçin Hareketli Yaşama Dikkat Çekildi",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-394498/kocaelide-saglikli-yasam-icin-hareketli-yasama-dikkat-cekildi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "3eabbf454def2c42",
-   "title": "İl Sağlık Müdürümüz Op. Dr. Yüksel Pehlevan’a Ziyaret",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-394476/il-saglik-mudurumuz-op-dr-yuksel-pehlevana-ziyaret.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": [
-    "İl Sağlık Müdürlüğü"
-   ]
-  },
-  {
-   "id": "612d0caf8f055f09",
-   "title": "Kocaeli’de Dünya Yürüyüş Günü’nde Sağlıklı Yaşam İçin Adım Atıldı",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-394414/kocaelide-dunya-yuruyus-gununde-saglikli-yasam-icin-adim-atildi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "88ba34811d374d95",
-   "title": "2026 Yılı Kasım Dönemi İsteğe Bağlı İl İçi Naklen Atanma Kurası",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-395431/2026-yili-kasim-donemi-istege-bagli-il-ici-naklen-atanma-kurasi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "ec3205abd4950395",
-   "title": "2026/10. Aile Hekimliği Ek Yerleştirme Başvuru Listesi",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-395258/202610-aile-hekimligi-ek-yerlestirme-basvuru-listesi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "df528d2476680d41",
-   "title": "Aile Hekimliği Uygulaması 2026/10. Ek Yerleştirme - Eklenme Tarihi : 01 Ekim 2026",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-394078/aile-hekimligi-uygulamasi-202610-ek-yerlestirme---eklenme-tarihi--01-ekim-2026.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
-   "published": "2026-10-16T07:16:48Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "561d97f20aa5cb81",
-   "title": "2026/09. Aile Hekimliği Ek Yerleştirme Sonuçları",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-393488/202609-aile-hekimligi-ek-yerlestirme-sonuclari.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
-   "published": "2026-10-16T07:16:48Z",
    "image": null,
    "hospitals": []
   }
