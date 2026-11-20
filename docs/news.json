@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:52:29Z",
+ "updated": "2026-11-20T02:52:01Z",
  "items": [
   {
    "id": "557825c0755b1eed",
@@ -8,6 +8,16 @@
    "link": "https://kocaeliism.saglik.gov.tr/TR-395823/202610-aile-hekimligi-ek-yerlestirme-sonuclari.html",
    "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
    "published": "2026-11-19T21:52:29Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "dfdb2c8cd7ef84de",
+   "title": "Gölcük’teki otomotiv fabrikasında zehirlenme şüphesi: 12 işçi hastanelik oldu!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeElKNjVlcm1nY2xfSDN0MjBuMkJmUFZ1alpNVTQ4dDFSUE9PUGJSaG9TZGlUSm9qcFd0cEtWUGNveUo3MVhpWXVMZWprS3BlTmNDbWY2dGQ3Vlg3M3V2bHFBcGI4czNxckJfRGxkMDQtMWZHRmw3amI4YThHdC1YZkVUTUJHUUFWRURuamZQenRWc2FscWREQnpGYlNXSEllOUpoTGN2ZDhkNjJOX3V1c2hac3NUenNIV2NR0gG-AUFVX3lxTE5KRDNmckQ3WHpReGNrLU5vQXFGZno2WEVfUVpyOU1Ld1NDOHpZVnFTMUFjWW1qTXdGZlJvTVQ3eVlZOWdlTEE1VWh0WHIxek41bVdUR0JyVC1UZDBSUXhGQ2dBOGNWRFNYNFhLcTVua1ZKMFZrY1dZMDdPb1NpMF9LLVNYSy1TQ3lYWTNkMWx5emJPenZxTUdGcTZIVk4tbDhwMDVWRndTSE9QQ3phWG1CVlBWWEQ0OHRFZlhhVnc?oc=5",
+   "source": "Sabah",
+   "published": "2026-11-19T21:42:38Z",
    "image": null,
    "hospitals": []
   },
@@ -40,6 +50,18 @@
    "published": "2026-11-19T19:08:34Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "aaa0e797ab78f4de",
+   "title": "Necati Çelik Devlet Hastanesi \"dijital hastane\" oldu",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTVDYjlLdTQtdHBKVHNKaTVWMVRNek95cUlsMzNfN3lTTzQzN1c4ZGVUYl9UUkNZOXQwN1FyS0FpOUwyRGVuZ09kMXRobEwwTWVOWEtra1JWdjl3TER2SE84VmJZYTRlWFJsUlRwTGVBVW0zZ2tlU0JHdzFCNE1rZWlrQU1vTjBMZ2NxUWI3UmJVVmRqdzRR?oc=5",
+   "source": "Haber 7",
+   "published": "2026-11-19T18:27:00Z",
+   "image": null,
+   "hospitals": [
+    "Gölcük Necati Çelik DH"
+   ]
   },
   {
    "id": "04bbeefc1d06fced",
@@ -152,6 +174,16 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNlpURUwyM2puZUNwLVUyNTRSVThDYmdqTDg2V21CVXNLZGNrMEh5QVJYa0FrRHU2TkFrd1FqUENLM3hqMjQ4Q0VnOURfcWhuemlxYm1jR0kxVmhzTjM3Zk01SmZNLTJXWEdrRi1idm1XUWM4Sjh3ajZzeUZDNVpsXzZudHlTNzhsaHBOYzFMbjEzYW_SAZgBQVVfeXFMTk5GRW1zWnhYTV9OTkY4eTRrVGdRaVctdzFkUy0xcHowaDBiS1NNU1ZUbHVQQzFZM0hQZi1VSFNtQk5iR3hVMlZVOVJYV2plRFYwbmVKQXJodkVBd3A2VVdKMlI5X0pNZ1JWdXg2MGpRQ2VrMFI5NDYwU3IwTXQ2WFIwYU1VdklNMXRpbnQ2TmdPNjVTd1lDSnU?oc=5",
    "source": "Kocaeli Fikir",
    "published": "2026-11-19T09:43:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "73f779fa74b55694",
+   "title": "Kocaeli'de tedavi gören Adana Vali Yardımcısına Vali Aktaş'tan ziyaret",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmVIUjZhNlowS3dISmYxZl9ZODhaZ1lsWHdJS040WFdhX1ExMzVTUEg3RWdlS0FTQ2duVERtSHhJTG5xQVJTSkJqTFVONEIwekFQRFZIOGVVU1BOemN0c29FazBQc3FxblAyUU1qSldxbG9aNnlwTVYzQkQ0dmdPV1VYc0ZVTEVCdEdLbU8tZV9NQ19hNFdwd01Ca2wybks0eUJodTJNREFiU1BZSWNF0gG0AUFVX3lxTE5sNFFXNUdfNWxLRDhQM2hCRnVSTW41VTgxX1lEV3piWTZCd1pnZlJoaXN0OGc2c0lOV0tfNERMa0s0MVRPMS1DNVppSVVfM3dHbmZpZGdka09SRDBjdmVQQVRpRkZXaVJheFJhRDNGcWZlLURmMGNXVnN1bUhFWVM0blkyU1otdWNMUFhUSGs5X3ZUelBXaHVoeDZHYWNMSWtueE9laF9UNjFGbS1pa3BzOEt3Mg?oc=5",
+   "source": "Ses Kocaeli Gazetesi",
+   "published": "2026-11-19T07:21:00Z",
    "image": null,
    "hospitals": []
   },
@@ -310,6 +342,16 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGVDOUxsckVFNm9xTkNxYVB2OXJ6QVpJSVFKMjZ3cWw1V094MENRR0MzUlBVTTRSa3cxSHkyRnY3Y19qQnVDZVVzbVByTk85TFAwcTEtVDlackRrT1hEekt3MUFmNGF4QVRjRkt2WkR2NG4yTjh4NXlGUE1rWXFvdnFMWVhfMm5hTmZV?oc=5",
    "source": "Özgün Kocaeli",
    "published": "2026-11-18T12:36:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "0ad1f9534c7bbad6",
+   "title": "Olası Marmara depreminde Kocaeli'ye nasıl destek sağlanacak? Sağlık Bakanlığı açıkladı",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVzVUZGVlQm1uYzc3NmUtVEZCRzVwVVl2YVZHSTJrQklsdktLTWpJSm1KV2Q1cG9oWEcwaUk0X0FPTUxtbUdhWGRoUEhDbnFORFpVQ2JFU05lMGEzMGw0M2N6b1BWcU9oTE51U1RaekpBaUJCY1JpakViaHdGVF80elN5SjZFWVlHSmpFczF3WTdiNjJxZ21nbzZhRG5Za3NVOU1pdGFHY0JZWnc5amtSUkYtUW56MDducW5uR0dsMTRKdkdlc2NkcWN4MVfSAdIBQVVfeXFMTXRZaTgyMmhWRUl1Y1E1bjVDRzdZLXFRT3FUMDF1N0JGZENWN3ZoYmg5ZVJXVXFDUllxZVYxUlRJVktUUnhhYVh2NGRmd1JzNDV6S3dOUE1JVUhyWjVWc1FJUms3d1p0NXNPSHJ1VVF2dG1OOTJ3ZG5kcm90ekV0R1EzMHVyWnhGcXpjRVdmdVBZdlRfWVdOUDhISWJ4MTZpQ3N5LWgxNUVIVVZ0YkpuVnZYd2ZsVHZibXIwVlpQT015OU1XYjV2RDVpT0RaS1l2bGpn?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-11-18T12:26:00Z",
    "image": null,
    "hospitals": []
   },
@@ -4312,50 +4354,6 @@
    "published": "2026-10-21T15:13:00Z",
    "image": null,
    "hospitals": []
-  },
-  {
-   "id": "f66c5874b45e8ddc",
-   "title": "Kocaeli İŞKUR iş ilanları, ilde 1.389 açık ilan var, hastane ilanı var mı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUwzVTJQMFN1aHRQYUphTFhnQ0hUenVzLXl1aUNUR2E5ZDZqbkdYQUFjT0FDUmV2eHNBekU1Mm1lT3poRkotTGhuc3B6N1ByMnhuQ0pUOXZUTHlEVm9oSHh0T2NpZ2kzT09LR3Blbm5oREdiMG5RQ3I1OW5pUWFQZkRVOUFXYlZmUExTWXd4NDE3c1RMQnhfUlhjcGdfa2Y2UkFVSUpoV29hUGt0Y3JxZ1hYS1jSAboBQVVfeXFMUHEtQUdqeW92NXNDamVEVnlxdk43V1dqdEhBTzFiZ1ZaRWlKZnFKeUNhNExBV1BXaDVLbjRsM3YyYzRzMWZNdWJUQWgtVERZeFVLZ21RaVJ0cThyN0tvUXhrYVl4Mjkwd0M4SVRxNUZFV295RGYxdVFnSEFBckYzSFZhNkZrc3dwZEpVdWJ2UlItRHdHNE5LcFNfQXo5V01TUEc4SGFsNWNFMFhJU2ZSRnJVNXhyaUhpY3p3?oc=5",
-   "source": "Kocaeli Denge",
-   "published": "2026-10-21T12:31:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "23262e44ea1600c8",
-   "title": "Gebze Fatih Devlet Hastanesi iki kalem tıbbi cihaz alacak",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHZLZVFIOXVCNkJfWkxHTl9mWjZYaTFXLVluWEdNUDZwcTZIWTNGYjdXQlZQbVloT1dvNFB0UXBRazRhTzdPeGRZY1dUMjZLRG5LZEYwUTRwODV3bmpYdFFpNXhTZmlzcWJYNGVwWFRqQ3lHdWo0RmZwRFQ0ZnA2WlB5cFNyMzVBMkl3bDhzZlByLVdQS2VsdGFJZ25Qc3ZVbVE?oc=5",
-   "source": "İlke Kocaeli",
-   "published": "2026-10-21T11:45:47Z",
-   "image": null,
-   "hospitals": [
-    "Gebze Fatih Devlet Hastanesi"
-   ]
-  },
-  {
-   "id": "6764b6503507f682",
-   "title": "Kocaeli'de yoğun bakım krizi: Çevre illerde de bulunmuyor",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGFiSmhnaFduUDRRRGtBYWJ3Y2ZSUG1ZZURHdFRnempJNVVDN3NmWUZGTk5ZVlZqQkFxMU1GOTdMTlVmaDd2OHFhUjZxVWpiZ2hPSl9ZZVJjTmRpNFVBckdKUXZscThHaVB1YWZVY0NPeDNFNFNJb1NYTUdrMFNhWDdHVEZlcTg3MEkwLUdjRUprdWtqSEF0N1ZyZVJjZlVubmRFZVk4S2daSHPSAbABQVVfeXFMT3JBNGZadml4OFc4cUM3cnJHYUtjLXBxNHBBZi1HVzY5T0dQcW16N1QwTjUwWHA3akJIZlJsYVNYMjNKN1cxWTJ6OHRjc2EySHNhb0VWb3d4eXdRdUswX0NGd0pTQS1YbjZ5RWJ0LURURjNtR2tZeVRzS3l4OHJGblk2dnFGR01KRm1wb3RYYXhyQW9Qb2lVdUJlQTJ6TjZGOGxva2tiOG5iaHcyNlhaLUo?oc=5",
-   "source": "Kocaeli Barış Gazetesi",
-   "published": "2026-10-21T10:47:58Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "f1257513ca21b373",
-   "title": "Dilovası Devlet Hastanesi’nden meme kanserine dikkat çeken etkinlik",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0ppVGdScXhWc3MzTWYyam01ZVJhbk9ldUsyREEyQWJZWlNHd2t0Q204d292anlmbTVXbXB3b2E4VlU2UGtaRXd0UUNpMnM2U1lSWW1zbm1USlNuMkV6dkdHYWNwVDdSb1RKWmc2Q1FfT2l3YWVCUThzYlR5M1hIeEw2UUJKWGNyOWlUaDE3MDdhR0ZoMi1uZEdSR25DUnYyOTlHUTRub3Y3SDJsc3l4NTZFMXpmUEhpNlA2ejdn0gG-AUFVX3lxTE93SmlUZ1JxeFZzczNNZjJqbTVlUmFuT2V1SzJEQTJBYllaU0d3a3RDbTh3b3ZqeWZtNVdtcHdvYThWVTZQa1pFd3RRQ2kyczZTWVJZbXNubVRKU24yRXp2R0dhY3BUN1JvVEpaZzZDUV9PaXdhZUJROHNiVHkzWEh4TDZRQkpYY3I5aVRoMTcwN2FHRmgyLW5kR1JHbkNSdjI5OUdRNG5vdjdIMmxzeXg1NkUxemZQSGk2UDZ6N2c?oc=5",
-   "source": "Mavi Marmara Gazetesi",
-   "published": "2026-10-21T10:18:00Z",
-   "image": null,
-   "hospitals": [
-    "Dilovası Devlet Hastanesi"
-   ]
   }
  ]
 }
