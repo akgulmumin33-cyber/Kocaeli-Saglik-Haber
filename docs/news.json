@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-21T00:46:25Z",
+ "updated": "2026-11-21T07:46:11Z",
  "items": [
+  {
+   "id": "0d90fca5be4e66e4",
+   "title": "Kocaeli Şehir Hastanesi'nde bölümler ayrı, şikayetler aynı! Bu hastalar ne yaşadı?",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSllWRlRhSzQ3bFBUUUFENU5HcE5NZlVZSnk5X3REQXM2TDlmeHl2MlY0aVhIMnRxdWVFUXgyOUhjLUptcTZHRFdtcElubDRHWVV6UXB5MldPcGxkVk9DSWR2R1hmTkZWUFE1bGQ3elUtNzJ3cmlpZHc3RDNyc3pSMzRBbzg4UmJvbmlVZUNJcC11UXNQUnhQOERpY0MwOUl0UHp0NGZMUGNTWjgwVV9oYXpJbFV2WDlkUzlRVHlIbnJFSDlzaGhB0gHMAUFVX3lxTE0tQkhYbFRwbUFyOXlDZFlNVlZHZGJ6SnJ6Q3FfTXMwVE9pTjY1VGtXMUljakRVbm15WENYNUoydC1saEM5VjEzTUROX1o4UjNwU25FOXlIX2psRkIyWHVWbU80ay0wVGtROGY5MFpja1lpcWJQQ2ZCQklJSGxnRHFRUTZQQ1BKamp5djVzM0gtUEVKWWYxcU9hTjMtaTJ2ckhWa1gwWXJFaVptYVFVTG80bXlyaDFOYUkxSlE2RlYyY0NTLU9fVEs5cUNZeQ?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-21T07:12:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "582f754439f35d41",
+   "title": "Kocaeli'deki hastanenin ihalesinde yasaklama kararı! Şirket 1 yıl ihalelere katılamayacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHh3T1F4cnF2bzZOV2JBQi1ickhLM3ZyaWdMa1FxUFE1QXQ4U2dacHVGN25TcHpjN2lxclFXSWtpcjVqR0RvX1o3eEdYYlpkdmhzWTc2ZUExNHhQcFVPektTYkRYV0hJQmZld3FPclFzWjFMRFRqU0tsQUYyYTRSUE91NHNoTUtSMWJDeDNYcENFRy1Lc0dTWldBSFFuVmhEYl9rMGE1RGpvbGlELUxWaVo3QnhPRTBFV196NFJzNWJBekpwUXpRdFBQWkNpbE1l0gHWAUFVX3lxTE5nN3ExRERrZU1QamF1QTB4SDB2U0g2VVFWY0V2MEZNUWQyWVdDeDhRYmk3NkNrdlNDMm5zZXhNM2tfWm8tZ2xQeERjVV8yTmZfa3l5MFhndk9pWXN6czd6QjkzUkx1bmhZVlo3RXVsZjBsN01seGRlMkwzUVRUdldOOXB5S0dnamNRSGVxcDZIdExkbkozQWM2Nm5QcHgyZ1pUS0o1VGpSWHVfdVkxZ0pBSVgyNXZNQ29ic3pBVG5QV3Fjc210eThrWXQwZ3c0cVh6R2VzSFE?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-11-21T06:43:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "af89124f24775b0a",
+   "title": "Bakanlık, Kocaeli’deki hastane ihalesinde bir şirkete yasak getirdi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2xhcFc3djFxMVRRQ0xZZnRNNVlXOVQtODNYNlVTdzE4Rmh0TTZZcWlzTjBWV3ViZ0UwOE9CVHRfekJJTnhXdDFqMkRjSTl5M1dvTlBwbzc1c3VwZWlfQl9BOXdsNjRuVV9MbVNERHpWb21lWnc4TUlQRjlpT0JpbThqRl9mQmwzaW5FZmYxZzZoYWlCNFM0TlVEemJwYXhPS3VaUGZIS09CWTQ0MmthTzBNeTFaZnN1?oc=5",
+   "source": "Kocaeli Barış Gazetesi",
+   "published": "2026-11-21T05:56:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "6b249b32f92111b2",
+   "title": "Aralık ayı içerisinde hizmete açılacak! - Kocaeli Haberleri - Son Dakika Gündem Haberleri",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnFYN3RUX0JlcDFtTUpaZVJmTWZBclhQU0tLcjJuZjRGSVpObldMa3UtZm1LSkx2RjVnSHE2UEpYaVgzMmZqZlVTblVsMWxlQTdncEdkMmg4SGhYdFBRSUczbUx1c2RiOEtLTXhHcW9jdjNFTzg1eWZRdzlzNmZTX0p6REgwOEJCb3JVejBRTEpXNkk?oc=5",
+   "source": "Özgür Kocaeli",
+   "published": "2026-11-21T04:00:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "cd905e35e19e2da8",
+   "title": "Kocaeli'de hastanede sorun yaşayanlar dikkat! Şikâyet nereye yapılır, hasta hakları nelerdir?",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUEZzMl9jeVRwb1h0VENyVG1ma002MWJ5WnNnRmU0a1FTWkFDdEVHeTJiWC1IOTh0eWZUZUluNTljNHdfcVZmNENBSHk2Q0tia0ZPYm5GLXRSckdmX2FnQTVINk1oQ21odmpWYlVkNjNhV3dqT3RhNDF5Z0ZRTUVTdENhbFBLcU1yU2xPcnhoS1FvQUliOGVQYlpVWUh6X0s4Vm1zYmQ0VXpCb3Q4OUJlZG9uYTRrei0wdEFzNEtVcEUtWU1OOFlPaWZXMFVLbEJ5ZVZGMDJn0gHbAUFVX3lxTE1iS1pDSl91TERhSFdGcEJWUW9TR0NqRnQ2UWFGT2tPWVhsOHpQSlZ3QUdEdkNlbEIyOEFaV2NmS05MTzhHT0hNaGNtVU1zUFFSRDh2LUkwZmRfNGt5N0gzeFcwUmduamJsZEI2QmJXdHRDYl9qb2R6Q0VzaHZYWkFLamsweHNOUlhHTUlxdHlYLXE4ZElEeDItVDlVZHZkaW1SOUZQd3NMQ284NjNXY0VLNGJsUUhMbWE0QlVhdlpRWlJ1ZlVqWE5xb1F5TzdBNEZCSllYY25QQXdVcw?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-21T03:19:00Z",
+   "image": null,
+   "hospitals": []
+  },
   {
    "id": "1b287df8a29b1ca2",
    "title": "Kocaeli'deki devlet hastanesinin ihalesinde dikkat çeken karar! Şirkete 1 yıl yasak",
@@ -10,6 +62,18 @@
    "published": "2026-11-20T21:11:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "9400a064220af610",
+   "title": "MUTLU KEREM KOLCUOĞLU | DARICA FARABİ HASTANESİNDE BAŞHEKİM MUCİZESİ",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTXFFbGVtOS1HOWFoM3BmalYyMFA5cEFkZTF2WTBLNGc3dEFBNTJlN2ZUd3hlbk95SlNpLUlkckIzbmZUOGxybXFOSm9tOV9IWDlFeGJHTm1LTlJ1R3FDbURfNVZiR1ZPRzROTUE3SWtxbm5HVlplT3Bod0M2WFMzcEVNYWMyZEhOQVVJeHF2d1NYU2NFQkNaNDlZd0dnT0UtS1FwSE9RbnZXYUR6UmJKSFhuWkctUQ?oc=5",
+   "source": "Darıca Gazetesi",
+   "published": "2026-11-20T20:11:03Z",
+   "image": null,
+   "hospitals": [
+    "Darıca Farabi EAH"
+   ]
   },
   {
    "id": "4118b5dd6ab0db89",
@@ -4312,68 +4376,6 @@
    "hospitals": [
     "SEKA Devlet Hastanesi"
    ]
-  },
-  {
-   "id": "91e8c38c384dee3c",
-   "title": "Şarkıcı Nev’in Sağlık Durumu Kritik: 0 Rh Pozitif Kan Çağrısı - İşte Kocaeli Gazetesi",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWDYyZ2VWUmdiSDZ4NEdPMnJ6ZE5EcmpSeEwyYnIwalIzMmtBWHVNNWVfcmRDTy1DUE9KLWJaZjJLbFVaOGdnZ1VObmJWNW5kUmdUaTNsS0ZHZF92U2tnU2dxQTNOdjN6TkI1WlRB0gF2QVVfeXFMTXduc2Y5XzJJR0cxcXZkaVZWdW5ncEtNeDZ6V1g4WEwxdlNaYzV5dEgyQXA1T0xqUWFwekhKODZud0xMRVd3ZklfZVZBeDlQNGd1eXJJYU40ZC1uUENLYURha3hwUkhxd3BsWVZyX3lhOTdMU0RmQQ?oc=5",
-   "source": "İşte Kocaeli",
-   "published": "2026-10-23T08:05:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "908e00c53105b220",
-   "title": "Kocaeli’deki hastanede büyük ihale! Sadece 70 metrekarelik alana 1.4 milyon lira istiyorlar",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbm9xVjBwcEpmaXhIYlFrNnhMNzNoUmxyYXlESk9FMXktS01DYjRIZHhjVHIxUDRSLVF1NXhLU21hand5dEFzc2gyU25JZ3dJRVBnN1JfLS1QcFJmd29BZGxLZkhuTzdFTGpWbHBMaDNZeWtOSGlfT3UwRWZqTzI3NGtYeEYwMElzRUotUHJJaklzLTAzWGQ4N19qNVkycVo2UC1JMzkwUDVnOXJ4NzlpbGJFWTN0STZoQlRraVZxZ1NNMUtJSTF3dU5ISXdHcExEdzB0SWlEUW9neFpqRUk4QW1VNUV6UFh30gHuAUFVX3lxTE9Ec1EyYThvb3NCbkM0b0dLWF9hbTFhb3VRbmlKRC12YlVncjRPeDdybVhCWGtVV1E1OXQ1aGFmaFBNOW0wbjRSalhRS20xVHdVQkw4bXdXS0Z6c0xqMjdWTmQzNGh6cVExT0xDS1d4ZlFtbG93ZG1jUjNNVGtjdW80OGhvZkVabnhzZ1pmSmdTSThCbDFKbDkwNEdGalZhU25jaEprc2NpdGNmOGxfZmxGZWxFaGw2X3AwcUVQTW1Fbm95MG5DdFFFOEpIR2FIekJZWU1fSTNYdnpaOGVYOXpPTDZsc2ZLLTV6N1ZrcXc?oc=5",
-   "source": "Nokta Gazetesi",
-   "published": "2026-10-23T07:44:29Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "2dd423507bb88635",
-   "title": "Seka Devlet Hastanesi kantini kiralanacak! İşte istenen bedel",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlg5Tnk1TUU5UGx3WmZGd1lrSFJVVnRCUUhERUtLSE0wYU1pOXRESDg3SWFULU9JSWQzSGxxbWE4dC1kZWJSU1NiQjIyTm5MVXUxaE5aTFViRldVZ1pHWjRBekp6aUZhTmpKa2Y0ODNkS1d6WHNXRWNvdWFhN24waER4YmV5ZzFTZjRGUWh3QnFDNDlnaTRqdkE2dGE2U1NuN2hrZnZR0gGrAUFVX3lxTE9PcnlEUzhRRWVJdkh5WEtCVXctczhSRjJiOVhicGtzeUh6QndJUUh0TXJLaFZRMjZMbWFLOEd4eG5wZmoxMnVDZGNQTWN2VTRLcjA5N2Q3bnV5TXlaazNTcGI1T29aYkxPZmJjVGxzNF9FOWR2TFNBZXhNMm0tbmFvejJtSlY0QWdnUlRhOFVUWkRRMjlRRGRwVWFBRzNSMUE4YUtCMmh2WEhjaw?oc=5",
-   "source": "Demokrat Kocaeli",
-   "published": "2026-10-23T07:12:00Z",
-   "image": null,
-   "hospitals": [
-    "SEKA Devlet Hastanesi"
-   ]
-  },
-  {
-   "id": "6e47c4ae4b6a5e05",
-   "title": "Kocaeli’ye 48 yeni hekim atanacak",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWpvQU9CcVJVNlVpN1V3VjZXUGI2WG5hekw0MjRnblEwWUc2clJtbmVTbVlFcm01Ry1Bak5wUWJ2Sy1Bbk9sTHJHX0Z6ZFp4VVM5RVNua2lPRlJ1V00zdFpuV1FkektNSHNHXzNaNXhVLXdsWWRGakRacXMzQkZkWUNsZzZzM0lT?oc=5",
-   "source": "İlke Kocaeli",
-   "published": "2026-10-23T07:00:17Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "b6d8babf59d4d019",
-   "title": "Kocaeli'de hastane kantini için milyonluk ihale! Bir yıllık kira peşin",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2dfZGdYeU9NZEhvTmV2emJSTTVaamo0NnZ2SlN4dUJURU1SUExKelZkbXp2bVgza2V0TjRsUk9NVDAxTFhvX3B0YUlRX3JCcHkwMjdQdDZPdm9hMTNiNzBWRERVUFFPRERReUhXR192QkU1dlVDR05vVkNCVUNTQXFZQ2d4OFh3TU5ReklVcl9iaFk4Q2hhVGduaDU4dDZiTlp2YkEwQ3RyNl9mX214ZTk0MC1QejQwY1g5Sk9TRdIBvwFBVV95cUxPS2dfZGdYeU9NZEhvTmV2emJSTTVaamo0NnZ2SlN4dUJURU1SUExKelZkbXp2bVgza2V0TjRsUk9NVDAxTFhvX3B0YUlRX3JCcHkwMjdQdDZPdm9hMTNiNzBWRERVUFFPRERReUhXR192QkU1dlVDR05vVkNCVUNTQXFZQ2d4OFh3TU5ReklVcl9iaFk4Q2hhVGduaDU4dDZiTlp2YkEwQ3RyNl9mX214ZTk0MC1QejQwY1g5Sk9TRQ?oc=5",
-   "source": "Kocaeli Gazetesi",
-   "published": "2026-10-23T06:59:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "58c38fdb3ddad8a1",
-   "title": "İzmit’teki devlet hastanesinin kantini kiraya veriliyor: İstenen bedel dikkat çekti",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1VMNmVNSHRRRVlXdUl5LUd3bkpQMWtkWDRsY1dpdlprRFJzT1ZpNmpSRlllWU0xN0FvLTBSbVZzWWNMbXR5dncyQlNpUU9UUDNsNjNRZzhEckZtQlllYkhYNTktOGhnUENxMHFobFpGbDJZTFF4Q0JnZ0Utb0VXNjJvV19tdEVCaFdMRm5sU08yM0MxaHdvekgzT1RCaXp1TGRJZHEydjhKZjJOLWdQbmx6REhfWGpCSEhrRWFaV3lNWWN6WEd1THFSWXJNZ9IB0wFBVV95cUxQRmh1YVlhZVpMaDNoNkk5T19zNTRVQ2ZJWWFrQXA4OUFaVWo3Q1N2SUtOZlFaLWQxQjN6WjlaQVZDS2FXRlNNSGRQTEVURnZBRzhTT25sa0lXVW10RUNSQjZpa2VDN2FValZncGg5UDQ1M1FrajJYa3Y5ajlySjZ1UXhrNUdoRGRvUHcyeU9kcDE1akpTcTZLa0huWkxaYURQMGZoWVItZDNQa0RpWHJKM2hZNG54NHFKMFZzVlJhcXJtMUdWd2Fhb3hmc2V4OG9lSXBr?oc=5",
-   "source": "Kocaeli Barış Gazetesi",
-   "published": "2026-10-23T06:44:57Z",
-   "image": null,
-   "hospitals": []
   }
  ]
 }
