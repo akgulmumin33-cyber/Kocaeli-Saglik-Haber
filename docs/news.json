@@ -1,6 +1,88 @@
 {
- "updated": "2026-11-22T08:33:20Z",
+ "updated": "2026-11-22T16:37:24Z",
  "items": [
+  {
+   "id": "60f88193b6cfed01",
+   "title": "Kocaeli Şehir Hastanesi’nde çalışacak 10 personel aranıyor! İşte detaylar",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXE1UXNJcVEzVFNKd3laT1hjZ2Q0OVc5ZWZ0T0NtUTRuMFFPY2RvUEdYWHI0cVlwQ09YcVdFYXFBU0JZZ0RtaGpoSG9Yb0h5RV9rWmxxSF9XY2JYTWIydjIwdkpfS3FYb1NHdFB3WGpsbzJBY0JHMkEwcDlYaG9KcXFNNE5seGloQ2VscDNiSmVJRVBadDdoYV9GMnN3M0hYd0JrZDF6cURhRzJrMXBhTkI2UzBmdGFJRjJFTXltN2RsMjFsS0hZNUxmckpMdWExcHc?oc=5",
+   "source": "Nokta Gazetesi",
+   "published": "2026-11-22T15:37:27Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "ef5c1d2dd84c0d91",
+   "title": "Gebze Cezaevi önünden çağrı: Hasta kadın tutsaklar serbest bırakılsın",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVBvSEFBckE3b3BnSDExdWhfRVRQY2g5dmRMOXBWV3BjLXFZQ0NUVC1qQWVzWVhBYVREVHBMYXhoMVY2RkVtTzk4VXpQQXNrbjQ3NV9vWjktbHdHUmd6Vm16RHdpNEU4YnVLWkoxVnhvUmhzRktTVjFIVGFTU1dRMUNqNzJlYkx4SmVvVzdzbUQtUHZPelc1MUxrbHVXUjctTnhN?oc=5",
+   "source": "Yeni Yaşam Gazetesi",
+   "published": "2026-11-22T14:24:27Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "e8e0b02904ab7bc5",
+   "title": "Kocaeli Şehir Hastanesi Yemek Listesi 23 Kasım 2026 Pazartesi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFNuc2pwNERXQmhSeWIyNWZOMEZKRlEtY3M1Ny1SZkZwQWl5MjBVMzBvc3JmNy1zaUVNeElMY25UXy1iekhTVG5VNUdIVzdHVGlYZWhuTGNTT01TT0lnYnVtNEZWclMzZVVBeXZMUWlWNndKb3ZpaFNxdzM4dGdKc2RpeGwzNXZaRmFiVTVpQ3VJYnZWd0lkOA?oc=5",
+   "source": "Özgün Kocaeli",
+   "published": "2026-11-22T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "2c8c972e3c16b61a",
+   "title": "İzmit Seka Devlet Hastanesi Yemek Listesi 23 Kasım 2026 Pazartesi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTdEVnhqb2haZGFtQjdmZjE3X2NVOUNIeWV0aWFuZENnVHJ6aWFRcnlEbmotZVZUaE5pTUNtd3dteWROMHNVUG55WjRBMmhEUjRndWNnSmVjZDg2UDJxalBYN21PMVpKVjE5WEtaR0RwUEJfZEhMeXlKaWZaZDZIZUlXVzlkVl9QVUJVNlZ6OGJTbDdXYnFvZ3FtZFBrZw?oc=5",
+   "source": "Özgün Kocaeli",
+   "published": "2026-11-22T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "SEKA Devlet Hastanesi"
+   ]
+  },
+  {
+   "id": "cda50421da8186e4",
+   "title": "Derince Eğitim ve Araştırma Hastanesi Yemek Listesi 23 Kasım 2026 Pazartesi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTFibks3cE91aEFSbFdjdkZvWUEybjRtS3JERHBpNmZFa0tlV0hPc01raEZzZGxzOW4yd0ktU083VGhFU0ZLMmxOeWtHSTRWcFk2MmlHUTNxYldxN1pPb0NUeF8yREMyRkNQSHFmaGZIR3VHYndwSDJuN3Q0empMRW1vRlRpeW4xZTJlR29OZDQ1T0M0bTktbW14czExNnVjZTBxWUw0aXIyOVU?oc=5",
+   "source": "Özgün Kocaeli",
+   "published": "2026-11-22T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "Derince EAH"
+   ]
+  },
+  {
+   "id": "70f131bd662bba60",
+   "title": "Kocaeli Üniversitesi Hastanesi Yemek Listesi 23 Kasım 2026 Pazartesi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHBkMlU4cm5sNDBaZ0FkUWRhY2dibVBQSDdERjAtN1FJRmxyanlnRjN1RWNCRDBodlBaQVh0ajliUHM1N1kzU0xkZVFwWXFscDRGYnRJNmdFRGVnNWxLTkMtZWh1OWhickx6Q0tpdmhhQmQ1NjhSd0tuUjRMNlhwck9peDdMMlVIRHhjbmhmUTZBT3VVWWxMVm5kMWp3aENRdUE?oc=5",
+   "source": "Özgün Kocaeli",
+   "published": "2026-11-22T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "d8ccb6bcb22575dc",
+   "title": "Gebze Fatih Devlet Hastanesi Yemek Listesi 23 Kasım 2026 Pazartesi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzg4RThrcnh0c2c2WXJTQ3lpdnpRSFptSnUxVkhLUlJwVzRBVjZHb1ZHNUVHenRnNGpISXRtOURaUkt6cjVPNXlIemJJVFZrbm9sYUdiQy1uQWR2S0pLZGZDWGVrMW9JVDNsMGhzZGZHNmRlQ3lFcmtUbl9LUHU3WWVncHZWR2VXakVJdGdUSXBXS2EzNnVQX1NwVkJsbzQ?oc=5",
+   "source": "Özgün Kocaeli",
+   "published": "2026-11-22T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
+   ]
+  },
   {
    "id": "b6bd6679db0bd27d",
    "title": "Gölcük Necati Çelik Devlet Hastanesi'nden basınç yaralanmalarına karşı erken tanı vurgusu",
@@ -4304,80 +4386,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDc0Zl9HSU5jVTB1S3F3ZC1JUElNRTdHTW0xTzMzZS1GRGxUWkVFU01GREU3a0FYWlVTMlU3ZlBjZmdQQWhxcVdkUG1xUHBXT05BSWRLdHl4UHd3NVhObmx2YkxNWGQxQi1KMmRZcjR5dEFQWWVXMGxQRGxNX2lnanhWSXN2TkVrUzBULTVpNHI5QjIyMW8xMllxMGNPWmVKN0hISTN3bnU?oc=5",
    "source": "Yorumla",
    "published": "2026-10-25T12:26:39Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "5fd69e2349d3331d",
-   "title": "Kocaeli’de meme kanserinde erken tanı için sağlık buluşması",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWF5bUhBV19YV240aEFOcGZDRHJYRWhVakxmNmJXYmY0S2xRRVlQNXM1LXRkTDR0OEtWNHBqUkMyT3l5ZGptNlBEN0tCN2JsaWptRWtza3FHMmNqNExmS2R3dXY3Z2MxVGQ2VWExQzlDR3hOWGRlZkJpQWQ5VnRYcDlPVlNHTmlsbWljNmZpbjRoMUE?oc=5",
-   "source": "Tirebolu Haber",
-   "published": "2026-10-25T10:49:02Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "06c00525774df3c5",
-   "title": "İzmit'te Şok İddia: Yüzde 94 Raporlu Hastanın Bakım Maaşı Kesildi",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM24tRDJWWGl5QTU3MVozUVNyZklIVVhESVFmTFRpOENjaElLSjBwaUVVbmdSb2RjTHZQWGdqeHdOZjN1Njc0SDZzUGY3akdKVV9mZWtFVmRQejJCX0NfYm5VZkswU2pYc1V2SVFVdGxQbWFESkFFWFdtak83aDBhNFptMkxIMEczMGlXOG9uV29uei1Fcmxr?oc=5",
-   "source": "Kocaeli TV",
-   "published": "2026-10-25T09:50:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "3c04062678441ba1",
-   "title": "Kocaeli’de bugün yapılacaktı! O konser ertelendi",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUZ4dzE0Y1NhejhDaW5WTXFkN0MyR3VxWktIYmFjY0lCTkhVblZEazg2SGdzRGJ3Y09MOWZBRFFsS005VEZmWVNRcjFGQlNRUndVZTdCYXlfalpIQkRia1lUWmhncEZVcEVtN28wYzFCUkVVMTlaSnhrdGxSdW5fajJObU9XUlNsYmtVNXdjRHBRT2pQSlZhZdIBmAFBVV95cUxNYUZ4dzE0Y1NhejhDaW5WTXFkN0MyR3VxWktIYmFjY0lCTkhVblZEazg2SGdzRGJ3Y09MOWZBRFFsS005VEZmWVNRcjFGQlNRUndVZTdCYXlfalpIQkRia1lUWmhncEZVcEVtN28wYzFCUkVVMTlaSnhrdGxSdW5fajJObU9XUlNsYmtVNXdjRHBRT2pQSlZhZQ?oc=5",
-   "source": "Demokrat Kocaeli",
-   "published": "2026-10-25T09:16:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "f5c900da124e203a",
-   "title": "Kocaeli Üniversitesi Hastanesine yeni araç geliyor! 2027 bütçesinde ortaya çıktı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzJCTjF6TGxWNXl1UzZxQjljcS1hVTljMkFUSnNScW1yb0Y5TXN2TEl4cFNPTFFXcjN5VWxkZ1VYN2UyaEM2RXhaZTlfMlpaTGd3WDB0U1NaSTB4TVVQb3ZJMEYzclJaRDVMd1pHTmlJSjkzNHZTbERxQlV1eU9MdGxmQVlJSVI4eU1VSkdOQW5QMEFlWW4xYlVmazh5ZnJ4YTdGUlh1V0FERkZqQzdIZ0czeXVDSEZuUDNjOERnOC1RR05wUjVSb3VKY0h6UdIBzgFBVV95cUxPUzJCTjF6TGxWNXl1UzZxQjljcS1hVTljMkFUSnNScW1yb0Y5TXN2TEl4cFNPTFFXcjN5VWxkZ1VYN2UyaEM2RXhaZTlfMlpaTGd3WDB0U1NaSTB4TVVQb3ZJMEYzclJaRDVMd1pHTmlJSjkzNHZTbERxQlV1eU9MdGxmQVlJSVI4eU1VSkdOQW5QMEFlWW4xYlVmazh5ZnJ4YTdGUlh1V0FERkZqQzdIZ0czeXVDSEZuUDNjOERnOC1RR05wUjVSb3VKY0h6UQ?oc=5",
-   "source": "Kocaeli Gazetesi",
-   "published": "2026-10-25T09:11:00Z",
-   "image": null,
-   "hospitals": [
-    "KOÜ Hastanesi"
-   ]
-  },
-  {
-   "id": "dc2fe4db67470ef8",
-   "title": "Kocaeli Şehir Hastanesi'nde kadın hastadan doktor hakkında çarpıcı iddia",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORGRUTXMyVXdpMGdDak1qeFVKX2ZHSTFVWTdnSktsM1VrYko2ZnlmRVgyRnVQT0twV3VZc3lPNDJNWDRKbEIzM1NTYTdoX3c4S1BhUm5SYnpNTlpsbm1KRDdXOXNyRncxTTd3RkU0Q2FTSnBVVzFxZnZMaE9HY1JjeWE2aUk2d2JuSTduSWJ2bXhtYk5NRUFMNWYzTEM2aldyWFpwSk5DRVBfOC0wdF9fWE5COE1RR3ZTNXBxa1lPeHjSAcYBQVVfeXFMT0cxMnFwaGFZUzBURDNZX2lNVTJjd1hVbXhXWC1PSkZpQVJpNkZCYXFnYnBVOWpscERhN0JxMlB5WF8xY1B0amdWeGdMYzdjR0JCNXpVUzFmMENKWWdaUlZjSDBJQWE2b1EyMktvVHpHSFV4TUhIWDdKRHVLdVd3ZkpnVmlENHZFZUNhdTUtdkpUSTZKM3NfOHVsb0Uwd3cyWTNwdXU4Zm82YjZ3N1hjTVU0UWhXY05TNlY1NUVSc1RZTXp2Tk9n?oc=5",
-   "source": "Kocaeli Barış Gazetesi",
-   "published": "2026-10-25T06:03:30Z",
-   "image": null,
-   "hospitals": [
-    "Kocaeli Şehir Hastanesi"
-   ]
-  },
-  {
-   "id": "639033859cea7244",
-   "title": "Kocaeli Devlet Hastanesi noktasından Gedik Üniversitesi noktasına toplu taşıma ile ulaşım",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMDZ6TnNyb2xsYkhzcDJ2VVJJRVpRSFh0OVpJMWdtamVzTHlNY0NORzhtTUhxTUExa2VXUy1fN0lieFFvbkFiXzBWOHh6YzFudTRCdm5GamNJN3BQa014Mk5LeGllYVpCeWh4ZmZWbTNyT09YSWg1dGVPR1BuNzg3ZmFYeE52WE1lU1ZLNno5V3ZHTEtBYVE?oc=5",
-   "source": "Moovit",
-   "published": "2026-10-24T12:00:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "e10f3e8edfed449c",
-   "title": "Kocaeli Belediyesi, yalnız hastalara ulaşım desteği sağlıyor",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzliRUhsaHR6dlBYQ2ZaV3N3S05RQW9kazd1NWlrX2QxTmNBSjl5V1ZFMXY2UEpwRHEzZGUxbFA0Y3ZMRTlVWjFLOUZRRGZDM2RHZEI5Wjdrb09PenZidUNISGlKR2Q3Q2N6SnZKU2tqeG0zWEZWWVZrVVRKZE8wU3J3RW1wcUdDVW9Sc0N6dlkyamtPd003UE1Iak10bHlPajNWV3FZdw?oc=5",
-   "source": "Alparslan Diyarı",
-   "published": "2026-10-24T04:14:00Z",
    "image": null,
    "hospitals": []
   }
