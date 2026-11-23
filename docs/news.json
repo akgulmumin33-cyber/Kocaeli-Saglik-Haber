@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-23T02:40:38Z",
+ "updated": "2026-11-23T11:21:18Z",
  "items": [
+  {
+   "id": "37bfb0001b4c2778",
+   "title": "Derince’de artık akşamları da poliklinikler açık!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTXZXaVNDQjdWQmp6U2d2LUhhOVBmblprUGFiR3V0cUUyeF9iVGR6SENIOGFLOFFVTVdzWGp6S2xxR0pTVFhlWk93ZDA1TEIzaUZXWXlEdy0ya0R2b1pfcjQ1SUNJQUdPTnd6SzBWMHJjTS1GXzJYQ1FiSllBSHFrLVVKNXl3cGxMNGM1ek1GUdIBlAFBVV95cUxQUWMyRk81UjhpckFiZ19sT18zN212MlRkZlpYSFNHTkM1TGxFbzdNOGNhMms3a2NtVVR0ZWNoS29tai1vUC1fNnNMSEVkS1F5cDBPT21PZlBsd2FqTWpMbFNvUHY0eHNyWE9zZnJnM2R0VUJpa09QOG5ITzlUTG9CRUFlV1BLdE1wT1UybXpyaDlwal90?oc=5",
+   "source": "Mavi Kocaeli",
+   "published": "2026-11-23T09:18:55Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "c68a1604aba9e4f1",
+   "title": "GÖLCÜK NECATİ ÇELİK DEVLET HASTANESİNDE BASINÇ YARALANMALARINA KARŞI EĞİTİM",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkZxa19xcjczS21MaUp3czFBV0QtODF1RzUwQzRRRmNTa25xN0JLNXZKUDBFNjRQMHhIVi10QUFIb0JHTF9rY09HUTlOVDlUdTJvVTZZY0tZVlVfX1BjM3hJaWdhSEdOSjY2M3AwY21WaWtFTFBlUDY2U0o4akJaUDVHcE4wRmt2dE5iaXRMc1NVcXFzX0JqV3RWT2gzVy1qQnR4ZlMyVHZuN21BMmpnU09tZDFQR3NJTHNB?oc=5",
+   "source": "yenigolcuk.com",
+   "published": "2026-11-23T06:21:59Z",
+   "image": null,
+   "hospitals": [
+    "Gölcük Necati Çelik DH"
+   ]
+  },
+  {
+   "id": "bc26d32864b7ebfc",
+   "title": "İzmit'te 'Sağlıklı Çocuk, Sağlıklı Gelecek' Etkinliği",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmVsOWo5d3R6UE5tUUVPdGozcmUzQ1hGalExbGlndFVSYWk2NHFCRFFDemdsU3pMUzl4cFpYYjBEb1lRM2NVUHJuekZUQmRhNDVsTlhCT0stT2JtX1RwZ18wTUg5Mm1HUjRfN1d4eldKcTJKeExxNzNjbXBMemJmQzRtSmQ?oc=5",
+   "source": "Kocaeli TV",
+   "published": "2026-11-23T06:18:00Z",
+   "image": null,
+   "hospitals": []
+  },
   {
    "id": "8ee2a71bfa9fcbe9",
    "title": "Kocaeli'deki hastanede doğum yapan kadından ağır iddialar: Ölümden döndüm",
@@ -4352,39 +4384,6 @@
     "Ağız ve Diş Sağlığı",
     "İl Sağlık Müdürlüğü"
    ]
-  },
-  {
-   "id": "0dd8021cb77b6793",
-   "title": "İl Sağlık Müdürümüz Op. Dr. Yüksel Pehlevan, Dilovası Devlet Hastanesini Ziyaret Etti",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-396221/il-saglik-mudurumuz-op-dr-yuksel-pehlevan-dilovasi-devlet-hastanesini-ziyaret-etti.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-26T15:31:36Z",
-   "image": null,
-   "hospitals": [
-    "Dilovası Devlet Hastanesi",
-    "İl Sağlık Müdürlüğü"
-   ]
-  },
-  {
-   "id": "9b839a8001605439",
-   "title": "Körfez’de Devam Eden Sağlık Yatırımları Yerinde İncelendi",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-396219/korfezde-devam-eden-saglik-yatirimlari-yerinde-incelendi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-26T15:31:36Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "16fc87481e237702",
-   "title": "Koordinatör Ebe Eğitiminin İlk Grubu Tamamlandı",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-396217/koordinator-ebe-egitiminin-ilk-grubu-tamamlandi.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü",
-   "published": "2026-10-26T13:51:48Z",
-   "image": null,
-   "hospitals": []
   }
  ]
 }
