@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:24:09Z",
+ "updated": "2026-11-25T02:43:19Z",
  "items": [
   {
    "id": "bbfbecad1345abe5",
@@ -92,6 +92,18 @@
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbE53VmQ5Q1VvRTROM1VwN3pZWm56U3JwSmUxSldsVFpYbU5fQUNjOVUwaGo0ZGJGS0Rsb3hvb1dCa3Fjc2FHMmdSUVNxWFNBSi13R0lPeFlYQjdYYWkydVI0X3RNRVNmWDdjTHgyajlDZ2d6ZmtCSFI5WGV5ZjM4ZldYYl8wQXRMZjdtX09iZ2Q2MVdYYzF4MFdvdGZfTVVycUFSMlR1dThsSUdjMFNYY1Ayajg4eDdybkw1dmlzSUlaeWFrel9VQTlVeEdLcXI5WEd4NWFlMW94VlNoRGhBXzJjOXNTbWkweXItZTdNQQ?oc=5",
    "source": "Nokta Gazetesi",
    "published": "2026-11-24T12:02:00Z",
+   "image": null,
+   "hospitals": [
+    "Kocaeli Şehir Hastanesi"
+   ]
+  },
+  {
+   "id": "f983e6197c9a6261",
+   "title": "Kocaeli Şehir Hastanesi'nde hastanın cinsel hayatı hemşirelerin ağzına meze oldu!",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOem55akZSTGF2LWJBTE52ZVIxRXVmWTA3NmJ5SnJjc0NLY2JxZi1OLTJsTEJRUDR2M3B1ZUlLWDRQM3NVQ3FTWGRtR2ZnUi13emJsSzh6aGdnM1U2TmpKRGpnb2lJOHpRRGlQXzQxMFBfb0F2MjFMZlhqWDRuUlhrd1lVV0M2M1hDd292emxZSC1ZMTlRV1RHeG5fSDNfV21qeVphbnRqNm5Ha3ZfV3AwMmFia2h2VmVfX1k1TDhZa9IBxAFBVV95cUxQTktJNkVaaTM2ancxRC1ybXF4djRtd0F5NXl3WWpQWlZrYUpwcy0zV0U5YzZyNHVFZU9kSUp3TXo4UWpkeHFJa3V1Yy1QbERJRDNnSERoZF9qUC1tdnNqS2VpRmRjTU9XRXdoVW1hWjlIQS1GTHJ5YndjU2kyb3ZoeDZCdXFXMHRBT2l1MUsxUWFJTlBxbjgtOGw0ZXp3MEExU3paMGsycG5UbHBqYXl5RVQ2WG03VHNqUGd2blNCLTdkT0Zi?oc=5",
+   "source": "Demokrat Kocaeli",
+   "published": "2026-11-24T11:11:00Z",
    "image": null,
    "hospitals": [
     "Kocaeli Şehir Hastanesi"
@@ -4403,18 +4415,6 @@
    "published": "2026-10-30T08:31:00Z",
    "image": null,
    "hospitals": []
-  },
-  {
-   "id": "b3e6e981b8fdb80c",
-   "title": "Körfez Devlet Hastanesi’nde kantin alanı kiraya çıkıyor",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXllWmhuVDdIRnluYTh6dGtRSF94LU9saWpKb2hzMjF2YVR3ekx4bzJIVmNCRXpLcUxTSTg1NG05TFlseFJkZ1lOR3dEN0hMTTNoZ09UY0ZFOEJ6TFNmWkNaTUlnRTNJbHNfREw3NmRMNGVHVWUxeFFpNU5takZqczF6MDhtelloeERZQVVfU1Q5ZGVMaXF3RUsyWdIBoAFBVV95cUxOMkQ2LUhKUGNxc0t2VjFqUkxtaGpsQWppeUxJR29SakotSmZpZW1YYVBKUjJWZmxSZ3dub1dFUzFQel9HZzB1UExnY2t0WEpVZHdwV3dITzlIQW9acWhwMEFGQjd1N0FEUzNfak1jUnB3WWZBNmpxVjRnSzFwVGg2dUwyVVdxdlRKcWEzb0lQWXlGdUljOGdOMFVKeTJOekxa?oc=5",
-   "source": "Çağdaş Kocaeli Gazetesi",
-   "published": "2026-10-30T08:17:00Z",
-   "image": null,
-   "hospitals": [
-    "Körfez Devlet Hastanesi"
-   ]
   }
  ]
 }
