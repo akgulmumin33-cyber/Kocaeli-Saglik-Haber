@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T02:43:19Z",
+ "updated": "2026-11-25T11:47:21Z",
  "items": [
+  {
+   "id": "b9a0363f24bba264",
+   "title": "Kocaeli Üniversitesi Hastanesine yeni tıbbi cihaz alınacak! Beyin ameliyatlarında kullanılacak",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTElvOEw3OU9MdzdBcmt0d04yV3pQQ0pTLWQweThod01pT2RiSUt5NjZmMGZ0WVRobGJEc1VFdjVlb285OGxBWTBRWFVUMnlrVTZxaG1DWmxqQlMxY2ZDRTFJSkxfWTdNanVyQVdISnFHYm15LUZXTEQzekxZdFhSNlI1YTJvWDZqZUF6R2NPZXFnbEVrbm4wNXJ4Sld0ZkFRclpwaWJyQXc4bHh5SmI2SkRjQUJfd24zcm5KR01naWlrdmh0TXFIejdfZ1dVZG45MGY2cjRUX25wWnpyMFplUNIB4AFBVV95cUxOTElvOEw3OU9MdzdBcmt0d04yV3pQQ0pTLWQweThod01pT2RiSUt5NjZmMGZ0WVRobGJEc1VFdjVlb285OGxBWTBRWFVUMnlrVTZxaG1DWmxqQlMxY2ZDRTFJSkxfWTdNanVyQVdISnFHYm15LUZXTEQzekxZdFhSNlI1YTJvWDZqZUF6R2NPZXFnbEVrbm4wNXJ4Sld0ZkFRclpwaWJyQXc4bHh5SmI2SkRjQUJfd24zcm5KR01naWlrdmh0TXFIejdfZ1dVZG45MGY2cjRUX25wWnpyMFplUA?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-25T09:07:00Z",
+   "image": null,
+   "hospitals": [
+    "KOÜ Hastanesi"
+   ]
+  },
+  {
+   "id": "0cda0554ba6dfcac",
+   "title": "Kocaeli Üniversitesi'nde önemli başarı! Tanısı konulamayan hastalığı buldular",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWFlENW95NU9ROEZPSXl5VlNFdzI1Qk5fMkQwU0lVMHVKZW1IOHF3ZzBJa21xYVlyT1Znd0tjbzBiVzlHZUtRS2ItYVB4bGpRN1ZwSzctSUplX1NNQ24tQVkwNXA1RHRGakVNdl9NbWhnZXR6aGhLd2dCWS1RVjVyRUN5UHZBaWc3SWNDN3FKQmVPNURGZWRBTzhzQkpZMVdNeWVnQVhwdFZ5bml1OG91elM3c0psQ3ctXzB4amF4Q0NFZHFRNGfSAcYBQVVfeXFMTlhZRDVveTVPUThGT0l5eVZTRXcyNUJOXzJEMFNJVTB1SmVtSDhxd2cwSWttcWFZck9WZ3dLY28wYlc5R2VLUUtiLWFQeGxqUTdWcEs3LUlKZV9TTUNuLUFZMDVwNUR0RmpFTXZfTW1oZ2V0emhoS3dnQlktUVY1ckVDeVB2QWlnN0ljQzdxSkJlTzVERmVkQU84c0JKWTFXTXllZ0FYcHRWeW5pdThvdXpTN3NKbEN3LV8weGpheENDRWRxUTRn?oc=5",
+   "source": "Çağdaş Kocaeli Gazetesi",
+   "published": "2026-11-25T06:55:00Z",
+   "image": null,
+   "hospitals": []
+  },
   {
    "id": "bbfbecad1345abe5",
    "title": "Umuttepe Hastanesi’nin tuvaletleri elden geçmeli",
@@ -71,6 +93,18 @@
    "image": null,
    "hospitals": [
     "Derince EAH"
+   ]
+  },
+  {
+   "id": "60b0d0fdd1901c9d",
+   "title": "Gebze Fatih Devlet Hastanesi Yemek Listesi 25 Kasım 2026 Çarşamba",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFROVmllcmlLVHhvSEdZTWltTnhFWGg4S3ROQVhqZXVPT0xZa2ZBak1UWTV6cm81ektRM2lHa19YVnVXSGlJZkR1S1B0VUFPQU9qRU05NUU4LXRVWTljVnZlVS1JaEdGVzFYMDBxUjU2amUwTWplaG05NDQ3UF94cUZVdHVvSEVjS2NlbHBXcjk4a0h6QllGT1pDYWxRQQ?oc=5",
+   "source": "Özgün Kocaeli Gazetesi",
+   "published": "2026-11-24T13:30:00Z",
+   "image": null,
+   "hospitals": [
+    "Gebze Fatih Devlet Hastanesi"
    ]
   },
   {
@@ -4379,40 +4413,6 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2hwWFp6cHlvOFVBX29RNU8tSC1ONnROckZacDBVRlA5VUhnNXkyNHBuZzlCd2JHb2FWOVlOSGJVZ3VPblVWbEo5UUVVQXdqUF9nYnVKWXNJMEJkR0xQSUIxSndNTDBTbGE3TEMzZTVab3hiZEFvN0h4cE16XzNvWE13cXB0OGxhSm42d2N6QkVXMzJC0gGaAUFVX3lxTE9Bbl9MTVpEWk5HUHE0S01saWYxQjBWa19oMEhaR0tjb3ZXMkhpaGdlVXZuRGNyRjZvNTlZYUU2WkpQaUhSd2JhRXZEVU9nbkE2eXo1UkkwbEZDZlBqV1BsVjlkdUtfOWhvbU5hYW90bFBJdndmbV9nbnRQNWtQTWctTk9ZNVpRLWFLOU1DOTBYeGpUNnpmcEl0TUE?oc=5",
    "source": "Kocaeli Halk Gazetesi",
    "published": "2026-10-30T11:32:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "65e97fc71a54690d",
-   "title": "İl Sağlık Müdürü Dr. Hakkı Öztürk, 12. Türk Tıp Dünyası Kurultayı’na katıldı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGg2VkNDX3lvSnFtS2Y1bUNZQnZ0SmJNbktiVTg1MGJJRlZiSmgyZmg5TVd4aV85cjhGYXZkQzBDSVQwZ1RYQnA1WC1IME5yQ3Robmx2cndyYklOMVhmb3Q5MThmVnBFd1FVTUhUd2hnSFQ0NUVoWWJCeHFNeWxBQU9qT3cxVGFUeXlqdE5jR0hqVFAwWHdJSVRGRW0?oc=5",
-   "source": "Afyon Şehir",
-   "published": "2026-10-30T10:38:54Z",
-   "image": null,
-   "hospitals": [
-    "İl Sağlık Müdürlüğü"
-   ]
-  },
-  {
-   "id": "f8beb2d745c2a124",
-   "title": "GÖLCÜK NECATİ ÇELİK DEVLET HASTANESİ’NİN KANTİNİ KİRAYA ÇIKIYOR!",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEhwUXI4QnFBR1FFZHIwRHR3U2xFX1pUZm1hQlN1S1JfVDlCeXJwc2VteEY4M1hBSDRXdlZtX0Y2cGZGSExOdUlHY2E0U2o0OFlaSC0yVXJxV1ZDYjN2clRjY2VhZ3VtZV80ZnBiZ3ZGLUZZYzZlLVVVa1lnQ2dIaWthRnUzOGo0ejg5ZW5vdEdaQUtHZjBZczNkZEwzZ2V4Q0xqR0dlcG5BWVVDc2drRW9uWE5rdmx5c1NV?oc=5",
-   "source": "Gölcük Vizyon Gazetesi",
-   "published": "2026-10-30T08:45:50Z",
-   "image": null,
-   "hospitals": [
-    "Gölcük Necati Çelik DH"
-   ]
-  },
-  {
-   "id": "4b35c04d3291f8cf",
-   "title": "Kocaeli'de hastane kantini kiraya veriliyor: Milyonluk ihale için tarih belli oldu",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHFLUzVBQTNiV1lCX3ctMV9mNFBfOXVaWk43S1Y0N2FURXVpSlZKYlBHYjhfVktUWHJobXZrYzVkQnhjeW1jWXk2R3A2NnJ4S0JpYUpiWFlsUTlNTFVuOXVCSk9iMUx2bkpVY29sT2QyazFrWU1yY3NBbEJ0bklZb2ZjMmhOTzJwZ0tudGxoc1RMRkRnOVJEYlh4OGt0c09oXzRpbXlRYURUdjZj0gGyAUFVX3lxTE5vY0xSam9HbGY4bWNzLVprNTBwdml2S2kwcDdYaTVpNkwwTGVVamJKREhvRWRuZjlxZDAteklaeld5dXRXMU1yZmtEdmhFVmVQZC0wcW9BUnc2YlpMMWIxMS1YNWlZZzRVUlJ6UDM1YWdubktmV09wTlp0WjJHM2dCVmxRUTdjUmREMGc4ZXB4Y3ZPaldSNUprdnVzYUhfWFNXTTFId0dQSGtaTDB0Rlp4Vmc?oc=5",
-   "source": "Çağdaş Kocaeli Gazetesi",
-   "published": "2026-10-30T08:31:00Z",
    "image": null,
    "hospitals": []
   }
