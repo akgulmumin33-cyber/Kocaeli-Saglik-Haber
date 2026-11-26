@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T20:42:50Z",
+ "updated": "2026-11-26T03:13:39Z",
  "items": [
+  {
+   "id": "5575d53db9ca5041",
+   "title": "SAĞLIKLI GÜLÜŞLER, MUTLU YARINLAR | Gölcük Haberleri | Son Dakika Kocaeli Haber",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTzRTZTRjR2swM1UwRWFtZjhfMnpfbWdDUTd2WG8yWnB0OTRhcDFiRkt0RUZBd01uckJ1bVgzdmpOZ1JaWmdEaDg0cl9SVzhmYmJGMlF4QkJJVEx5NmUyU3kwVHcxQ1FmOEV6T1J6ZVpUSnhRTUxBeDBpRUNxakxjQS13?oc=5",
+   "source": "yenigolcuk.com",
+   "published": "2026-11-25T17:50:25Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "f4751eb0f6aad946",
+   "title": "Gölcük Necati Çelik Devlet Hastanesinde güvenlik hizmetleri değerlendirildi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2x2dFJGa1FRR2drMU90NjdDNFpnTGRJc1NXbm9OOEVXaHBPb2RsRjFCeUhZZEYweHliSzBqNkR4bWowSHMwTWo4YUtIMFEtRWU4Z21xNHFJZjZxSUtaYzNqaWtMbmY1SEpTbDhRTnU3dTl2cW0yVzc3RVVNLXNtSE9tSGRnc09hRV9tTUpjTnhQT3BQdDJhX0lvbmtwdG1tRW5XbksxM2l1NWRtY0xPT25mOHVVeWtzcUow?oc=5",
+   "source": "yenigolcuk.com",
+   "published": "2026-11-25T17:46:00Z",
+   "image": null,
+   "hospitals": [
+    "Gölcük Necati Çelik DH"
+   ]
+  },
   {
    "id": "aff34e4af00aab49",
    "title": "Kocaeli Şehir Hastanesi yolunda tabela çilesi",
@@ -1001,6 +1023,16 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVJWZXZBcDB1Qnp0SnVoRnZzV1ZSZ0JBbmJFLTV0MGEzbFR6WTJQakxSdF9QUS1uaHA4YVBXME5CTEJNYldnY3lKMFM3U3JReXBzVVFZc0tYQzVkSER4Y3oySU5reEZRS2dZa2JILWRxZ3dxclgzQlhzREVhUmFVXzVHSm1ZYXhiclU4UDdmNmVJcnJLclRJaHpYQ25EYmY5N203SmRQRGI4N0pJVHhtSnZPNURMWDg?oc=5",
    "source": "Bağımsız Kocaeli Gazetesi",
    "published": "2026-11-20T12:12:45Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "06f520074714d73f",
+   "title": "Kocaeli'nin ekonomi ve sağlık gündemi Ankara'da! Talus'tan peş peşe ziyaretler",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3dKMEUyR0I2Q1ItQnpTdFhqT1N1UnFSZFFQZ0YyWjFnR2lYajRRVjh5ZF9oSmlSU2lnMFo5QTdpYWFOQXh4WlhPQVRRNXctYzRNa2xLM2pKVk96TGktcG9rYmlRd2JHYnZTbUxWelV0OFJUTDEtdy1FQ2NpSzdJanl5R2ZURDVYMTlHYURCck1vTVlHZzVJSWVMeE5IZ09sby1IX19QanlWbHNQaEtYa2VjVURiak1Nb09qNm9FSlBQZ9IBxwFBVV95cUxNSy0tTzJQUUtIQVI3azljM2JzY3lFMVdScWhCT1JQc3Y3R1dPSUhUb1EzY3cyWnI1X1AyQk1ET29HZTRENHBKeS1SV0pSNHY2NFF3dnpjeVpUcVlfRE9HR25rc0RXZTJYTFpLOG9UeGVIdlJCS3JUeGM5OWstTFhmbTE1dXFrWDFMOS03akFqenFVOERpOXZVUWJDS0hvdTZvVXVxZTJjbXVLSzhHM0lQUklnLUZrZVg0WFZXXzlEUnB6anlZMjQw?oc=5",
+   "source": "Kocaeli Gazetesi",
+   "published": "2026-11-20T11:44:00Z",
    "image": null,
    "hospitals": []
   },
@@ -4385,40 +4417,6 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRWpYY0hBUWhVQlVhSDQtOEppUHZwUVdfQzU5Smg4OWN3RUNnMWk4WmNBbGt1dWdGMHNMejAxVXhlZVN0SmthQWFaWG5nOGlBZ0xtempvTFNzWGRqOHBsc1ViZDdadUpWVXFsX21uVGdfOVpOVHN4QXpueDFEMk1LRENrZXpRbGEyX3R6MjNUa25TaF9GNF9HTG1IUTc3UFhYNUg4aGNwaE1MTDBDR1JuaDFPb1k3NmRGbGtKaHotTUJqZWxFSVlTemdn0gHPAUFVX3lxTE1CMHFRT2NWQW0zRWRhM1I5WFU1ZjVRTXJ5bkpHV3VMOFlsVFh0QzF0WFVoZzdUY3REVFFpOTZFU3VWTGNBWGRVZHA3NUdMaDhQTG85X3N6ZnBnRW1ZcFVRTlhfRzAxOXlXeElIaTRVRGtiNFBDUUxOQ3ppRU1PWmdBd2tUbktmcVpzVWkybXBjVGNfdWRxUlUyc1k1NV95QVhqcUdVM1I0VThhdERuZXBYS3lqSXF6dW81ZGlZcjBBWHA2UnZZaktkUFdHNVFWdw?oc=5",
    "source": "Kocaeli Gazetesi",
    "published": "2026-10-31T09:11:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "2e11219e39c710ba",
-   "title": "Bursa İl Sağlık Müdürlüğü’nden ‘mantar’ uyarısı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2w4dVkzeDduUXdQaHpodHViakQ5SmJ2M3BXOUxIQnF5TlBVRHIzaUJoNUJwQmwyczdRUTVOM0huT25CWFNNTjBmQzBzajhJdUNYUUJrOFhBbTJCalpnVVZlVFpaZVVZa0NBb1RMM1BFb0RfcllnMWg1bmI0U19rNFpnLWJ6dGpMV0RXM3pSOGN3N0E3dk03dzYxNjM0Q3FodWxj?oc=5",
-   "source": "Gazete Vatan",
-   "published": "2026-10-31T08:36:14Z",
-   "image": null,
-   "hospitals": [
-    "İl Sağlık Müdürlüğü"
-   ]
-  },
-  {
-   "id": "939836c1042bbecf",
-   "title": "Bursa İl Sağlık Müdürü uyardı! Mantar tüketirken dikkat",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkVDRXZRZFdBcWFMQ3Y2bmdKLTU4aWIyUGpReGI0Q3p2VEl5SEVWdW54ZmI0RkV4d3Uzd2FPZ1VpYllReTE3N1BGODI0TWNxNlZLdGdqN3FEMXp6SFFlSEZGN3R0QlEzVWJ6XzZqRVU4ME4wcGdXOUZZblNCT1pQSVJ3cjJuek5sdHZBX05XVXp4eDI0NGtweEpn?oc=5",
-   "source": "A Gazete",
-   "published": "2026-10-31T07:51:00Z",
-   "image": null,
-   "hospitals": [
-    "İl Sağlık Müdürlüğü"
-   ]
-  },
-  {
-   "id": "cc006a4c71b47b7a",
-   "title": "Kocaeli’deki 35 metrekarelik hastane kantini için bu para isteniyor! O tarihi kaçırmayın",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWdxZVR0SDRJLTZmSlkzYnlJeS01T192T3p4aDF6VDJBQUl6N05SSDJjdl96VzdGZTduZTJTcHc0YTY5ckM4cEFJcnFpSXpKQ1l5ZlltQV9hS2xJejYwdVlNall1ZmVjWEtDT21INWotUG5iazI0LVZObFVEWXdqLUFSX0lsYXpwRFRLRm56aUtWQXBBNXdyQWZOQkxLbWlFZmNNUWJNc1hLVFFxZmJISDZ5b3E2T19KeDNjV05MR1VSZzdVYWVkd2hYMFg?oc=5",
-   "source": "Nokta Gazetesi",
-   "published": "2026-10-31T06:27:55Z",
    "image": null,
    "hospitals": []
   }
