@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:13:39Z",
+ "updated": "2026-11-26T12:50:44Z",
  "items": [
   {
    "id": "5575d53db9ca5041",
@@ -661,6 +661,16 @@
    ]
   },
   {
+   "id": "8c5f9dbd515c7e5b",
+   "title": "Kocaeli'de giyim tartışması kanlı bitti! Bıçakladığı babası hastanelik oldu",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVhjMXhsX1Rab3NNbWVjS19qN05lUUprZ195SHUyZ3dRbHI2VVA5N2lNRmhMaXRwNW11dW4yQzA5anlaTThhaUx6dW81M0FJOVdIdm9PY2tYRXF3dmxsWU9GTXhYZGxhVVYtREN2SmMzNHN1V1FBR3M3anZ5WnRYcjN1R2RfQnlWcW01b1N3NjdfVkZ5SW9NcFM0QWluQjJEV19kbFVjbW9IYnlHMnd3MnNsM3E?oc=5",
+   "source": "İşçi Haber",
+   "published": "2026-11-22T14:57:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
    "id": "ef5c1d2dd84c0d91",
    "title": "Gebze Cezaevi önünden çağrı: Hasta kadın tutsaklar serbest bırakılsın",
    "summary": null,
@@ -873,6 +883,18 @@
    "published": "2026-11-21T06:43:00Z",
    "image": null,
    "hospitals": []
+  },
+  {
+   "id": "f95e7108bb3a0fb6",
+   "title": "Çayırova Devlet Hastanesi'nin Çalışmalarında Son Durum",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQlVTRktGSEwxcXU4NG9GR1plOUdLRDg1eTRWTDhKWXNkTExtQ3N3eUx1Y3RkMVpBOWZHZGxTZTBTdTN2VXlQdlBLVzJFMTZXTTNDN2dqbmZLWnhPbWdrZmNZUGFudF9iazl1U2JueFNiUUxXdkZwSVhGX3hFOXJnNXUxUlJXbnA0eVlLR3ZOVTloZw?oc=5",
+   "source": "Kocaeli TV",
+   "published": "2026-11-21T06:27:00Z",
+   "image": null,
+   "hospitals": [
+    "Çayırova Devlet Hastanesi"
+   ]
   },
   {
    "id": "cd899fb338c618ab",
@@ -4399,26 +4421,6 @@
    "hospitals": [
     "Körfez Devlet Hastanesi"
    ]
-  },
-  {
-   "id": "57f474ecfa5e0289",
-   "title": "Kocaeli'nde Özel Hastanede Doğum Fiyatı Krizi: 48 Bin TL'lik Anlaşma 73 Bin TL'ye Çıkarıldı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVcwaTBmLWFXaUhDS0tyLXkyYXlBWmY1X21USVJHUWVHRmRVSUE2ZXFDdGVicUJ5Z3Z4UXZwdFFGajY4TlgxLUc1b2k3VVVqdXdobVdIWDFzQ1dHZnBIZ1VCUmE3b3Fld1J1NVkxcEY2eGNpVzJqQmJnMU5IUkQ2VjhLNExiQm9QTnAtU1ItdnlKWWVIX0RtSmFSdzZpZktmVGU5MGlrMFJsZ2lIT19XUkkwRzZ5MC14djFpdG1fYU9VNUdGTW41elBQUi1QUXVSaklPMNIB1AFBVV95cUxPLVcwaTBmLWFXaUhDS0tyLXkyYXlBWmY1X21USVJHUWVHRmRVSUE2ZXFDdGVicUJ5Z3Z4UXZwdFFGajY4TlgxLUc1b2k3VVVqdXdobVdIWDFzQ1dHZnBIZ1VCUmE3b3Fld1J1NVkxcEY2eGNpVzJqQmJnMU5IUkQ2VjhLNExiQm9QTnAtU1ItdnlKWWVIX0RtSmFSdzZpZktmVGU5MGlrMFJsZ2lIT19XUkkwRzZ5MC14djFpdG1fYU9VNUdGTW41elBQUi1QUXVSaklPMA?oc=5",
-   "source": "Kocaeli Halk Gazetesi",
-   "published": "2026-10-31T10:48:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "22d182df2df6248a",
-   "title": "Kocaeli'de 400 kadın çalışanla buluştular! Uzman doktorlardan meme kanseri uyarısı",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRWpYY0hBUWhVQlVhSDQtOEppUHZwUVdfQzU5Smg4OWN3RUNnMWk4WmNBbGt1dWdGMHNMejAxVXhlZVN0SmthQWFaWG5nOGlBZ0xtempvTFNzWGRqOHBsc1ViZDdadUpWVXFsX21uVGdfOVpOVHN4QXpueDFEMk1LRENrZXpRbGEyX3R6MjNUa25TaF9GNF9HTG1IUTc3UFhYNUg4aGNwaE1MTDBDR1JuaDFPb1k3NmRGbGtKaHotTUJqZWxFSVlTemdn0gHPAUFVX3lxTE1CMHFRT2NWQW0zRWRhM1I5WFU1ZjVRTXJ5bkpHV3VMOFlsVFh0QzF0WFVoZzdUY3REVFFpOTZFU3VWTGNBWGRVZHA3NUdMaDhQTG85X3N6ZnBnRW1ZcFVRTlhfRzAxOXlXeElIaTRVRGtiNFBDUUxOQ3ppRU1PWmdBd2tUbktmcVpzVWkybXBjVGNfdWRxUlUyc1k1NV95QVhqcUdVM1I0VThhdERuZXBYS3lqSXF6dW81ZGlZcjBBWHA2UnZZaktkUFdHNVFWdw?oc=5",
-   "source": "Kocaeli Gazetesi",
-   "published": "2026-10-31T09:11:00Z",
-   "image": null,
-   "hospitals": []
   }
  ]
 }
