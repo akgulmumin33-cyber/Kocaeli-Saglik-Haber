@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-27T22:37:32Z",
+ "updated": "2026-11-28T04:14:28Z",
  "items": [
+  {
+   "id": "eb8f8c5b5d52195f",
+   "title": "Darıca Farabi Eğitim ve Araştırma Hastanesinde Hekimlere Yönelik GETAT Sertifika Yenileme Sınavı Başvurusu",
+   "summary": null,
+   "link": "https://kocaeliism.saglik.gov.tr/TR-396679/darica-farabi-egitim-ve-arastirma-hastanesinde-hekimlere-yonelik-getat-sertifika-yenileme-sinavi-basvurusu.html",
+   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
+   "published": "2026-11-28T04:14:28Z",
+   "image": null,
+   "hospitals": [
+    "Darıca Farabi EAH"
+   ]
+  },
   {
    "id": "975474dbbc99c9a8",
    "title": "Gebze Fatih Devlet Hastanesi otoparkında temizlik ve güvenlik tartışması",
@@ -212,6 +224,16 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeFJpcV9hZjh6bUQyRm4yNkVoZzNFOEQ3U1Vtdll0d0VvUGg5eHp4ZUowWFFhUERmV09rSGsyQ241aFZkVWRWODRqcExqT3VOVi1Nd19EeVR6emVNUWJHN3BnMHFVN1NtMUNuT2VrNHRQX19VQUYxWkpQME40eTJaZnVvS3NqNFFEZWpJbDF1cS1yVU9KZnIxejhfSlY2c1NJQ2xNV0paTmg1T1QyaTdtRzlCSmRydw?oc=5",
    "source": "Kocaeli Barış Gazetesi",
    "published": "2026-11-27T08:08:00Z",
+   "image": null,
+   "hospitals": []
+  },
+  {
+   "id": "e8b6dccf0196c5b4",
+   "title": "Kocaeli Büyükşehir Belediye Başkanı Büyükakın, safra kesesi ameliyatı geçirdi",
+   "summary": null,
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0lpekVUOVU2RFlGT2VGTXdzcjB5WHFiUU5OaGpOWlB5T0dvczh1Y1NqS215V0VrQl9sVVhNUEMyWlk4UmJXTkU1MEk5b0hBVkJXS2t6YmhjdVpuREJBZ2pFRW1LWFY1YTdnME5fcUhrSEZBcXBTRXQzQWdfeGFXVE9vcXctSFlMWnU0aldtMGV5T1pIaUHSAZYBQVVfeXFMTk9JaXpFVDlVNkRZRk9lRk13c3IweVhxYlFOTmhqTlpQeU9Hb3M4dWNTaktteVdFa0JfbFVYTVBDMlpZOFJiV05FNTBJOW9IQVZCV0tremJoY3VabkRCQWdqRUVtS1hWNWE3ZzBOX3FIa0hGQXFwU0V0M0FnX3hhV1RPb3F3LUhZTFp1NGpXbTBleU9aSGlB?oc=5",
+   "source": "Son Dakika",
+   "published": "2026-11-27T08:06:53Z",
    "image": null,
    "hospitals": []
   },
@@ -4381,28 +4403,6 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnpvY3BWS3N4VDdzT1Q0X2otQTBtRXJrWWZqaS1lLVZzMWtYUW5CanRhOUxIRlh3NlVGYWRKdzdqaXY1aWc2Mk80WXVNMHNpMnJqNGxlbkpLV3ZlbnQ4OVBBLUliZEszaFJQMVNEa0ItNjV6dmFwb3cxbmV4b3Q0Vy1nemc3OExGcUpPQXJfb2JfeFhpa0dtMnk0Y1FVdTg?oc=5",
    "source": "Bugün Kocaeli Gazetesi",
    "published": "2026-11-04T16:47:00Z",
-   "image": null,
-   "hospitals": []
-  },
-  {
-   "id": "d1bc47a3a79575fd",
-   "title": "Kocaeli Üniversitesi Hastanesi’nde Organ Bağışı Haftası etkinliği düzenlendi",
-   "summary": null,
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0RWZ1ZncXJOVUhoWXk2U2l0UmJUcURrU3Y5cnlLSktYTjVIemtiVk5WbXZhU1o0aDlSbHNkcVhpRFBSZldpeEZsVUQ2REFNcUJZYms0QkpURy1CT0k5eEZUcHpRZ3NjLVJRb3lrWW1kMl9SOXVFMEkyNUZBcTFaVk0ybVM3VmdOdEg4dldJUVljMnhnV1psNlppMWdHWHBHU3RwMWp5MkxoYmpSbWxvZF9WVnQxTEHSAbwBQVVfeXFMT0pIUEUyX2RoR09fM0NRaTVTRGMwWUdkZUZfOE1PcXRNSUlNcG54Q2RvTm5HN2xXUEQ4d2NKOWRFVUZ0VEQtVmxNMzNPd0Z6ZUpkR19uNnpUNzd5d05WUFllMElFWk8yOUdfWUpJQXhHa0hxZE1pU2Y5LVZmZmp6Ulp0RjBqeU1CVHJjT0ROZWlUbWxkcjczZGk2em5aTHJNU0ZxMzJhenYyd1ZzbkFzQXdFMDlCOHNZMGRaX0o?oc=5",
-   "source": "Bizim Yaka Gazetesi",
-   "published": "2026-11-04T13:57:00Z",
-   "image": null,
-   "hospitals": [
-    "KOÜ Hastanesi"
-   ]
-  },
-  {
-   "id": "3fb5dc0557f72930",
-   "title": "Aile Hekimliği Uygulaması 2026/11. Ek Yerleştirme - Eklenme Tarihi : 04 Kasım 2026",
-   "summary": null,
-   "link": "https://kocaeliism.saglik.gov.tr/TR-396824/aile-hekimligi-uygulamasi-202611-ek-yerlestirme---eklenme-tarihi--04-kasim-2026.html",
-   "source": "Kocaeli İl Sağlık Müdürlüğü (Duyuru)",
-   "published": "2026-11-04T12:50:08Z",
    "image": null,
    "hospitals": []
   }
